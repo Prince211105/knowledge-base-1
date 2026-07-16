@@ -1,0 +1,73 @@
+{
+  "title": "Seven Core Sections of a Project Initiation Document (PID)",
+  "slug": "steps-to-create-pid",
+  "summary": "Outlines the seven essential sections that make up a complete Project Initiation Document, providing a clear framework for project governance and stakeholder alignment.",
+  "content": "The seven steps are: 1) Provide the Context, 2) Define the Project Parameters, 3) Define the Specifics, 4) Define the Project Breakdown Structure and Resourcing Plan, 5) Define Who’s Who (team & RACI), 6) Identify Risks, Assumptions, Issues, and Dependencies, 7) Share the PID with stakeholders.",
+  "keywords": [
+    "Project Initiation Document",
+    "PID sections",
+    "project governance",
+    "project planning checklist",
+    "project documentation"
+  ],
+  "tags": [
+    "project-initiation",
+    "documentation",
+    "pm-process",
+    "project-management"
+  ],
+  "related_topics": [
+    "provide-context",
+    "define-project-parameters",
+    "define-specifics",
+    "project-breakdown-and-resourcing",
+    "define-whos-who",
+    "identify-risks-assumptions-issues-dependencies",
+    "share-pid"
+  ],
+  "parent_topic": null,
+  "difficulty": "Intermediate",
+  "category": "Project Management",
+  "prerequisites": [
+    "definition-of-project-initiation-document-pid"
+  ],
+  "can_answer": [
+    "What sections should be included in a PID?",
+    "How can I structure a Project Initiation Document?"
+  ],
+  "examples": [],
+  "warnings": [
+    "Omitting any of the seven sections can lead to gaps in project governance."
+  ],
+  "limitations": [],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "provide-context"
+    },
+    {
+      "type": "contains",
+      "target": "define-project-parameters"
+    },
+    {
+      "type": "contains",
+      "target": "define-specifics"
+    },
+    {
+      "type": "contains",
+      "target": "project-breakdown-and-resourcing"
+    },
+    {
+      "type": "contains",
+      "target": "define-whos-who"
+    },
+    {
+      "type": "contains",
+      "target": "identify-risks-assumptions-issues-dependencies"
+    },
+    {
+      "type": "contains",
+      "target": "share-pid"
+    }
+  ]
+}
