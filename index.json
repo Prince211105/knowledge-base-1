@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "name": "Knowledge Base",
+  "description": "Open Knowledge Format Index",
+  "created_at": "2026-07-16T00:00:00Z",
+  "total_topics": 1,
+  "topics": [
+    {
+      "title": "Project Initiation Document (PID): Definition and Core Contents",
+      "slug": "definition-project-initiation-document-pid",
+      "summary": "A Project Initiation Document (PID) outlines a project's purpose, scope, governance, success criteria, stakeholders, and constraints.",
+      "category": "Project Management > Initiation",
+      "difficulty": "beginner",
+      "keywords": [
+        "Project Initiation Document",
+        "PID",
+        "project charter",
+        "project scope"
+      ],
+      "tags": [
+        "definition",
+        "project-management",
+        "initiation"
+      ],
+      "topic_file": "topics/definition-project-initiation-document-pid.md",
+      "metadata_file": "metadata/definition-project-initiation-document-pid.json"
+    }
+  ]
+}
