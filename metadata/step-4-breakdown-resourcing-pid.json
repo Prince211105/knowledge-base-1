@@ -1,0 +1,42 @@
+{
+  "title": "Step 4 – Build a Project Breakdown Structure (PBS) and Resource Allocation Plan",
+  "slug": "step-4-breakdown-resourcing-pid",
+  "summary": "Learn how to break a project into work packages, define activities, estimate effort, schedule dates, and map resources to avoid overallocation and hidden dependencies.",
+  "content": "A Project Breakdown Structure (PBS) divides the project into work packages or phases. For each package, assign:\n- Specific activities or tasks.\n- Responsible team members or roles.\n- Estimated effort (hours/days).\n- Start and end dates (linked to the timeline).\nThe accompanying resource allocation plan shows who is allocated where, highlighting any overallocation or gaps. Running the draft through the team encourages feedback, uncovers hidden dependencies, and builds ownership.\n",
+  "keywords": [
+    "project breakdown structure",
+    "PBS",
+    "work packages",
+    "resource allocation",
+    "resource planning",
+    "dependency mapping",
+    "task estimation",
+    "project scheduling"
+  ],
+  "tags": [
+    "project planning",
+    "breakdown structure",
+    "resource management",
+    "project initiation"
+  ],
+  "related_topics": [
+    "step-3-define-specifics-pid",
+    "example-high-level-breakdown",
+    "step-5-create-timeline-pid",
+    "resource-management-basics"
+  ],
+  "parent_topic": null,
+  "difficulty": "intermediate",
+  "category": "Project Management > Initiation > Steps",
+  "prerequisites": [
+    "step-3-define-specifics-pid"
+  ],
+  "can_answer": "What are the steps to create a Project Breakdown Structure and resource allocation plan for a Project Initiation Document?",
+  "examples": [
+    "Phase 1 – Discovery: 1 PM (40 h), 1 UX Designer (30 h), 1 Business Analyst (20 h)."
+  ],
+  "warnings": [
+    "Over‑allocating resources without checking capacity leads to burnout and delays."
+  ],
+  "limitations": []
+}
