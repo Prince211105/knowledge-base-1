@@ -1,0 +1,33 @@
+{
+  "title": "Sample RACI Chart for a Project Initiation Document (PID)",
+  "slug": "example-raci-chart",
+  "summary": "A concrete RACI matrix used in a PID, mapping key deliverables to internal and external roles with responsibility assignments.",
+  "content": "Sample RACI Matrix:\n| Deliverable / Activity | Project Manager | UX Designer | Developer | Client PM | Art Director |\n|------------------------|------------------|------------|-----------|----------|--------------|\n| Project Charter        | A                | C          | I         | R        | I            |\n| UI Mockups             | C                | R/A        | I         | C        | I            |\n| Functional Specs       | R                | C          | C         | A        | I            |\n| Final Build            | I                | I          | R/A       | C        | C            |\n| Client Acceptance      | C                | I          | I         | A/R      | I            |\n\n**Key:** R – Responsible, A – Accountable, C – Consulted, I – Informed.\n",
+  "keywords": [
+    "RACI chart example",
+    "PID RACI matrix",
+    "responsibility assignment",
+    "project initiation document",
+    "RACI roles"
+  ],
+  "tags": [
+    "example",
+    "RACI",
+    "governance",
+    "project-management",
+    "initiation"
+  ],
+  "related_topics": [
+    "step-5-raci-matrix-pid"
+  ],
+  "parent_topic": null,
+  "difficulty": "intermediate",
+  "category": "Project Management > Initiation > Examples",
+  "prerequisites": [
+    "step-5-raci-matrix-pid"
+  ],
+  "can_answer": "Can you provide an example RACI chart used in a Project Initiation Document?",
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
