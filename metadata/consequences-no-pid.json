@@ -1,0 +1,37 @@
+{
+  "title": "Risks of Skipping the Project Initiation Document (PID)",
+  "slug": "consequences-no-pid",
+  "summary": "Omitting a Project Initiation Document leaves projects without a clear baseline, leading to misaligned expectations, frequent re‑work, bottlenecks, and higher chances of missed deadlines and budget overruns.",
+  "content": "Projects that begin without a PID frequently experience:\n- Misaligned understanding of client needs.\n- Frequent clarification requests and duplicated tickets.\n- Unclear decision‑making authority, causing bottlenecks.\n- Difficulty onboarding new resources.\n- Increased risk of missed deadlines and budget overruns.\nThese issues stem from the lack of a documented baseline for scope, responsibilities, and success criteria.",
+  "keywords": [
+    "project initiation document",
+    "PID",
+    "scope creep",
+    "miscommunication",
+    "project risk",
+    "documentation gaps",
+    "budget overrun",
+    "deadline risk"
+  ],
+  "tags": [
+    "project-management",
+    "initiation",
+    "risk",
+    "documentation",
+    "pitfalls"
+  ],
+  "related_topics": [
+    "importance-project-initiation-document",
+    "project-initiation-document-template",
+    "defining-project-scope",
+    "project-risk-management"
+  ],
+  "parent_topic": null,
+  "difficulty": "beginner",
+  "category": "Project Management > Initiation",
+  "prerequisites": [],
+  "can_answer": "What problems can occur if a Project Initiation Document is not created?",
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
