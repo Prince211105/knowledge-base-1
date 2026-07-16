@@ -1,0 +1,42 @@
+{
+  "title": "Step 6: Document Risks, Assumptions, Issues, and Dependencies",
+  "slug": "step-6-risks-assumptions-issues-dependencies-pid",
+  "summary": "Identify and record project risks, assumptions, current issues, and external dependencies, adding probability, impact, and mitigation or resolution actions to enable proactive management.",
+  "content": "Create a concise table or list that captures:\n- **Risks**: Potential events that could affect success, with probability, impact, and mitigation strategy.\n- **Assumptions**: Planning premises taken as true (e.g., client provides assets within five days).\n- **Issues**: Existing problems requiring resolution.\n- **Dependencies**: Tasks that rely on external inputs or other project phases.\nThis overview supports clear stakeholder communication and early action.\n",
+  "keywords": [
+    "risk register",
+    "risk assessment",
+    "mitigation plan",
+    "project assumptions",
+    "issue tracking",
+    "dependency tracking",
+    "project risks",
+    "assumptions log",
+    "issues log",
+    "dependencies"
+  ],
+  "tags": [
+    "step-by-step",
+    "initiation",
+    "risk-management",
+    "project-planning"
+  ],
+  "related_topics": [
+    "step-5-raci-matrix-pid",
+    "importance-project-initiation-document"
+  ],
+  "parent_topic": null,
+  "difficulty": "intermediate",
+  "category": "Project Management > Initiation > Steps",
+  "prerequisites": [
+    "step-5-raci-matrix-pid"
+  ],
+  "can_answer": "What information belongs in the Risks, Assumptions, Issues, and Dependencies section of a Project Initiation Document?",
+  "examples": [
+    "Risk: Vendor API may change during development – Mitigation: Allocate a 10 % buffer for integration testing."
+  ],
+  "warnings": [
+    "Including risks without associated mitigation actions reduces the usefulness of the register."
+  ],
+  "limitations": []
+}
