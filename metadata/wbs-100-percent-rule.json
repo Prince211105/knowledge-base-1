@@ -1,0 +1,41 @@
+{
+  "title": "Understanding the 100% Rule for Work Breakdown Structure (WBS) Decomposition",
+  "slug": "wbs-100-percent-rule",
+  "summary": "The 100% rule requires that every level of a Work Breakdown Structure fully represents the entire scope of its parent element, with no omitted or duplicated work. Applying this rule guarantees complete coverage of project deliverables at each decomposition tier.",
+  "content": "The 100% rule states that each level of decomposition must capture 100% of the scope of its parent deliverable. No work should be omitted, and no deliverable should be double‑counted across different legs. This rule ensures that the total of all child items equals the full scope of the parent.",
+  "keywords": [
+    "100% rule",
+    "WBS",
+    "work breakdown structure",
+    "scope completeness",
+    "project scope",
+    "decomposition"
+  ],
+  "tags": [
+    "WBS",
+    "rule",
+    "scope-management",
+    "project-management"
+  ],
+  "related_topics": [
+    "guidelines-for-effective-wbs",
+    "wbs-hierarchy",
+    "wbs-principles",
+    "scope-management"
+  ],
+  "parent_topic": null,
+  "difficulty": "Easy",
+  "category": "Rule",
+  "prerequisites": [
+    "characteristics-of-wbs"
+  ],
+  "can_answer": [
+    "What is the 100% rule in a WBS?",
+    "How does the 100% rule ensure complete scope coverage?"
+  ],
+  "examples": [],
+  "warnings": [
+    "Violating the rule can cause scope gaps or duplication."
+  ],
+  "limitations": []
+}
