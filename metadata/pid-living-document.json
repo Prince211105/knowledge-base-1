@@ -1,0 +1,39 @@
+{
+  "title": "Updating the Project Initiation Document (PID) Throughout the Project Lifecycle",
+  "slug": "pid-living-document",
+  "summary": "Describes why and how a PID should be regularly revised when scope, resources, or risks change, keeping it a reliable source of truth for the project team.",
+  "content": "Treat the PID as a living document that is updated when scope changes, resources shift, or new risks emerge. Keeping the PID current provides a single source of truth, ensuring all stakeholders have accurate project context, goals, and responsibilities without re‑creating documentation from scratch.",
+  "keywords": [
+    "PID update",
+    "project initiation document",
+    "living document",
+    "scope change",
+    "risk management",
+    "resource adjustment"
+  ],
+  "tags": [
+    "project-management",
+    "knowledge-management",
+    "documentation",
+    "project-life-cycle"
+  ],
+  "related_topics": [
+    "importance-of-pid",
+    "share-pid",
+    "pid-maintenance"
+  ],
+  "parent_topic": null,
+  "difficulty": "beginner",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "Can a PID be updated after the project starts?"
+  ],
+  "examples": [],
+  "warnings": [
+    "Neglecting to update the PID can lead to outdated information being propagated."
+  ],
+  "limitations": []
+}
