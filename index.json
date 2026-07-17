@@ -1,0 +1,254 @@
+{
+  "version": "1.0",
+  "created_at": "2026-07-17T09:58:01.921Z",
+  "total_topics": 12,
+  "topics": [
+    {
+      "title": "Project Initiation Document (PID) Definition",
+      "slug": "project-initiation-document-definition",
+      "summary": "Defines what a Project Initiation Document (PID) is and its core components.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "PID",
+        "Project Initiation Document",
+        "definition",
+        "project scope",
+        "success criteria"
+      ],
+      "tags": [
+        "definition",
+        "project-management",
+        "documentation"
+      ],
+      "topic_file": "topics/project-initiation-document-definition.md",
+      "metadata_file": "metadata/project-initiation-document-definition.json"
+    },
+    {
+      "title": "Importance of a Project Initiation Document",
+      "slug": "importance-of-pid",
+      "summary": "Explains why creating a PID is critical for project success.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "importance",
+        "benefits",
+        "project success",
+        "alignment",
+        "risk mitigation"
+      ],
+      "tags": [
+        "benefits",
+        "project-management",
+        "risk-management"
+      ],
+      "topic_file": "topics/importance-of-pid.md",
+      "metadata_file": "metadata/importance-of-pid.json"
+    },
+    {
+      "title": "Alternative Names and Methodology Links for PID",
+      "slug": "alternative-names-and-methodology",
+      "summary": "Maps PID to related artifacts like Project Charter, Project Brief, and Prince2.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "Project Charter",
+        "Project Brief",
+        "PRINCE2",
+        "methodology",
+        "artifact"
+      ],
+      "tags": [
+        "terminology",
+        "methodology",
+        "project-management"
+      ],
+      "topic_file": "topics/alternative-names-and-methodology.md",
+      "metadata_file": "metadata/alternative-names-and-methodology.json"
+    },
+    {
+      "title": "Seven Steps to Create a Project Initiation Document",
+      "slug": "7-steps-create-pid",
+      "summary": "Overview of the seven essential steps for building a PID.",
+      "category": "Project Management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "steps",
+        "process",
+        "PID creation",
+        "project initiation",
+        "guide"
+      ],
+      "tags": [
+        "process",
+        "project-management",
+        "guide"
+      ],
+      "topic_file": "topics/7-steps-create-pid.md",
+      "metadata_file": "metadata/7-steps-create-pid.json"
+    },
+    {
+      "title": "Step 1 – Provide the Context in a PID",
+      "slug": "provide-context",
+      "summary": "Guidance on capturing business drivers, goals, and strategic vision.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "context",
+        "business drivers",
+        "project goals",
+        "mission statement",
+        "strategic vision"
+      ],
+      "tags": [
+        "context",
+        "project-management",
+        "planning"
+      ],
+      "topic_file": "topics/provide-context.md",
+      "metadata_file": "metadata/provide-context.json"
+    },
+    {
+      "title": "Step 2 – Define the Project Parameters",
+      "slug": "define-project-parameters",
+      "summary": "Details how to capture budget, timeline, and collaboration expectations.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "budget",
+        "timeline",
+        "constraints",
+        "collaboration",
+        "milestones"
+      ],
+      "tags": [
+        "budgeting",
+        "scheduling",
+        "project-management"
+      ],
+      "topic_file": "topics/define-project-parameters.md",
+      "metadata_file": "metadata/define-project-parameters.json"
+    },
+    {
+      "title": "Step 3 – Define the Specifics (Scope and Deliverables)",
+      "slug": "define-specifics",
+      "summary": "Outlines how to document in‑scope, out‑of‑scope, requirements, and deliverables.",
+      "category": "Project Management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "scope",
+        "in‑scope",
+        "out‑of‑scope",
+        "deliverables",
+        "requirements"
+      ],
+      "tags": [
+        "scope-management",
+        "project-management"
+      ],
+      "topic_file": "topics/define-specifics.md",
+      "metadata_file": "metadata/define-specifics.json"
+    },
+    {
+      "title": "Step 4 – Project Breakdown Structure and Resourcing Plan",
+      "slug": "project-breakdown-and-resourcing",
+      "summary": "Explains how to create a work breakdown structure and assign resources.",
+      "category": "Project Management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "work breakdown structure",
+        "PBS",
+        "resource allocation",
+        "dependencies",
+        "planning"
+      ],
+      "tags": [
+        "planning",
+        "resource-management",
+        "project-management"
+      ],
+      "topic_file": "topics/project-breakdown-and-resourcing.md",
+      "metadata_file": "metadata/project-breakdown-and-resourcing.json"
+    },
+    {
+      "title": "Step 5 – Define Who’s Who with a RACI Chart",
+      "slug": "define-whos-who",
+      "summary": "Guidance on creating a RACI matrix to clarify roles and responsibilities.",
+      "category": "Project Management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "RACI",
+        "roles",
+        "responsibility matrix",
+        "accountability",
+        "communication"
+      ],
+      "tags": [
+        "roles",
+        "communication",
+        "project-management"
+      ],
+      "topic_file": "topics/define-whos-who.md",
+      "metadata_file": "metadata/define-whos-who.json"
+    },
+    {
+      "title": "Step 6 – Identify Risks, Assumptions, Issues, and Dependencies",
+      "slug": "identify-risks",
+      "summary": "Describes how to capture potential problems and mitigation strategies.",
+      "category": "Project Management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "risk management",
+        "assumptions",
+        "issues",
+        "dependencies",
+        "mitigation"
+      ],
+      "tags": [
+        "risk-management",
+        "project-management"
+      ],
+      "topic_file": "topics/identify-risks.md",
+      "metadata_file": "metadata/identify-risks.json"
+    },
+    {
+      "title": "Step 7 – Share and Sign‑off the Project Initiation Document",
+      "slug": "share-pid",
+      "summary": "Best practices for distributing the PID and obtaining stakeholder approval.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "distribution",
+        "sign‑off",
+        "stakeholder communication",
+        "document management"
+      ],
+      "tags": [
+        "communication",
+        "documentation",
+        "project-management"
+      ],
+      "topic_file": "topics/share-pid.md",
+      "metadata_file": "metadata/share-pid.json"
+    },
+    {
+      "title": "PID as a Living Document and Onboarding Tool",
+      "slug": "pid-living-document",
+      "summary": "Explains how a PID can evolve and support new team members.",
+      "category": "Project Management",
+      "difficulty": "beginner",
+      "keywords": [
+        "living document",
+        "onboarding",
+        "continuous update",
+        "project knowledge base"
+      ],
+      "tags": [
+        "knowledge-management",
+        "project-management"
+      ],
+      "topic_file": "topics/pid-living-document.md",
+      "metadata_file": "metadata/pid-living-document.json"
+    }
+  ]
+}
