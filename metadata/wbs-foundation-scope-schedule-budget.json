@@ -1,0 +1,50 @@
+{
+  "title": "How the WBS Underpins Scope, Schedule, and Budget Management",
+  "slug": "wbs-foundation-scope-schedule-budget",
+  "summary": "Describes how a complete Work Breakdown Structure serves as the basis for scope verification, schedule creation, and cost estimation, and how changes to the WBS cascade to project plans.",
+  "content": "Because the WBS captures 100% of the deliverable scope, it serves as the baseline for scope verification and change control. The schedule and budget are built by translating each leaf deliverable into activities, estimating durations, resources, and costs. Change requests that modify scope update the WBS first, which then cascades to schedule and budget adjustments, ensuring alignment across all project artifacts.",
+  "keywords": [
+    "Work Breakdown Structure",
+    "WBS",
+    "scope verification",
+    "cost estimating",
+    "schedule development",
+    "change control",
+    "budget baseline",
+    "project planning"
+  ],
+  "tags": [
+    "WBS",
+    "scope management",
+    "schedule management",
+    "budget management",
+    "project management"
+  ],
+  "related_topics": [
+    "transition-from-wbs-to-schedule",
+    "wbs-100-percent-rule",
+    "wbs-to-activity-mapping",
+    "cost-estimation-from-wbs"
+  ],
+  "parent_topic": null,
+  "difficulty": "Medium",
+  "category": "Concept",
+  "prerequisites": [
+    "definition-of-wbs",
+    "characteristics-of-wbs"
+  ],
+  "can_answer": [
+    "Why is the WBS considered the foundation for schedule and budget?",
+    "How does a WBS support cost estimating?",
+    "What steps are needed to update the schedule after a WBS change?"
+  ],
+  "examples": [
+    "When a new deliverable is added to the WBS, corresponding activities, durations, and budget items are created, automatically reflecting the change in the project schedule and cost baseline."
+  ],
+  "warnings": [
+    "If the WBS does not capture 100% of the deliverable scope, downstream schedule and budget calculations may be incomplete or inaccurate."
+  ],
+  "limitations": [
+    "The WBS defines deliverables and activities but does not assign specific resources or detailed execution sequences."
+  ]
+}
