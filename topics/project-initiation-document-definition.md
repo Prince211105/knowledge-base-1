@@ -1,0 +1,58 @@
+---
+title: What Is a Project Initiation Document (PID)?
+slug: project-initiation-document-definition
+
+summary: An overview of the Project Initiation Document (PID), its purpose, and the key elements it contains to align project teams and stakeholders.
+
+category: Project Management
+difficulty: beginner
+
+tags:
+  - definition
+  - project-management
+  - documentation
+  - project-initiation
+
+keywords:
+  - PID
+  - Project Initiation Document
+  - definition
+  - project scope
+  - success criteria
+  - project objectives
+  - team structure
+  - deliverables
+
+related_topics:
+  - importance-of-pid
+  - alternative-names-and-methodology
+  - 7-steps-create-pid
+
+prerequisites:
+
+
+parent_topic: 
+
+---
+
+# What Is a Project Initiation Document (PID)?
+
+A Project Initiation Document (PID) is a formal document that outlines the project's scope, management approach, and success criteria. It captures essential information such as context, objectives, team structure, collaboration methods, and high‑level deliverables. The PID serves as both an internal guide for the project team and a communication artifact for external stakeholders, ensuring everyone has a shared understanding of the project's purpose and parameters.
+
+## Can Answer
+
+- What is a Project Initiation Document?
+- What components are included in a PID?
+- How does a PID help project teams?
+
+## Examples
+
+
+
+## Warnings
+
+
+
+## Limitations
+
+
