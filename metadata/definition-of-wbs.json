@@ -1,0 +1,38 @@
+{
+  "title": "PMI Definition of Work Breakdown Structure (WBS)",
+  "slug": "definition-of-wbs",
+  "summary": "The Project Management Institute defines a Work Breakdown Structure (WBS) as a hierarchical decomposition of the total project scope into deliverables and work packages needed to achieve project objectives.",
+  "content": "A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables (PMI, 2013, p.126). It represents all deliverables—final product, service, or process—and any intermediate methodology outputs needed to manage the project effort.",
+  "keywords": [
+    "PMI WBS definition",
+    "work breakdown structure definition",
+    "hierarchical scope decomposition",
+    "project deliverables",
+    "WBS hierarchy"
+  ],
+  "tags": [
+    "definition",
+    "WBS",
+    "PMI",
+    "project management",
+    "scope"
+  ],
+  "related_topics": [
+    "purpose-of-wbs",
+    "characteristics-of-wbs",
+    "components-of-wbs",
+    "levels-of-wbs"
+  ],
+  "parent_topic": null,
+  "difficulty": "Easy",
+  "category": "Definition",
+  "prerequisites": [],
+  "can_answer": [
+    "What is a Work Breakdown Structure according to PMI?",
+    "How does PMI define a WBS?",
+    "How is a WBS described in the PMBOK Guide?"
+  ],
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
