@@ -1,0 +1,43 @@
+{
+  "title": "Key Characteristics of an Effective Work Breakdown Structure (WBS)",
+  "slug": "characteristics-of-wbs",
+  "summary": "Outlines the fundamental attributes that make a Work Breakdown Structure clear, complete, and useful for project planning.",
+  "content": "An effective WBS: (1) Represents all deliverables for the project outcome (product, service, or process); (2) Is hierarchical, with parent‑child relationships that increase granularity; (3) Uses noun phrases only; (4) Follows the 100% rule, capturing 100% of each parent’s scope; (5) Is agreed upon by all stakeholders; (6) May include separate methodology deliverables if desired; (7) Remains agnostic to timing, effort, and cost.",
+  "keywords": [
+    "Work Breakdown Structure",
+    "WBS characteristics",
+    "100% rule",
+    "hierarchical structure",
+    "noun‑phrase naming",
+    "deliverable orientation",
+    "stakeholder agreement",
+    "scope completeness"
+  ],
+  "tags": [
+    "WBS",
+    "project management",
+    "scope management",
+    "best practices",
+    "characteristics"
+  ],
+  "related_topics": [
+    "guidelines-for-effective-wbs",
+    "wbs-hierarchy",
+    "wbs-basics",
+    "project-scope-definition",
+    "wbs-development-process"
+  ],
+  "parent_topic": null,
+  "difficulty": "Easy",
+  "category": "Best Practices",
+  "prerequisites": [
+    "definition-of-wbs"
+  ],
+  "can_answer": [
+    "What are the essential characteristics of a good Work Breakdown Structure?",
+    "How should a WBS be structured to ensure completeness and clarity?"
+  ],
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
