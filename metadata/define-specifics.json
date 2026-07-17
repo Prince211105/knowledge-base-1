@@ -1,0 +1,42 @@
+{
+  "title": "Define Project Scope and Deliverables (Step 3)",
+  "slug": "define-specifics",
+  "summary": "Guidance for documenting what is included and excluded from the project, listing required deliverables, and stating assumptions, constraints, and revision limits within the Project Initiation Document.",
+  "content": "Specify what is included and excluded from the project (in‑scope vs. out‑of‑scope). List any initial requirements already defined and outline project boundaries that must not be crossed. Clearly enumerate deliverables, assumptions, and constraints such as the number of revision cycles permitted.",
+  "keywords": [
+    "project scope",
+    "in‑scope",
+    "out‑of‑scope",
+    "deliverables",
+    "project requirements",
+    "assumptions",
+    "constraints",
+    "revision cycles",
+    "scope statement"
+  ],
+  "tags": [
+    "scope-management",
+    "deliverables",
+    "project-management",
+    "project-planning"
+  ],
+  "related_topics": [
+    "7-steps-create-pid"
+  ],
+  "parent_topic": "7-steps-create-pid",
+  "difficulty": "intermediate",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "How do I define scope and list deliverables in a Project Initiation Document?"
+  ],
+  "examples": [
+    "In‑Scope: UI redesign, user testing. Out‑of‑Scope: Backend API development."
+  ],
+  "warnings": [
+    "Vague scope statements can cause scope creep."
+  ],
+  "limitations": []
+}
