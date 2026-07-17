@@ -1,291 +1,309 @@
 {
   "version": "1.0",
-  "created_at": "2026-07-16T12:40:27.491Z",
+  "created_at": "2026-07-17T09:07:36.841Z",
   "total_topics": 15,
   "topics": [
     {
-      "title": "Definition of Project Initiation Document (PID)",
-      "slug": "definition-of-project-initiation-document-pid",
-      "summary": "Explains what a Project Initiation Document (PID) is and its core components.",
-      "category": "Project Management",
-      "difficulty": "Basic",
+      "title": "Purpose of the Work Breakdown Structure (WBS)",
+      "slug": "purpose-of-wbs",
+      "summary": "Explains why the WBS is created and what it is used for in project management.",
+      "category": "Concept",
+      "difficulty": "Easy",
       "keywords": [
-        "Project Initiation Document",
-        "PID",
-        "definition",
+        "WBS purpose",
         "project scope",
-        "project management"
+        "deliverables",
+        "project foundation"
+      ],
+      "tags": [
+        "WBS",
+        "purpose",
+        "project-management"
+      ],
+      "topic_file": "topics/purpose-of-wbs.md",
+      "metadata_file": "metadata/purpose-of-wbs.json"
+    },
+    {
+      "title": "Definition of Work Breakdown Structure (WBS)",
+      "slug": "definition-of-wbs",
+      "summary": "Formal definition of a WBS according to PMI.",
+      "category": "Definition",
+      "difficulty": "Easy",
+      "keywords": [
+        "WBS definition",
+        "PMI",
+        "hierarchical decomposition",
+        "project deliverables"
       ],
       "tags": [
         "definition",
-        "project-management",
-        "documentation"
-      ],
-      "topic_file": "topics/definition-of-project-initiation-document-pid.md",
-      "metadata_file": "metadata/definition-of-project-initiation-document-pid.json"
-    },
-    {
-      "title": "Importance of a Project Initiation Document",
-      "slug": "importance-of-pid",
-      "summary": "Describes why a PID is critical for project success and the risks of omitting it.",
-      "category": "Project Management",
-      "difficulty": "Basic",
-      "keywords": [
-        "project success",
-        "project start",
-        "risk mitigation",
-        "PID importance"
-      ],
-      "tags": [
-        "best-practices",
-        "risk-management"
-      ],
-      "topic_file": "topics/importance-of-pid.md",
-      "metadata_file": "metadata/importance-of-pid.json"
-    },
-    {
-      "title": "Alternative Names for Project Initiation Document",
-      "slug": "alternative-names-for-pid",
-      "summary": "Lists other common terms used for a PID across methodologies.",
-      "category": "Project Management",
-      "difficulty": "Basic",
-      "keywords": [
-        "project charter",
-        "project brief",
-        "PID synonyms"
-      ],
-      "tags": [
-        "terminology",
-        "project-management"
-      ],
-      "topic_file": "topics/alternative-names-for-pid.md",
-      "metadata_file": "metadata/alternative-names-for-pid.json"
-    },
-    {
-      "title": "Seven Steps to Create a Project Initiation Document",
-      "slug": "steps-to-create-pid",
-      "summary": "Provides an overview of the seven core sections needed in a PID.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
-        "PID steps",
-        "project initiation process",
-        "project planning"
-      ],
-      "tags": [
-        "process",
-        "workflow",
-        "project-management"
-      ],
-      "topic_file": "topics/steps-to-create-pid.md",
-      "metadata_file": "metadata/steps-to-create-pid.json"
-    },
-    {
-      "title": "Provide the Context",
-      "slug": "provide-context",
-      "summary": "Describes the information needed to set project context in the PID.",
-      "category": "Project Management",
-      "difficulty": "Basic",
-      "keywords": [
-        "project context",
-        "business drivers",
-        "mission statement"
-      ],
-      "tags": [
-        "context",
-        "project-start"
-      ],
-      "topic_file": "topics/provide-context.md",
-      "metadata_file": "metadata/provide-context.json"
-    },
-    {
-      "title": "Define the Project Parameters",
-      "slug": "define-project-parameters",
-      "summary": "Outlines how to document budget, timeline, collaboration, and primary targets.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
-        "budget",
-        "timeline",
-        "project constraints",
-        "collaboration model"
-      ],
-      "tags": [
-        "planning",
-        "budgeting",
-        "scheduling"
-      ],
-      "topic_file": "topics/define-project-parameters.md",
-      "metadata_file": "metadata/define-project-parameters.json"
-    },
-    {
-      "title": "Define the Specifics",
-      "slug": "define-specifics",
-      "summary": "Details how to capture scope, requirements, boundaries, and deliverables.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
-        "scope",
-        "in‑scope",
-        "out‑of‑scope",
-        "deliverables",
-        "assumptions"
-      ],
-      "tags": [
-        "scope-management",
-        "requirements"
-      ],
-      "topic_file": "topics/define-specifics.md",
-      "metadata_file": "metadata/define-specifics.json"
-    },
-    {
-      "title": "Project Breakdown Structure and Resourcing Plan",
-      "slug": "project-breakdown-and-resourcing",
-      "summary": "Explains how to create a Work Breakdown Structure (WBS) and allocate resources.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
         "WBS",
-        "work breakdown structure",
-        "resource allocation",
+        "PMI"
+      ],
+      "topic_file": "topics/definition-of-wbs.md",
+      "metadata_file": "metadata/definition-of-wbs.json"
+    },
+    {
+      "title": "Differences Between WBS and Project Schedule",
+      "slug": "wbs-vs-project-schedule",
+      "summary": "Clarifies how a WBS differs from a schedule in content and purpose.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS vs schedule",
+        "activities vs deliverables",
         "project planning"
       ],
       "tags": [
-        "planning",
-        "resource-management"
+        "WBS",
+        "schedule",
+        "differences"
       ],
-      "topic_file": "topics/project-breakdown-and-resourcing.md",
-      "metadata_file": "metadata/project-breakdown-and-resourcing.json"
+      "topic_file": "topics/wbs-vs-project-schedule.md",
+      "metadata_file": "metadata/wbs-vs-project-schedule.json"
     },
     {
-      "title": "Define Who’s Who (Team Structure & RACI)",
-      "slug": "define-whos-who",
-      "summary": "Shows how to document internal and external team roles and create a RACI matrix.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
+      "title": "Characteristics of an Effective WBS",
+      "slug": "characteristics-of-wbs",
+      "summary": "Describes the key attributes that all WBSs should exhibit.",
+      "category": "Best Practices",
+      "difficulty": "Easy",
       "keywords": [
-        "team roles",
-        "RACI",
-        "responsibility matrix",
-        "stakeholder map"
+        "WBS characteristics",
+        "100% rule",
+        "hierarchical",
+        "noun phrasing"
       ],
       "tags": [
-        "governance",
-        "communication"
+        "WBS",
+        "characteristics",
+        "best-practices"
       ],
-      "topic_file": "topics/define-whos-who.md",
-      "metadata_file": "metadata/define-whos-who.json"
+      "topic_file": "topics/characteristics-of-wbs.md",
+      "metadata_file": "metadata/characteristics-of-wbs.json"
     },
     {
-      "title": "RACI Chart Explanation",
-      "slug": "racichart-explanation",
-      "summary": "Defines the four RACI roles and their purpose in project governance.",
-      "category": "Project Management",
-      "difficulty": "Basic",
+      "title": "Guidelines for Creating an Effective WBS",
+      "slug": "guidelines-for-effective-wbs",
+      "summary": "Step‑by‑step recommendations for building a deliverable‑focused WBS.",
+      "category": "Best Practices",
+      "difficulty": "Easy",
       "keywords": [
-        "RACI",
-        "responsibility matrix",
-        "project governance"
+        "WBS guidelines",
+        "nouns vs verbs",
+        "100% rule",
+        "collaborative building"
       ],
       "tags": [
-        "responsibility",
-        "communication"
-      ],
-      "topic_file": "topics/racichart-explanation.md",
-      "metadata_file": "metadata/racichart-explanation.json"
-    },
-    {
-      "title": "Identify Risks, Assumptions, Issues, and Dependencies",
-      "slug": "identify-risks-assumptions-issues-dependencies",
-      "summary": "Guides how to capture potential project risks and mitigation strategies in the PID.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
-        "risk register",
-        "assumptions",
-        "issues",
-        "dependencies",
-        "mitigation"
-      ],
-      "tags": [
-        "risk-management",
-        "planning"
-      ],
-      "topic_file": "topics/identify-risks-assumptions-issues-dependencies.md",
-      "metadata_file": "metadata/identify-risks-assumptions-issues-dependencies.json"
-    },
-    {
-      "title": "Share the Project Initiation Document",
-      "slug": "share-pid",
-      "summary": "Outlines best practices for distributing, signing off, and maintaining the PID.",
-      "category": "Project Management",
-      "difficulty": "Basic",
-      "keywords": [
-        "document distribution",
-        "sign‑off",
-        "version control",
-        "stakeholder communication"
-      ],
-      "tags": [
-        "communication",
-        "governance"
-      ],
-      "topic_file": "topics/share-pid.md",
-      "metadata_file": "metadata/share-pid.json"
-    },
-    {
-      "title": "Using the PID as a Living Document",
-      "slug": "pid-as-living-document",
-      "summary": "Explains how to keep the PID up‑to‑date throughout the project lifecycle.",
-      "category": "Project Management",
-      "difficulty": "Intermediate",
-      "keywords": [
-        "living document",
-        "document updates",
-        "change management"
-      ],
-      "tags": [
-        "maintenance",
-        "change-management"
-      ],
-      "topic_file": "topics/pid-as-living-document.md",
-      "metadata_file": "metadata/pid-as-living-document.json"
-    },
-    {
-      "title": "When a PID May Not Be Required",
-      "slug": "when-pid-not-required",
-      "summary": "Identifies scenarios where creating a full PID might be unnecessary.",
-      "category": "Project Management",
-      "difficulty": "Basic",
-      "keywords": [
-        "project size",
-        "lightweight brief",
-        "when to skip PID"
-      ],
-      "tags": [
+        "WBS",
         "guidelines",
-        "scope"
+        "best-practices"
       ],
-      "topic_file": "topics/when-pid-not-required.md",
-      "metadata_file": "metadata/when-pid-not-required.json"
+      "topic_file": "topics/guidelines-for-effective-wbs.md",
+      "metadata_file": "metadata/guidelines-for-effective-wbs.json"
     },
     {
-      "title": "Accessing a Project Initiation Document Template",
-      "slug": "pid-template-access",
-      "summary": "Provides information on where to obtain a ready‑made PID template.",
-      "category": "Resources",
-      "difficulty": "Basic",
+      "title": "WBS Hierarchy and Decomposition Process",
+      "slug": "wbs-hierarchy",
+      "summary": "Explains the hierarchical layers, parent‑child relationships, and how to determine completeness.",
+      "category": "Process",
+      "difficulty": "Medium",
       "keywords": [
-        "PID template",
-        "download",
-        "membership"
+        "WBS hierarchy",
+        "decomposition",
+        "parent child",
+        "completeness"
       ],
       "tags": [
-        "resources",
-        "templates"
+        "WBS",
+        "hierarchy",
+        "decomposition"
       ],
-      "topic_file": "topics/pid-template-access.md",
-      "metadata_file": "metadata/pid-template-access.json"
+      "topic_file": "topics/wbs-hierarchy.md",
+      "metadata_file": "metadata/wbs-hierarchy.json"
+    },
+    {
+      "title": "The 100% Rule for WBS Decomposition",
+      "slug": "wbs-100-percent-rule",
+      "summary": "Defines the rule and its application at every level of the WBS.",
+      "category": "Rule",
+      "difficulty": "Easy",
+      "keywords": [
+        "100% rule",
+        "WBS scope",
+        "decomposition"
+      ],
+      "tags": [
+        "WBS",
+        "rule",
+        "scope-management"
+      ],
+      "topic_file": "topics/wbs-100-percent-rule.md",
+      "metadata_file": "metadata/wbs-100-percent-rule.json"
+    },
+    {
+      "title": "Noun vs Verb Rule for WBS Elements",
+      "slug": "wbs-noun-verb-rule",
+      "summary": "Explains why WBS entries should be nouns and schedule activities verbs.",
+      "category": "Guideline",
+      "difficulty": "Easy",
+      "keywords": [
+        "noun rule",
+        "verb rule",
+        "WBS vs activities"
+      ],
+      "tags": [
+        "WBS",
+        "nouns",
+        "verbs",
+        "guidelines"
+      ],
+      "topic_file": "topics/wbs-noun-verb-rule.md",
+      "metadata_file": "metadata/wbs-noun-verb-rule.json"
+    },
+    {
+      "title": "Product WBS Example: Training Course",
+      "slug": "product-wbs-training-course",
+      "summary": "Illustrates a three‑level WBS for a training‑course product.",
+      "category": "Example",
+      "difficulty": "Medium",
+      "keywords": [
+        "product WBS",
+        "training course",
+        "example",
+        "hierarchy"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "product",
+        "training"
+      ],
+      "topic_file": "topics/product-wbs-training-course.md",
+      "metadata_file": "metadata/product-wbs-training-course.json"
+    },
+    {
+      "title": "Service WBS Example: Wedding Planning",
+      "slug": "service-wbs-wedding-planning",
+      "summary": "Shows a WBS for a service‑based project with optional deliverables.",
+      "category": "Example",
+      "difficulty": "Medium",
+      "keywords": [
+        "service WBS",
+        "wedding planning",
+        "optional deliverables",
+        "example"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "service",
+        "wedding"
+      ],
+      "topic_file": "topics/service-wbs-wedding-planning.md",
+      "metadata_file": "metadata/service-wbs-wedding-planning.json"
+    },
+    {
+      "title": "Process WBS Example: Workplace Relocation",
+      "slug": "process-wbs-workplace-relocation",
+      "summary": "Demonstrates a WBS for a repeatable process project.",
+      "category": "Example",
+      "difficulty": "Medium",
+      "keywords": [
+        "process WBS",
+        "workplace relocation",
+        "example",
+        "methodology"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "process",
+        "relocation"
+      ],
+      "topic_file": "topics/process-wbs-workplace-relocation.md",
+      "metadata_file": "metadata/process-wbs-workplace-relocation.json"
+    },
+    {
+      "title": "Transition From WBS to Project Schedule",
+      "slug": "transition-from-wbs-to-schedule",
+      "summary": "Describes how and when the WBS decomposes into activities for scheduling.",
+      "category": "Process",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS to schedule",
+        "Define Activities",
+        "activity definition",
+        "decomposition transition"
+      ],
+      "tags": [
+        "WBS",
+        "schedule",
+        "transition",
+        "activities"
+      ],
+      "topic_file": "topics/transition-from-wbs-to-schedule.md",
+      "metadata_file": "metadata/transition-from-wbs-to-schedule.json"
+    },
+    {
+      "title": "WBS as a Foundation for Scope, Schedule, and Budget Management",
+      "slug": "wbs-foundation-scope-schedule-budget",
+      "summary": "Explains how the WBS underpins scope control, scheduling, and cost estimation.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "scope management",
+        "budget baseline",
+        "schedule foundation",
+        "WBS updates"
+      ],
+      "tags": [
+        "WBS",
+        "scope",
+        "schedule",
+        "budget"
+      ],
+      "topic_file": "topics/wbs-foundation-scope-schedule-budget.md",
+      "metadata_file": "metadata/wbs-foundation-scope-schedule-budget.json"
+    },
+    {
+      "title": "Common Misconceptions About the WBS",
+      "slug": "wbs-misconceptions",
+      "summary": "Lists typical misunderstandings and clarifies the correct view of a WBS.",
+      "category": "FAQ",
+      "difficulty": "Easy",
+      "keywords": [
+        "WBS misconceptions",
+        "schedule vs WBS",
+        "budget vs WBS"
+      ],
+      "tags": [
+        "WBS",
+        "misconceptions",
+        "FAQ"
+      ],
+      "topic_file": "topics/wbs-misconceptions.md",
+      "metadata_file": "metadata/wbs-misconceptions.json"
+    },
+    {
+      "title": "Using Separate Methodology WBS Versus Solution WBS",
+      "slug": "separate-methodology-wbs",
+      "summary": "Describes when and why a project may maintain a distinct methodology WBS.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "methodology WBS",
+        "solution WBS",
+        "dual WBS",
+        "project management deliverables"
+      ],
+      "tags": [
+        "WBS",
+        "methodology",
+        "dual-wbs"
+      ],
+      "topic_file": "topics/separate-methodology-wbs.md",
+      "metadata_file": "metadata/separate-methodology-wbs.json"
     }
   ]
 }
