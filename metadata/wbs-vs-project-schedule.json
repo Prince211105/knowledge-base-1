@@ -1,0 +1,39 @@
+{
+  "title": "How a WBS Differs from a Project Schedule",
+  "slug": "wbs-vs-project-schedule",
+  "summary": "Explains the distinct purposes, content, and format of a Work Breakdown Structure (WBS) versus a project schedule, highlighting what each includes and excludes.",
+  "content": "The WBS is a deliverable‑oriented hierarchy that lists *what* will be produced; it contains only nouns and no timing, resources, or dependencies. The Project Schedule, on the other hand, lists *how* the deliverables will be produced, using verb phrases to describe activities, their durations, sequencing, resource assignments, and costs. The schedule is derived from the WBS after the deliverables have been fully decomposed.",
+  "keywords": [
+    "WBS vs schedule",
+    "WBS versus project schedule",
+    "deliverable hierarchy vs activity sequencing",
+    "project scope vs schedule",
+    "WBS content",
+    "schedule content"
+  ],
+  "tags": [
+    "project management",
+    "WBS",
+    "schedule",
+    "scope management",
+    "time management",
+    "differences"
+  ],
+  "related_topics": [
+    "definition-of-wbs",
+    "transition-from-wbs-to-schedule"
+  ],
+  "parent_topic": null,
+  "difficulty": "Medium",
+  "category": "Concept",
+  "prerequisites": [
+    "definition-of-wbs"
+  ],
+  "can_answer": [
+    "How does a Work Breakdown Structure differ from a project schedule?",
+    "What information is included in a project schedule that is not part of a WBS?"
+  ],
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
