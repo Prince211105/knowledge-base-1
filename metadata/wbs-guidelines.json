@@ -1,0 +1,39 @@
+{
+  "title": "Effective Work Breakdown Structure (WBS) Guidelines",
+  "slug": "wbs-guidelines",
+  "summary": "Actionable rules for creating a clear, stakeholder‑approved Work Breakdown Structure that captures 100% of project scope and facilitates collaboration.",
+  "content": "Effective WBS guidelines:\n- Use nouns, not verbs, to keep focus on deliverables.\n- Employ a hierarchy to illustrate relationships among deliverables.\n- Build the WBS collaboratively with the people who will produce the deliverables.\n- Ensure each WBS leg contains unique deliverables; avoid duplication.\n- Do not assume stakeholders know a deliverable is in scope; explicitly include it.\n- Apply the 100% rule at every level: each level must contain 100% of the parent deliverable.\n- There is no single correct way to organize the hierarchy; the final picture must make sense to all stakeholders.",
+  "keywords": [
+    "work breakdown structure",
+    "WBS design rules",
+    "100% rule",
+    "deliverable hierarchy",
+    "collaborative WBS"
+  ],
+  "tags": [
+    "project‑management",
+    "work‑breakdown‑structure",
+    "best‑practices",
+    "project‑planning"
+  ],
+  "related_topics": [
+    "wbs-characteristics",
+    "wbs-decomposition",
+    "wbs-types",
+    "wbs-development-process"
+  ],
+  "parent_topic": null,
+  "difficulty": "Easy",
+  "category": "Best Practices",
+  "prerequisites": [
+    "definition-wbs"
+  ],
+  "can_answer": [
+    "How should I structure a Work Breakdown Structure?",
+    "What rules ensure a WBS is effective?",
+    "How do I apply the 100% rule in a WBS?"
+  ],
+  "examples": [],
+  "warnings": [],
+  "limitations": []
+}
