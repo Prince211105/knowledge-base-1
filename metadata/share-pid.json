@@ -1,0 +1,47 @@
+{
+  "title": "Share the PID and Obtain Stakeholder Sign‑off",
+  "slug": "share-pid",
+  "summary": "Guidance on distributing the Project Initiation Document, securing formal sign‑off from key stakeholders, and storing the PID for ongoing reference.",
+  "content": "Once the PID is complete, circulate it to all team members, new hires, and external stakeholders. Secure formal sign‑off from the client and internal decision‑makers, especially on assumptions and the RACI matrix. Store the PID in a shared repository for ongoing reference during status meetings and future onboarding.",
+  "keywords": [
+    "PID distribution",
+    "sign‑off process",
+    "stakeholder approval",
+    "document repository",
+    "RACI matrix",
+    "assumptions documentation",
+    "project initiation document"
+  ],
+  "tags": [
+    "communication",
+    "documentation",
+    "project‑management",
+    "governance",
+    "stakeholder‑management"
+  ],
+  "related_topics": [
+    "7-steps-create-pid"
+  ],
+  "parent_topic": "7-steps-create-pid",
+  "difficulty": "beginner",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "How do I distribute the PID to stakeholders for sign‑off?",
+    "What steps are needed to obtain formal sign‑off on a PID?",
+    "Where should the PID be stored for future reference?"
+  ],
+  "examples": [],
+  "warnings": [
+    "Failing to obtain sign‑off can result in disputed scope later."
+  ],
+  "limitations": [],
+  "search_phrases": [
+    "project initiation document distribution",
+    "PID sign‑off process",
+    "store PID in shared repository",
+    "how to get stakeholder approval for PID"
+  ]
+}
