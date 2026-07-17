@@ -1,0 +1,51 @@
+{
+  "title": "Creating a Project Breakdown Structure and Resource Allocation Plan",
+  "slug": "project-breakdown-and-resourcing",
+  "summary": "Learn how to build a Project Breakdown Structure (PBS) to split a project into work packages and map each package to team members, effort estimates, and dates for clear dependency tracking and resource allocation.",
+  "content": "Break the project into manageable work packages using a Project Breakdown Structure (PBS). Map each work package to the team members responsible, indicating effort estimates and dates. This visual plan highlights dependencies, resource allocation, and accountability, enabling the team to see how deliverables are assembled.",
+  "keywords": [
+    "work breakdown structure",
+    "PBS",
+    "resource allocation",
+    "dependencies",
+    "planning",
+    "work packages",
+    "effort estimation",
+    "accountability",
+    "project scheduling"
+  ],
+  "tags": [
+    "planning",
+    "resource-management",
+    "project-management",
+    "work-breakdown-structure",
+    "resource-planning"
+  ],
+  "related_topics": [
+    "7-steps-create-pid",
+    "project-scheduling",
+    "risk-management"
+  ],
+  "parent_topic": "7-steps-create-pid",
+  "difficulty": "intermediate",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "What is a Project Breakdown Structure (PBS) and why is it useful?",
+    "How do I assign resources to work packages in a PID?"
+  ],
+  "examples": [
+    "Phase 1: Research (2 weeks) – Lead: Jane Doe; Phase 2: Wireframes (3 weeks) – Lead: John Smith."
+  ],
+  "warnings": [
+    "Over‑detailed breakdowns can become difficult to maintain."
+  ],
+  "limitations": [],
+  "search_phrases": [
+    "project breakdown structure template",
+    "assign resources to work packages",
+    "PBS resource planning"
+  ]
+}
