@@ -1,0 +1,43 @@
+{
+  "title": "Define Project Budget, Timeline, and Collaboration Model",
+  "slug": "define-project-parameters",
+  "summary": "Guidance on documenting the project’s total budget with breakdown, the overall schedule with key milestones, and the preferred client‑team collaboration approach within a Project Initiation Document (PID).",
+  "content": "In the parameters section, list the total budget, its breakdown (e.g., personnel, tools, contingency), the overall timeline with key milestones, and the preferred collaboration model with the client. Clarify the first target deliverable or milestone the team should aim for. Transparency about constraints helps set realistic expectations for all parties.",
+  "keywords": [
+    "budget breakdown",
+    "project budget",
+    "timeline",
+    "milestones",
+    "collaboration model",
+    "project constraints"
+  ],
+  "tags": [
+    "project-management",
+    "budgeting",
+    "scheduling",
+    "project-planning",
+    "resource-allocation"
+  ],
+  "related_topics": [
+    "7-steps-create-pid",
+    "project-initiation-document-template",
+    "project-schedule-basics"
+  ],
+  "parent_topic": "7-steps-create-pid",
+  "difficulty": "beginner",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "What budget details belong in a PID?",
+    "How should I describe the project timeline and milestones in a PID?"
+  ],
+  "examples": [
+    "Budget: $150,000 – 60% staffing, 20% software licenses, 20% contingency."
+  ],
+  "warnings": [
+    "Unclear budget breakdown can lead to funding disputes."
+  ],
+  "limitations": []
+}
