@@ -1,0 +1,51 @@
+{
+  "title": "Why WBS Elements Use Nouns and Schedule Activities Use Verbs",
+  "slug": "wbs-noun-verb-rule",
+  "summary": "Describes the naming convention that WBS elements should be noun phrases to represent deliverables, while schedule activities use verb phrases to describe the work needed to produce those deliverables. Highlights the point at which a WBS element transitions into an activity.",
+  "content": "A WBS entry must be expressed as a noun phrase (e.g., \"Training Materials\") to keep the focus on *what* is delivered. Schedule activities are expressed as verb phrases (e.g., \"Develop Training Materials\") describing *how* the deliverable will be produced. When a WBS element shifts to a verb phrase, it indicates the transition point to activity definition.",
+  "keywords": [
+    "WBS naming convention",
+    "WBS noun rule",
+    "schedule activity verb rule",
+    "deliverable phrasing",
+    "project management terminology",
+    "WBS vs activity wording"
+  ],
+  "tags": [
+    "project management",
+    "work breakdown structure",
+    "naming guidelines",
+    "deliverables",
+    "activities"
+  ],
+  "related_topics": [
+    "guidelines-for-effective-wbs",
+    "transition-from-wbs-to-schedule",
+    "work-breakdown-structure-best-practices"
+  ],
+  "parent_topic": null,
+  "difficulty": "Easy",
+  "category": "Guideline",
+  "prerequisites": [],
+  "can_answer": [
+    "Should WBS items be written as nouns or verbs?",
+    "When does a WBS element become a schedule activity?",
+    "How do I phrase a WBS element correctly?"
+  ],
+  "examples": [
+    {
+      "wbs_element": "Training Materials",
+      "activity": "Develop Training Materials"
+    },
+    {
+      "wbs_element": "Project Charter",
+      "activity": "Create Project Charter"
+    }
+  ],
+  "warnings": [
+    "Mixing noun and verb phrasing within the same WBS level can cause confusion when converting to a schedule."
+  ],
+  "limitations": [
+    "Guideline applies to traditional WBS creation; agile backlog items may follow different conventions."
+  ]
+}
