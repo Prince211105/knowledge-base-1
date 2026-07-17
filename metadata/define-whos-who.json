@@ -1,0 +1,40 @@
+{
+  "title": "How to Build a RACI Chart for Defining Project Roles",
+  "slug": "define-whos-who",
+  "summary": "Step‑by‑step guidance for creating a RACI matrix that maps activities to people, clarifies who is Responsible, Accountable, Consulted, and Informed, and prevents decision‑making bottlenecks.",
+  "content": "A RACI chart clarifies responsibilities for each deliverable or activity: Responsible (who does the work), Accountable (who makes final decisions), Consulted (who provides input), Informed (who needs updates). List project activities on the left and roles (internal and external) across the top, then assign RACI letters. Ensure only one person is Accountable per activity to avoid decision bottlenecks.",
+  "keywords": [
+    "RACI chart",
+    "responsibility matrix",
+    "project roles",
+    "accountability framework",
+    "project communication"
+  ],
+  "tags": [
+    "project-management",
+    "roles",
+    "responsibility",
+    "communication"
+  ],
+  "related_topics": [
+    "roles-and-responsibilities",
+    "project-communication-plan"
+  ],
+  "parent_topic": "7-steps-create-pid",
+  "difficulty": "intermediate",
+  "category": "Project Management",
+  "prerequisites": [
+    "project-initiation-document-definition"
+  ],
+  "can_answer": [
+    "How do I create a RACI chart for my project?",
+    "What does each RACI letter represent and how should I assign them?"
+  ],
+  "examples": [
+    "Activity: Final Design Review – Responsible: Designer, Accountable: Creative Director, Consulted: UX Lead, Informed: Client PM."
+  ],
+  "warnings": [
+    "Assigning more than one Accountable person per activity creates confusion during approvals."
+  ],
+  "limitations": []
+}
