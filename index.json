@@ -1,8 +1,7 @@
 {
   "version": "1.0",
   "created_at": "2026-07-17T10:10:09.841Z",
-  "updated_at": "2026-07-17T10:14:55.523Z",
-  "total_topics": 12,
+  "total_topics": 24,
   "topics": [
     {
       "title": "Project Initiation Document (PID) Definition",
@@ -250,6 +249,245 @@
       ],
       "topic_file": "topics/pid-living-document.md",
       "metadata_file": "metadata/pid-living-document.json"
+    },
+    {
+      "title": "Purpose of the Work Breakdown Structure (WBS)",
+      "slug": "purpose-wbs",
+      "summary": "Explains the primary purpose of a WBS as a hierarchical decomposition of project scope used to support schedule and budget creation, not as a schedule or budget itself.",
+      "category": "Concept",
+      "difficulty": "Easy",
+      "keywords": [
+        "WBS purpose",
+        "project scope",
+        "deliverables",
+        "schedule foundation",
+        "budget foundation"
+      ],
+      "tags": [
+        "project‑management",
+        "scope‑definition",
+        "WBS"
+      ],
+      "topic_file": "topics/purpose-wbs.md",
+      "metadata_file": "metadata/purpose-wbs.json"
+    },
+    {
+      "title": "Definition of Work Breakdown Structure (WBS)",
+      "slug": "definition-wbs",
+      "summary": "Provides the formal definition of a WBS as a hierarchical decomposition of total project scope into deliverable components.",
+      "category": "Definition",
+      "difficulty": "Easy",
+      "keywords": [
+        "Work Breakdown Structure",
+        "definition",
+        "hierarchical decomposition"
+      ],
+      "tags": [
+        "project‑management",
+        "PMI",
+        "scope"
+      ],
+      "topic_file": "topics/definition-wbs.md",
+      "metadata_file": "metadata/definition-wbs.json"
+    },
+    {
+      "title": "WBS vs. Project Schedule",
+      "slug": "wbs-vs-schedule",
+      "summary": "Highlights the differences between a WBS (deliverables‑focused) and a Project Schedule (activities‑focused).",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS",
+        "project schedule",
+        "deliverables",
+        "activities",
+        "differences"
+      ],
+      "tags": [
+        "project‑management",
+        "schedule",
+        "WBS"
+      ],
+      "topic_file": "topics/wbs-vs-schedule.md",
+      "metadata_file": "metadata/wbs-vs-schedule.json"
+    },
+    {
+      "title": "Characteristics of a Good WBS",
+      "slug": "wbs-characteristics",
+      "summary": "Describes essential attributes of a WBS, including hierarchy, deliverable focus, and applicability to all project types.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS characteristics",
+        "hierarchical",
+        "deliverable focus",
+        "100% rule"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "best‑practices"
+      ],
+      "topic_file": "topics/wbs-characteristics.md",
+      "metadata_file": "metadata/wbs-characteristics.json"
+    },
+    {
+      "title": "Guidelines for Building an Effective WBS",
+      "slug": "wbs-guidelines",
+      "summary": "Provides actionable rules for creating a clear, stakeholder‑approved WBS.",
+      "category": "Best Practices",
+      "difficulty": "Easy",
+      "keywords": [
+        "WBS guidelines",
+        "nouns vs verbs",
+        "100% rule",
+        "collaboration"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "best‑practices"
+      ],
+      "topic_file": "topics/wbs-guidelines.md",
+      "metadata_file": "metadata/wbs-guidelines.json"
+    },
+    {
+      "title": "The 100% Rule in WBS Decomposition",
+      "slug": "wbs-100-percent-rule",
+      "summary": "Explains the rule that every level of a WBS must capture 100% of the parent deliverable.",
+      "category": "Process",
+      "difficulty": "Easy",
+      "keywords": [
+        "100% rule",
+        "WBS completeness",
+        "decomposition"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "scope"
+      ],
+      "topic_file": "topics/wbs-100-percent-rule.md",
+      "metadata_file": "metadata/wbs-100-percent-rule.json"
+    },
+    {
+      "title": "WBS Types with Practical Examples",
+      "slug": "wbs-types",
+      "summary": "Shows three WBS examples for product, service, and process projects.",
+      "category": "Examples",
+      "difficulty": "Medium",
+      "keywords": [
+        "product WBS",
+        "service WBS",
+        "process WBS",
+        "examples"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "examples"
+      ],
+      "topic_file": "topics/wbs-types.md",
+      "metadata_file": "metadata/wbs-types.json"
+    },
+    {
+      "title": "WBS Decomposition Process",
+      "slug": "wbs-decomposition",
+      "summary": "Describes how to iteratively break down a WBS from high‑level deliverables to detailed components.",
+      "category": "Process",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS decomposition",
+        "drill‑down",
+        "hierarchy",
+        "completeness"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "process"
+      ],
+      "topic_file": "topics/wbs-decomposition.md",
+      "metadata_file": "metadata/wbs-decomposition.json"
+    },
+    {
+      "title": "Transition from WBS to Project Activities",
+      "slug": "transition-wbs-to-activities",
+      "summary": "Explains how and when a WBS moves from noun‑based deliverables to verb‑based activities for scheduling.",
+      "category": "Process",
+      "difficulty": "Medium",
+      "keywords": [
+        "WBS to activities",
+        "Define Activities process",
+        "verb phrases",
+        "schedule input"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "schedule"
+      ],
+      "topic_file": "topics/transition-wbs-to-activities.md",
+      "metadata_file": "metadata/transition-wbs-to-activities.json"
+    },
+    {
+      "title": "Role of WBS in Scope, Schedule, and Budget Management",
+      "slug": "wbs-scope-schedule-budget",
+      "summary": "Details how the WBS underpins scope definition, schedule creation, and cost budgeting.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "scope management",
+        "schedule justification",
+        "budget justification",
+        "WBS"
+      ],
+      "tags": [
+        "project‑management",
+        "scope",
+        "budget",
+        "schedule"
+      ],
+      "topic_file": "topics/wbs-scope-schedule-budget.md",
+      "metadata_file": "metadata/wbs-scope-schedule-budget.json"
+    },
+    {
+      "title": "Common Misconceptions About the WBS",
+      "slug": "wbs-misconceptions",
+      "summary": "Clarifies frequent misunderstandings, such as treating the WBS as a schedule or budget.",
+      "category": "FAQ",
+      "difficulty": "Easy",
+      "keywords": [
+        "WBS misconceptions",
+        "schedule confusion",
+        "budget confusion"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "FAQ"
+      ],
+      "topic_file": "topics/wbs-misconceptions.md",
+      "metadata_file": "metadata/wbs-misconceptions.json"
+    },
+    {
+      "title": "Project Management Deliverables within a WBS",
+      "slug": "wbs-project-management-deliverables",
+      "summary": "Describes how project management deliverables (e.g., budget, milestone) can be incorporated into a WBS, optionally as a separate methodology WBS.",
+      "category": "Concept",
+      "difficulty": "Medium",
+      "keywords": [
+        "project management deliverables",
+        "methodology WBS",
+        "budget deliverable"
+      ],
+      "tags": [
+        "project‑management",
+        "WBS",
+        "methodology"
+      ],
+      "topic_file": "topics/wbs-project-management-deliverables.md",
+      "metadata_file": "metadata/wbs-project-management-deliverables.json"
     }
   ]
 }
