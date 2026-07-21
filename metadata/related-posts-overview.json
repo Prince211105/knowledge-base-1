@@ -1,0 +1,61 @@
+{
+  "title": "Related Posts Section Overview",
+  "slug": "related-posts-overview",
+  "overview": "A list of related articles and posts displayed at the end of the page.",
+  "detailed_summary": "The page includes a “Related Posts” section that promotes additional content such as “The 2020 State of Digital Project Management,” “How To Use Project Milestones To Keep Your Projects On Track,” “5 Ways to Improve Your Digital Project Management Process,” and others. Each entry includes author name and date.",
+  "content": "Related Posts\nThe 2020 State of Digital Project Management\nBen Aston 12/11/2020\nHow To Use Project Milestones To Keep Your Projects On Track\nJohn Carter 02/11/2020\n5 Ways to Improve Your Digital Project Management Process\nNuala Turner 23/10/2020\nhalil ibrahim dural 19/11/2018 at 11:57 pm\nMake Your Sprint Retrospectives Awesome—He",
+  "keywords": [
+    "related posts",
+    "digital project management articles",
+    "project milestones article",
+    "project management process improvement",
+    "sprint retrospectives",
+    "Ben Aston article",
+    "John Carter article",
+    "Nuala Turner article",
+    "blog post list"
+  ],
+  "search_queries": [
+    "what related posts are listed on the PID page",
+    "digital project management articles by Ben Aston",
+    "project milestones keep projects on track article",
+    "how to improve digital project management process"
+  ],
+  "common_questions": [
+    "What other articles are suggested at the end of the page?",
+    "Who wrote the related posts?"
+  ],
+  "tags": [
+    "content",
+    "related"
+  ],
+  "aliases": [],
+  "synonyms": [],
+  "related_topics": [],
+  "relationships": [],
+  "parent_topic": "",
+  "difficulty": "beginner",
+  "category": "content",
+  "sub_category": "related-posts",
+  "prerequisites": [],
+  "dependencies": [],
+  "can_answer": [
+    "Which related posts are shown?"
+  ],
+  "examples": [],
+  "best_practices": [],
+  "warnings": [],
+  "limitations": [],
+  "troubleshooting": [],
+  "decision_rules": [],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [
+    {
+      "type": "list",
+      "label": "Related posts list"
+    }
+  ],
+  "error_messages": []
+}
