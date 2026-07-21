@@ -1,0 +1,56 @@
+{
+  "title": "Newsletter Subscription Prompt",
+  "slug": "newsletter-subscription-prompt",
+  "overview": "A call‑to‑action inviting visitors to subscribe to updates via email.",
+  "detailed_summary": "At the bottom of the page, there is a section titled “Subscribe to our updates” with a “SIGN UP” button, encouraging readers to join the mailing list for news, tools, and resources related to digital project management.",
+  "content": "Subscribe to our updates.\nSIGN UP",
+  "keywords": [
+    "newsletter subscription",
+    "email updates",
+    "sign up",
+    "digital project management newsletter",
+    "subscribe"
+  ],
+  "search_queries": [
+    "how to subscribe to updates on the site",
+    "newsletter sign up button",
+    "digital project manager newsletter"
+  ],
+  "common_questions": [
+    "Where can I sign up for updates?",
+    "What does the SIGN UP button do?"
+  ],
+  "tags": [
+    "marketing",
+    "newsletter"
+  ],
+  "aliases": [],
+  "synonyms": [],
+  "related_topics": [],
+  "relationships": [],
+  "parent_topic": "",
+  "difficulty": "beginner",
+  "category": "marketing",
+  "sub_category": "newsletter",
+  "prerequisites": [],
+  "dependencies": [],
+  "can_answer": [
+    "How to subscribe to updates?"
+  ],
+  "examples": [],
+  "best_practices": [],
+  "warnings": [],
+  "limitations": [],
+  "troubleshooting": [],
+  "decision_rules": [],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [
+    {
+      "type": "button",
+      "label": "SIGN UP"
+    }
+  ],
+  "error_messages": []
+}
