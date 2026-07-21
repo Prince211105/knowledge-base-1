@@ -1,0 +1,77 @@
+{
+  "title": "Customizing a service WBS based on customer choice",
+  "slug": "customizing-a-service-wbs-based-on-customer-choice",
+  "overview": "Explains how optional services change the WBS, schedule, and budget in the wedding planning example.",
+  "detailed_summary": "In the wedding planning service example, if the customer chooses to use all available services, the WBS deliverables associated with those services are included in the schedule and budget. If the customer decides not to use some services, such as Bridal Lunch or Transportation, the corresponding WBS deliverables are removed from the WBS prepared for that wedding and excluded from the project schedule and budget.",
+  "content": "A service WBS may be tailored according to customer selections. The WBS is not static; it should reflect the actual service package in scope. Optional services that are not selected must be removed from the WBS so that the schedule and budget do not include unnecessary activities or costs. This tailoring ensures that planning artifacts reflect the real service commitment made to the customer.",
+  "keywords": [
+    "customize WBS",
+    "optional services",
+    "customer choice",
+    "scope tailoring",
+    "wedding planning"
+  ],
+  "tags": [
+    "WBS",
+    "service project",
+    "scope tailoring",
+    "budget"
+  ],
+  "related_topics": [
+    "wedding-planning-service-wbs-level-1-deliverables",
+    "change-management-impact-on-wbs-schedule-and-budget",
+    "process-project-wbs-concept"
+  ],
+  "relationships": [
+    "Customer service choices determine which WBS deliverables remain in scope",
+    "WBS tailoring drives schedule and budget inclusion or exclusion"
+  ],
+  "parent_topic": "Wedding Planning Service WBS",
+  "difficulty": "intermediate",
+  "category": "process",
+  "sub_category": "scope tailoring",
+  "prerequisites": [
+    "wedding-planning-service-wbs-level-1-deliverables"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "How do optional services affect a WBS?",
+    "Should unused wedding services stay in the WBS?",
+    "How does customer choice change schedule and budget?"
+  ],
+  "common_questions": [
+    "What happens to the WBS when a customer declines a service?",
+    "How do optional services affect planning?",
+    "Should non-selected service deliverables be removed?"
+  ],
+  "can_answer": [
+    "How to tailor a service WBS",
+    "How service choices affect schedule and budget",
+    "Why in-scope selection matters"
+  ],
+  "examples": [
+    "If Bridal Lunch and Transportation are not selected, their WBS branches are removed and their schedule and budget impacts disappear."
+  ],
+  "best_practices": [
+    "Tailor the WBS to actual customer selections before finalizing schedule and budget.",
+    "Use the WBS to make optional scope visible and explicit."
+  ],
+  "warnings": [
+    "Leaving unselected services in the WBS may inflate schedule and cost planning."
+  ],
+  "limitations": [
+    "Tailoring requires clear customer decisions; ambiguous selections create planning uncertainty."
+  ],
+  "troubleshooting": [
+    "If schedule or budget includes services the customer did not choose, trace those items back to WBS branches that should have been removed."
+  ],
+  "decision_rules": [
+    "Include service deliverables only when the customer has selected those services.",
+    "Remove non-selected service deliverables from the WBS and related plans."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
