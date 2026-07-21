@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "created_at": "2026-07-21T06:02:33.883Z",
-  "total_topics": 19,
+  "total_topics": 62,
   "topics": [
     {
       "title": "Definition of a Project Initiation Document (PID)",
@@ -759,6 +759,1202 @@
       ],
       "topic_file": "topics/newsletter-subscription-prompt.md",
       "metadata_file": "metadata/newsletter-subscription-prompt.json"
+    },
+    {
+      "title": "Work Breakdown Structure definition and primary purpose",
+      "slug": "wbs-definition-and-primary-purpose",
+      "overview": "Defines the Work Breakdown Structure and explains its primary purpose as a deliverables-based scope artifact.",
+      "detail_summary": "A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish project objectives and create required deliverables. Its purpose is to represent all deliverables to be produced by the project, not to list activities, costs, durations, dependencies, or resource assignments. The WBS answers the question, \"What are we going to produce as a result of the project?\" and serves as a higher-level artifact that supports creation of schedules, budgets, and other planning outputs.",
+      "search_queries": [
+        "What is a WBS?",
+        "What is the purpose of a Work Breakdown Structure?",
+        "What does a WBS represent?",
+        "Why do projects use a WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS",
+        "Work Breakdown Structure",
+        "definition",
+        "purpose",
+        "deliverables",
+        "scope",
+        "hierarchical decomposition"
+      ],
+      "tags": [
+        "project management",
+        "scope management",
+        "WBS",
+        "planning"
+      ],
+      "topic_file": "topics/wbs-definition-and-primary-purpose.md",
+      "metadata_file": "metadata/wbs-definition-and-primary-purpose.json"
+    },
+    {
+      "title": "Common misconceptions about the WBS",
+      "slug": "common-misconceptions-about-the-wbs",
+      "overview": "Explains typical misunderstandings about the WBS and corrects them.",
+      "detail_summary": "Project teams often incorrectly describe the WBS as a schedule, a list of time estimates, a work-assignment tracking tool, or a deliverable created solely to estimate time and costs. These views misunderstand both the purpose and content of the WBS. The WBS is not a scheduling or budgeting deliverable and does not contain activities, cost estimates, resource assignments, or activity dependency information.",
+      "search_queries": [
+        "Is a WBS a schedule?",
+        "Does a WBS include time estimates?",
+        "Does a WBS include costs?",
+        "Does a WBS include resource assignments?"
+      ],
+      "category": "faq",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS misconceptions",
+        "WBS is not a schedule",
+        "WBS is not a budget",
+        "activities not in WBS"
+      ],
+      "tags": [
+        "project management",
+        "WBS",
+        "misconceptions",
+        "scope"
+      ],
+      "topic_file": "topics/common-misconceptions-about-the-wbs.md",
+      "metadata_file": "metadata/common-misconceptions-about-the-wbs.json"
+    },
+    {
+      "title": "What the WBS contains and what it excludes",
+      "slug": "what-the-wbs-contains-and-what-it-excludes",
+      "overview": "Lists the information that belongs in a WBS and the information that does not.",
+      "detail_summary": "The WBS contains deliverables and deliverable components representing the total project scope. It may also include intermediary project methodology outcomes required to manage the project effort. It does not contain project activities, tasks, milestones to be achieved, timing dependencies, durations, resource assignments, cost estimates, or network logic. These other planning elements belong to the Project Schedule, Network Diagrams, and Project Budget.",
+      "search_queries": [
+        "What goes in a WBS?",
+        "What should not be included in a WBS?",
+        "Does a WBS include milestones?",
+        "Does a WBS include activities or costs?"
+      ],
+      "category": "reference",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS contents",
+        "WBS exclusions",
+        "deliverables",
+        "activities",
+        "milestones",
+        "durations",
+        "costs",
+        "resources"
+      ],
+      "tags": [
+        "WBS",
+        "scope",
+        "planning artifacts",
+        "project management"
+      ],
+      "topic_file": "topics/what-the-wbs-contains-and-what-it-excludes.md",
+      "metadata_file": "metadata/what-the-wbs-contains-and-what-it-excludes.json"
+    },
+    {
+      "title": "WBS as the foundation for schedule, budget, sequencing, and scope control",
+      "slug": "wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control",
+      "overview": "Describes how the WBS supports downstream planning and scope management.",
+      "detail_summary": "The WBS establishes the foundation stakeholders use for creating the project schedule, building network diagrams to sequence work, preparing budgets for estimating and managing costs, and making objective decisions about scope creep. It is foundational because it encompasses every deliverable for the final product, service, or process, and may also include intermediary methodology outcomes required to manage the project effort.",
+      "search_queries": [
+        "Why is the WBS the foundation for planning?",
+        "How does the WBS support budgeting?",
+        "How does the WBS help control scope creep?",
+        "How does the WBS relate to network diagrams?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "WBS foundation",
+        "scope control",
+        "schedule basis",
+        "budget basis",
+        "network diagrams",
+        "scope creep"
+      ],
+      "tags": [
+        "WBS",
+        "schedule",
+        "budget",
+        "scope management",
+        "planning"
+      ],
+      "topic_file": "topics/wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control.md",
+      "metadata_file": "metadata/wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control.json"
+    },
+    {
+      "title": "Risks of creating schedules and budgets without a WBS",
+      "slug": "risks-of-creating-schedules-and-budgets-without-a-wbs",
+      "overview": "Explains why planning without first creating a WBS increases risk.",
+      "detail_summary": "When teams create a project schedule or budget without first creating a WBS, they increase the risk of producing unsubstantiated and inaccurate schedules and budgets. Without the WBS, they lack sufficient information about the product solution deliverables that will meet project objectives. The safest way to substantiate early schedules and budgets is to base them on stakeholder knowledge of the deliverables that will be produced.",
+      "search_queries": [
+        "Why create a WBS before scheduling?",
+        "What happens if you skip the WBS?",
+        "Can you estimate without a WBS?",
+        "Why are schedules inaccurate without a WBS?"
+      ],
+      "category": "warning",
+      "difficulty": "intermediate",
+      "keywords": [
+        "planning risk",
+        "no WBS",
+        "inaccurate schedule",
+        "inaccurate budget",
+        "substantiated estimates",
+        "ROM"
+      ],
+      "tags": [
+        "risk",
+        "WBS",
+        "planning",
+        "estimation"
+      ],
+      "topic_file": "topics/risks-of-creating-schedules-and-budgets-without-a-wbs.md",
+      "metadata_file": "metadata/risks-of-creating-schedules-and-budgets-without-a-wbs.json"
+    },
+    {
+      "title": "Hierarchical structure of the WBS",
+      "slug": "hierarchical-structure-of-the-wbs",
+      "overview": "Explains how the WBS is organized in parent and child layers of granularity.",
+      "detail_summary": "The WBS is a hierarchical document built in layers of granularity. Each successive child layer clarifies the deliverables above it at the parent level. Stakeholders start with major top-level deliverable components and then decompose each one into more detailed components. This hierarchical viewpoint helps stakeholders visualize the project solution and align on what must be provided by the project.",
+      "search_queries": [
+        "How is a WBS structured?",
+        "What are parent and child levels in a WBS?",
+        "Why is a WBS hierarchical?",
+        "What do WBS levels mean?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "hierarchy",
+        "parent deliverable",
+        "child deliverable",
+        "granularity",
+        "decomposition",
+        "WBS levels"
+      ],
+      "tags": [
+        "WBS",
+        "structure",
+        "hierarchy",
+        "decomposition"
+      ],
+      "topic_file": "topics/hierarchical-structure-of-the-wbs.md",
+      "metadata_file": "metadata/hierarchical-structure-of-the-wbs.json"
+    },
+    {
+      "title": "WBS decomposition process",
+      "slug": "wbs-decomposition-process",
+      "overview": "Describes how stakeholders decompose a WBS from major deliverables into more detailed deliverable components.",
+      "detail_summary": "WBS decomposition begins by identifying the top-level major deliverable components to be produced by the project. Stakeholders then drill down through each higher-level parent deliverable, adding more detailed components that make up each parent. Decomposition continues while maintaining focus on deliverables rather than activities, and while checking completeness and adherence to the 100% rule.",
+      "search_queries": [
+        "How do you decompose a WBS?",
+        "What is WBS decomposition?",
+        "How do stakeholders build a WBS?",
+        "When do you stop decomposing a WBS?"
+      ],
+      "category": "process",
+      "difficulty": "intermediate",
+      "keywords": [
+        "WBS decomposition",
+        "drill down",
+        "deliverable breakdown",
+        "scope decomposition"
+      ],
+      "tags": [
+        "WBS",
+        "decomposition",
+        "workflow",
+        "scope planning"
+      ],
+      "topic_file": "topics/wbs-decomposition-process.md",
+      "metadata_file": "metadata/wbs-decomposition-process.json"
+    },
+    {
+      "title": "Completeness check for a WBS",
+      "slug": "completeness-check-for-a-wbs",
+      "overview": "Provides a method for checking whether the WBS fully covers the intended project solution.",
+      "detail_summary": "A practical way to assess WBS completeness is to ask stakeholders whether there is any project solution concept that cannot be associated with one of the deliverables currently shown in the WBS. If something is missing and cannot be categorized under an existing deliverable, it likely represents a new parent-level deliverable. If something appears in the WBS but is not part of the intended solution, it must be removed as out of scope.",
+      "search_queries": [
+        "How do you know a WBS is complete?",
+        "How to validate a WBS?",
+        "How to check for missing deliverables in a WBS?"
+      ],
+      "category": "best_practice",
+      "difficulty": "intermediate",
+      "keywords": [
+        "WBS completeness",
+        "scope coverage",
+        "missing deliverables",
+        "out of scope",
+        "stakeholder alignment"
+      ],
+      "tags": [
+        "WBS",
+        "validation",
+        "scope",
+        "quality check"
+      ],
+      "topic_file": "topics/completeness-check-for-a-wbs.md",
+      "metadata_file": "metadata/completeness-check-for-a-wbs.json"
+    },
+    {
+      "title": "Handling missing and out-of-scope elements in a WBS",
+      "slug": "handling-missing-and-out-of-scope-elements-in-a-wbs",
+      "overview": "Explains what to do when decomposition reveals missing deliverables or out-of-scope items.",
+      "detail_summary": "If a project solution concept is missing from the WBS and cannot be categorized under an existing deliverable, it most likely represents a new parent-level deliverable that must be added. If an item is currently included in the WBS but is not part of the intended project solution, it must be removed because it is out of scope. The document illustrates this with a training wheels component that would not likely belong on a mountain bike WBS.",
+      "search_queries": [
+        "What if something is missing from the WBS?",
+        "What if an item in the WBS is out of scope?",
+        "How do you fix a WBS?"
+      ],
+      "category": "process",
+      "difficulty": "beginner",
+      "keywords": [
+        "missing deliverable",
+        "out of scope",
+        "WBS correction",
+        "scope alignment"
+      ],
+      "tags": [
+        "WBS",
+        "scope management",
+        "decomposition",
+        "change"
+      ],
+      "topic_file": "topics/handling-missing-and-out-of-scope-elements-in-a-wbs.md",
+      "metadata_file": "metadata/handling-missing-and-out-of-scope-elements-in-a-wbs.json"
+    },
+    {
+      "title": "No single correct way to organize a WBS",
+      "slug": "no-single-correct-way-to-organize-a-wbs",
+      "overview": "Explains the flexibility in WBS organization and the main criterion for acceptability.",
+      "detail_summary": "There is no single right way to organize and depict deliverables in a WBS. The key guideline is that the final WBS must make sense to and be agreed to by all project stakeholders, and it must represent everything that must be built as part of the project solution. Although many structures are possible, there are also many ineffective ways to present deliverables.",
+      "search_queries": [
+        "Is there one correct WBS format?",
+        "How should a WBS be organized?",
+        "What makes a WBS acceptable?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS organization",
+        "no single right way",
+        "stakeholder agreement",
+        "WBS structure"
+      ],
+      "tags": [
+        "WBS",
+        "design principles",
+        "scope"
+      ],
+      "topic_file": "topics/no-single-correct-way-to-organize-a-wbs.md",
+      "metadata_file": "metadata/no-single-correct-way-to-organize-a-wbs.json"
+    },
+    {
+      "title": "WBS versus Project Schedule",
+      "slug": "wbs-versus-project-schedule",
+      "overview": "Clarifies the difference between a deliverables-based WBS and an activities-based Project Schedule.",
+      "detail_summary": "The WBS is not the Project Schedule. The WBS contains deliverables and deliverable hierarchy only, while the Project Schedule contains activities, tasks, milestones, timing dependencies, durations, and resource assignments. Every WBS deliverable is eventually decomposed into activities to produce it. Activities are the \"How's\" for producing project deliverables, while the WBS captures the \"What's.\" The schedule is based on the WBS.",
+      "search_queries": [
+        "Difference between WBS and schedule",
+        "Is the WBS the same as the project schedule?",
+        "Deliverables vs activities in project management"
+      ],
+      "category": "comparison",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS vs schedule",
+        "deliverables vs activities",
+        "what vs how",
+        "project schedule"
+      ],
+      "tags": [
+        "WBS",
+        "schedule",
+        "planning",
+        "project management"
+      ],
+      "topic_file": "topics/wbs-versus-project-schedule.md",
+      "metadata_file": "metadata/wbs-versus-project-schedule.json"
+    },
+    {
+      "title": "WBS agnostic to timing, effort, and costs",
+      "slug": "wbs-agnostic-to-timing-effort-and-costs",
+      "overview": "Explains that the WBS does not encode schedule, effort, or cost information.",
+      "detail_summary": "The WBS only represents what needs to be produced as a result of the project. It is agnostic to timing, effort, and costs. Durations and resource assignments belong in the Project Schedule, and costs belong in the Project Budget. This separation is essential because the WBS functions as the blueprint and justification for schedule and budget rather than containing those details directly.",
+      "search_queries": [
+        "Does a WBS include costs or durations?",
+        "What does it mean that a WBS is agnostic to timing?",
+        "Should effort estimates be in the WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "agnostic to timing",
+        "agnostic to cost",
+        "agnostic to effort",
+        "WBS characteristics"
+      ],
+      "tags": [
+        "WBS",
+        "scope",
+        "estimating",
+        "scheduling"
+      ],
+      "topic_file": "topics/wbs-agnostic-to-timing-effort-and-costs.md",
+      "metadata_file": "metadata/wbs-agnostic-to-timing-effort-and-costs.json"
+    },
+    {
+      "title": "High-level WBS for initial rough order of magnitude estimates",
+      "slug": "high-level-wbs-for-initial-rough-order-of-magnitude-estimates",
+      "overview": "Explains how a high-level WBS can support early ROM schedule and budget planning.",
+      "detail_summary": "A final version of the WBS is not required before producing an initial schedule or budget. A high-level WBS developed early in scope elaboration can provide a high-level understanding of deliverables that is often sufficient to substantiate a rough order of magnitude (ROM) schedule and budget. The focus should remain on deliverables, not activities.",
+      "search_queries": [
+        "Can you estimate with a high-level WBS?",
+        "Do you need a final WBS for initial budget?",
+        "What supports ROM schedule and budget estimates?"
+      ],
+      "category": "process",
+      "difficulty": "intermediate",
+      "keywords": [
+        "high-level WBS",
+        "ROM estimate",
+        "rough order of magnitude",
+        "early planning",
+        "scope elaboration"
+      ],
+      "tags": [
+        "WBS",
+        "estimation",
+        "planning",
+        "ROM"
+      ],
+      "topic_file": "topics/high-level-wbs-for-initial-rough-order-of-magnitude-estimates.md",
+      "metadata_file": "metadata/high-level-wbs-for-initial-rough-order-of-magnitude-estimates.json"
+    },
+    {
+      "title": "WBS nouns versus schedule verbs rule",
+      "slug": "wbs-nouns-versus-schedule-verbs-rule",
+      "overview": "Provides the simple language rule for keeping a WBS deliverables-based.",
+      "detail_summary": "To ensure the WBS remains deliverables-based rather than activities-based, every element in the WBS should be represented as a noun phrase rather than a verb phrase. The rule is: WBS equals nouns, Schedule Activities equals verbs. When decomposition shifts from nouns describing a deliverable to verb phrases describing how it will be produced, the WBS has reached its lowest useful level of decomposition.",
+      "search_queries": [
+        "Should WBS items be nouns or verbs?",
+        "How do I keep a WBS deliverables-based?",
+        "WBS equals nouns schedule equals verbs"
+      ],
+      "category": "best_practice",
+      "difficulty": "beginner",
+      "keywords": [
+        "WBS nouns",
+        "schedule verbs",
+        "noun phrase",
+        "verb phrase",
+        "deliverables-based WBS"
+      ],
+      "tags": [
+        "WBS",
+        "best practice",
+        "decomposition",
+        "schedule"
+      ],
+      "topic_file": "topics/wbs-nouns-versus-schedule-verbs-rule.md",
+      "metadata_file": "metadata/wbs-nouns-versus-schedule-verbs-rule.json"
+    },
+    {
+      "title": "Lowest level of WBS decomposition",
+      "slug": "lowest-level-of-wbs-decomposition",
+      "overview": "Defines how to recognize the stopping point for deliverable decomposition in the WBS.",
+      "detail_summary": "The WBS reaches its lowest level of decomposition when stakeholders can no longer clarify a deliverable by adding more granular noun phrases and instead can only describe the next level using verb phrases that explain how the deliverable will be produced. That point signals that the team has enough deliverable detail and is ready to move into activity definition.",
+      "search_queries": [
+        "When do you stop decomposing a WBS?",
+        "What is the lowest level of WBS decomposition?",
+        "How do I know the WBS is detailed enough?"
+      ],
+      "category": "decision_rule",
+      "difficulty": "intermediate",
+      "keywords": [
+        "lowest level",
+        "WBS stopping point",
+        "decomposition endpoint",
+        "transition to activities"
+      ],
+      "tags": [
+        "WBS",
+        "decomposition",
+        "planning transition"
+      ],
+      "topic_file": "topics/lowest-level-of-wbs-decomposition.md",
+      "metadata_file": "metadata/lowest-level-of-wbs-decomposition.json"
+    },
+    {
+      "title": "WBS applicability across all project types",
+      "slug": "wbs-applicability-across-all-project-types",
+      "overview": "Explains why the WBS is relevant to every project type.",
+      "detail_summary": "The common thread across all projects is that every project produces deliverables. Therefore, the WBS is applicable to and required for every project because all projects implement changes to provide new or different outcomes for customers, whether internal or external. These outcomes may be delivered as a product, service, or process, and tangible includes things the customer can see, touch, feel, or experience.",
+      "search_queries": [
+        "Is WBS used for all projects?",
+        "Do service projects need a WBS?",
+        "Can a process project have a WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "all project types",
+        "product service process",
+        "WBS applicability",
+        "deliverables"
+      ],
+      "tags": [
+        "WBS",
+        "project types",
+        "scope management"
+      ],
+      "topic_file": "topics/wbs-applicability-across-all-project-types.md",
+      "metadata_file": "metadata/wbs-applicability-across-all-project-types.json"
+    },
+    {
+      "title": "Product project WBS concept",
+      "slug": "product-project-wbs-concept",
+      "overview": "Describes how a WBS applies to projects that produce a product.",
+      "detail_summary": "A project that produces a product will have a WBS documenting all components of the product. Examples mentioned include creating a bicycle, software application, building structure, automobile, or training class. The WBS captures the product deliverables and their components rather than the activities needed to build them.",
+      "search_queries": [
+        "How does a WBS work for product projects?",
+        "What does a product WBS contain?",
+        "Examples of product WBS"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "product WBS",
+        "product deliverables",
+        "bicycle WBS",
+        "training course WBS"
+      ],
+      "tags": [
+        "WBS",
+        "product project",
+        "deliverables"
+      ],
+      "topic_file": "topics/product-project-wbs-concept.md",
+      "metadata_file": "metadata/product-project-wbs-concept.json"
+    },
+    {
+      "title": "Service project WBS concept",
+      "slug": "service-project-wbs-concept",
+      "overview": "Describes how a WBS applies to projects whose outcome is a service.",
+      "detail_summary": "A service project will have a WBS documenting all components associated with the service offering a customer can experience. Examples include wedding planning services, cleaning services, audit services, and repair services. The WBS can act as a checklist of deliverables used to configure the service and can include interim deliverables associated with providing the service.",
+      "search_queries": [
+        "How does a WBS work for service projects?",
+        "Can a service have a WBS?",
+        "What are service deliverables in a WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "beginner",
+      "keywords": [
+        "service WBS",
+        "service deliverables",
+        "experiential outcome",
+        "checklist of deliverables"
+      ],
+      "tags": [
+        "WBS",
+        "service project",
+        "deliverables"
+      ],
+      "topic_file": "topics/service-project-wbs-concept.md",
+      "metadata_file": "metadata/service-project-wbs-concept.json"
+    },
+    {
+      "title": "Process project WBS concept",
+      "slug": "process-project-wbs-concept",
+      "overview": "Describes how a WBS applies to projects that define a process or methodology.",
+      "detail_summary": "A project that defines a process will have a WBS documenting all components of the process. Such process deliverables may be used repeatedly in ongoing operations or to execute specific types of projects, such as a software development methodology or an office relocation process. A process WBS can function as a blueprint that includes every type of deliverable that could be part of performing the process.",
+      "search_queries": [
+        "How does a WBS work for process projects?",
+        "Can a methodology have a WBS?",
+        "What is a process WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "process WBS",
+        "methodology WBS",
+        "repeatable process",
+        "office relocation process"
+      ],
+      "tags": [
+        "WBS",
+        "process project",
+        "methodology"
+      ],
+      "topic_file": "topics/process-project-wbs-concept.md",
+      "metadata_file": "metadata/process-project-wbs-concept.json"
+    },
+    {
+      "title": "Guidelines for creating an effective WBS",
+      "slug": "guidelines-for-creating-an-effective-wbs",
+      "overview": "Lists the document's recommended guidelines for producing an effective WBS.",
+      "detail_summary": "The document recommends several guidelines for an effective WBS: use nouns rather than verbs to focus on deliverables, use a hierarchy to illustrate deliverable relationships, build the WBS collaboratively with people who will produce the deliverables, ensure each WBS leg contains unique deliverables rather than repeating the same deliverable in multiple legs, never assume stakeholders will know a deliverable is part of the project if it is not shown, and follow the 100% rule so each level fully represents its parent deliverable.",
+      "search_queries": [
+        "Best practices for creating a WBS",
+        "How to create an effective WBS",
+        "WBS guidelines"
+      ],
+      "category": "best_practice",
+      "difficulty": "beginner",
+      "keywords": [
+        "effective WBS",
+        "WBS guidelines",
+        "best practices",
+        "100% rule",
+        "unique legs",
+        "collaboration"
+      ],
+      "tags": [
+        "WBS",
+        "best practices",
+        "scope management",
+        "decomposition"
+      ],
+      "topic_file": "topics/guidelines-for-creating-an-effective-wbs.md",
+      "metadata_file": "metadata/guidelines-for-creating-an-effective-wbs.json"
+    },
+    {
+      "title": "Build the WBS collaboratively with the people who produce deliverables",
+      "slug": "build-the-wbs-collaboratively-with-the-people-who-produce-deliverables",
+      "overview": "Explains the recommendation to create the WBS collaboratively with delivery contributors.",
+      "detail_summary": "One recommended guideline is to build the WBS collaboratively with the people who will ultimately produce the project deliverables. Their participation helps ensure the deliverable structure is realistic, complete, and aligned with what the project team must create.",
+      "search_queries": [
+        "Who should build the WBS?",
+        "Should delivery team members help create the WBS?",
+        "Why build the WBS collaboratively?"
+      ],
+      "category": "best_practice",
+      "difficulty": "beginner",
+      "keywords": [
+        "collaborative WBS",
+        "stakeholder participation",
+        "delivery team input",
+        "WBS workshop"
+      ],
+      "tags": [
+        "WBS",
+        "collaboration",
+        "best practice",
+        "stakeholders"
+      ],
+      "topic_file": "topics/build-the-wbs-collaboratively-with-the-people-who-produce-deliverables.md",
+      "metadata_file": "metadata/build-the-wbs-collaboratively-with-the-people-who-produce-deliverables.json"
+    },
+    {
+      "title": "Use unique deliverables in each WBS leg",
+      "slug": "use-unique-deliverables-in-each-wbs-leg",
+      "overview": "Explains the guideline that each WBS branch should contain unique deliverables.",
+      "detail_summary": "An effective WBS ensures each leg contains deliverables that are unique from deliverables in another leg. The same deliverable should not be repeated in each column or branch. This helps maintain clarity, avoid duplication, and preserve logical relationships in the scope structure.",
+      "search_queries": [
+        "Should WBS branches have unique deliverables?",
+        "Can the same deliverable appear in multiple WBS legs?",
+        "How to avoid duplication in a WBS"
+      ],
+      "category": "best_practice",
+      "difficulty": "beginner",
+      "keywords": [
+        "unique WBS legs",
+        "no duplicate deliverables",
+        "WBS duplication"
+      ],
+      "tags": [
+        "WBS",
+        "best practice",
+        "structure",
+        "scope clarity"
+      ],
+      "topic_file": "topics/use-unique-deliverables-in-each-wbs-leg.md",
+      "metadata_file": "metadata/use-unique-deliverables-in-each-wbs-leg.json"
+    },
+    {
+      "title": "Never assume unstated deliverables are understood",
+      "slug": "never-assume-unstated-deliverables-are-understood",
+      "overview": "Explains why all expected deliverables must be explicitly represented in the WBS.",
+      "detail_summary": "A recommended WBS guideline is to never assume stakeholders will naturally know a deliverable element is part of the project if it is not included in the WBS. If a deliverable is omitted from the WBS, it may be omitted from subsequent planning and may be overlooked until late in the project.",
+      "search_queries": [
+        "Should all deliverables be explicitly listed in the WBS?",
+        "Can stakeholders assume omitted deliverables are included?",
+        "Why not rely on unstated assumptions in a WBS?"
+      ],
+      "category": "warning",
+      "difficulty": "beginner",
+      "keywords": [
+        "explicit deliverables",
+        "avoid assumptions",
+        "WBS visibility",
+        "scope communication"
+      ],
+      "tags": [
+        "WBS",
+        "communication",
+        "best practice",
+        "scope"
+      ],
+      "topic_file": "topics/never-assume-unstated-deliverables-are-understood.md",
+      "metadata_file": "metadata/never-assume-unstated-deliverables-are-understood.json"
+    },
+    {
+      "title": "100% rule in WBS decomposition",
+      "slug": "100-percent-rule-in-wbs-decomposition",
+      "overview": "Defines the 100% rule and explains how it is used when drilling down through WBS levels.",
+      "detail_summary": "The 100% rule states that every level of decomposition in the WBS must contain all of the deliverable elements that represent 100% of its parent deliverable. It should be applied continuously when decomposing the WBS. Teams should keep asking whether the new level of detail represents everything that makes up the parent deliverable above it.",
+      "search_queries": [
+        "What is the 100% rule in a WBS?",
+        "How do you apply the 100% rule?",
+        "Why is the 100% rule important in WBS decomposition?"
+      ],
+      "category": "decision_rule",
+      "difficulty": "intermediate",
+      "keywords": [
+        "100% rule",
+        "WBS completeness rule",
+        "decomposition rule",
+        "parent child coverage"
+      ],
+      "tags": [
+        "WBS",
+        "best practice",
+        "decomposition",
+        "scope completeness"
+      ],
+      "topic_file": "topics/100-percent-rule-in-wbs-decomposition.md",
+      "metadata_file": "metadata/100-percent-rule-in-wbs-decomposition.json"
+    },
+    {
+      "title": "Training course WBS level 1 deliverables",
+      "slug": "training-course-wbs-level-1-deliverables",
+      "overview": "Lists the level 1 deliverable categories for a project to create a training course.",
+      "detail_summary": "For a project initiated to create a new training course, the WBS would likely contain at least these common level 1 categories of deliverables: Training Materials, Resources, Advertising, Logistics, and Training Administration. These represent the highest-level grouping of project deliverables for the course.",
+      "search_queries": [
+        "Training course WBS example",
+        "What are the top-level deliverables for a training course WBS?",
+        "Level 1 training course WBS"
+      ],
+      "category": "example",
+      "difficulty": "beginner",
+      "keywords": [
+        "training course WBS",
+        "level 1 deliverables",
+        "training materials",
+        "resources",
+        "advertising",
+        "logistics",
+        "training administration"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "product WBS",
+        "training course"
+      ],
+      "topic_file": "topics/training-course-wbs-level-1-deliverables.md",
+      "metadata_file": "metadata/training-course-wbs-level-1-deliverables.json"
+    },
+    {
+      "title": "Training course WBS levels and depth guidance",
+      "slug": "training-course-wbs-levels-and-depth-guidance",
+      "overview": "Explains how far to decompose the training course WBS and when deeper levels are useful.",
+      "detail_summary": "Most WBS decomposition efforts require drilling down to at least three levels. More than three levels should be added only for deliverables that are very complex and need more clarification. In the training course example, level 2 shows major components under each parent, such as Training Materials being made up of Work Books and Content, and Logistics including Course Location Rooms, Parking logistics, and Computer Equipment. Level 3 and beyond are used only when additional detail is needed to understand a parent deliverable.",
+      "search_queries": [
+        "How many levels should a training course WBS have?",
+        "What does level 2 of a training course WBS include?",
+        "When should a WBS go beyond level 3?"
+      ],
+      "category": "example",
+      "difficulty": "intermediate",
+      "keywords": [
+        "training course WBS levels",
+        "WBS depth",
+        "level 2",
+        "level 3",
+        "decomposition guidance"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "decomposition",
+        "training course"
+      ],
+      "topic_file": "topics/training-course-wbs-levels-and-depth-guidance.md",
+      "metadata_file": "metadata/training-course-wbs-levels-and-depth-guidance.json"
+    },
+    {
+      "title": "Avoid excessive decomposition of procured components",
+      "slug": "avoid-excessive-decomposition-of-procured-components",
+      "overview": "Explains why some deliverables should not be broken down into unnecessary technical detail.",
+      "detail_summary": "In the training course example, it may be useful to show multiple types of computer deliverables needed to support a virtual training course, but it is probably too much information to list every computer component down to memory, drives, and wiring, especially if the project involves buying the equipment rather than manufacturing it. Decomposition should add understanding, not noise.",
+      "search_queries": [
+        "How detailed should procured items be in a WBS?",
+        "Should purchased equipment be fully decomposed in a WBS?",
+        "How to avoid over-decomposing a WBS"
+      ],
+      "category": "best_practice",
+      "difficulty": "intermediate",
+      "keywords": [
+        "excessive decomposition",
+        "procured components",
+        "WBS detail level",
+        "computer equipment example"
+      ],
+      "tags": [
+        "WBS",
+        "best practice",
+        "decomposition",
+        "procurement"
+      ],
+      "topic_file": "topics/avoid-excessive-decomposition-of-procured-components.md",
+      "metadata_file": "metadata/avoid-excessive-decomposition-of-procured-components.json"
+    },
+    {
+      "title": "Wedding planning service WBS level 1 deliverables",
+      "slug": "wedding-planning-service-wbs-level-1-deliverables",
+      "overview": "Lists the seven level 1 deliverable categories in the wedding planning service example.",
+      "detail_summary": "The wedding planning service WBS includes seven categories of deliverables at level 1: Attire for the Wedding Party, Ceremony, Reception, Rehearsal Dinner, Bridal Lunch, Accommodations, and Transportation. These represent the major service-related deliverable groupings that could be included for a given wedding project.",
+      "search_queries": [
+        "Wedding planning WBS example",
+        "What are the top-level deliverables in a wedding planning WBS?",
+        "Service WBS for wedding planning"
+      ],
+      "category": "example",
+      "difficulty": "beginner",
+      "keywords": [
+        "wedding planning WBS",
+        "service WBS example",
+        "level 1 deliverables",
+        "ceremony",
+        "reception",
+        "transportation"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "service project",
+        "wedding planning"
+      ],
+      "topic_file": "topics/wedding-planning-service-wbs-level-1-deliverables.md",
+      "metadata_file": "metadata/wedding-planning-service-wbs-level-1-deliverables.json"
+    },
+    {
+      "title": "Customizing a service WBS based on customer choice",
+      "slug": "customizing-a-service-wbs-based-on-customer-choice",
+      "overview": "Explains how optional services change the WBS, schedule, and budget in the wedding planning example.",
+      "detail_summary": "In the wedding planning service example, if the customer chooses to use all available services, the WBS deliverables associated with those services are included in the schedule and budget. If the customer decides not to use some services, such as Bridal Lunch or Transportation, the corresponding WBS deliverables are removed from the WBS prepared for that wedding and excluded from the project schedule and budget.",
+      "search_queries": [
+        "How do optional services affect a WBS?",
+        "Should unused wedding services stay in the WBS?",
+        "How does customer choice change schedule and budget?"
+      ],
+      "category": "process",
+      "difficulty": "intermediate",
+      "keywords": [
+        "customize WBS",
+        "optional services",
+        "customer choice",
+        "scope tailoring",
+        "wedding planning"
+      ],
+      "tags": [
+        "WBS",
+        "service project",
+        "scope tailoring",
+        "budget"
+      ],
+      "topic_file": "topics/customizing-a-service-wbs-based-on-customer-choice.md",
+      "metadata_file": "metadata/customizing-a-service-wbs-based-on-customer-choice.json"
+    },
+    {
+      "title": "People as deliverables in a service WBS",
+      "slug": "people-as-deliverables-in-a-service-wbs",
+      "overview": "Explains when people can appear as deliverables in the WBS.",
+      "detail_summary": "Deliverable categories may include people when those people are part of the service solution being provided. In the wedding planning example, the Ceremony branch includes a deliverable called Minister because a minister may be needed to perform the wedding for the customer. If this deliverable is left off the WBS, the activities for engaging that person may be missed in planning and budgeting until the last minute.",
+      "search_queries": [
+        "Can people be deliverables in a WBS?",
+        "Should a minister be in a wedding planning WBS?",
+        "How are service personnel represented in a WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "people in WBS",
+        "minister deliverable",
+        "service solution resources as deliverables",
+        "wedding service"
+      ],
+      "tags": [
+        "WBS",
+        "service project",
+        "scope definition",
+        "example"
+      ],
+      "topic_file": "topics/people-as-deliverables-in-a-service-wbs.md",
+      "metadata_file": "metadata/people-as-deliverables-in-a-service-wbs.json"
+    },
+    {
+      "title": "Consequences of omitting service deliverables from the WBS",
+      "slug": "consequences-of-omitting-service-deliverables-from-the-wbs",
+      "overview": "Describes how omitted deliverables in a service WBS can cause late planning changes.",
+      "detail_summary": "If a service-related deliverable such as Minister is left off the wedding planning WBS, the activities for engaging that deliverable may also be left out of planning and budgeting until the last minute. This kind of oversight likely drives schedule and cost change requests.",
+      "search_queries": [
+        "What happens if a service deliverable is missing from the WBS?",
+        "Why do omitted WBS items cause change requests?",
+        "How do WBS omissions affect schedule and cost?"
+      ],
+      "category": "warning",
+      "difficulty": "intermediate",
+      "keywords": [
+        "omitted service deliverables",
+        "late change requests",
+        "schedule impact",
+        "cost impact"
+      ],
+      "tags": [
+        "WBS",
+        "warning",
+        "service project",
+        "change management"
+      ],
+      "topic_file": "topics/consequences-of-omitting-service-deliverables-from-the-wbs.md",
+      "metadata_file": "metadata/consequences-of-omitting-service-deliverables-from-the-wbs.json"
+    },
+    {
+      "title": "Workplace relocation project WBS level 1 deliverables",
+      "slug": "workplace-relocation-project-wbs-level-1-deliverables",
+      "overview": "Lists the level 1 deliverable categories in the workplace relocation process WBS example.",
+      "detail_summary": "The workplace relocation project WBS uses a pre-established structure to represent a repeatable process or methodology. Its level 1 deliverables include Current Location, Target Site Location, Relocation Staff, Transition Plan, and Funding deliverables. These categories represent the major deliverable groupings needed to execute the relocation.",
+      "search_queries": [
+        "Workplace relocation WBS example",
+        "What are the top-level deliverables in a relocation WBS?",
+        "Process WBS for relocation"
+      ],
+      "category": "example",
+      "difficulty": "beginner",
+      "keywords": [
+        "workplace relocation WBS",
+        "level 1 deliverables",
+        "current location",
+        "target site",
+        "transition plan",
+        "funding"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "process project",
+        "relocation"
+      ],
+      "topic_file": "topics/workplace-relocation-project-wbs-level-1-deliverables.md",
+      "metadata_file": "metadata/workplace-relocation-project-wbs-level-1-deliverables.json"
+    },
+    {
+      "title": "Customizing a process WBS per project",
+      "slug": "customizing-a-process-wbs-per-project",
+      "overview": "Explains how a reusable process WBS is tailored to each project's scope.",
+      "detail_summary": "A process WBS is ideally a blueprint that includes every type of deliverable that could be part of performing the process. For each project where the process is used, the project's scope determines which process deliverables are in scope and which are out of scope. This reduces the likelihood of overlooking a process deliverable and encourages consistent execution across projects.",
+      "search_queries": [
+        "How do you tailor a process WBS?",
+        "Why use a reusable WBS blueprint?",
+        "How does a process WBS reduce omissions?"
+      ],
+      "category": "best_practice",
+      "difficulty": "intermediate",
+      "keywords": [
+        "custom process WBS",
+        "reusable WBS",
+        "scope tailoring",
+        "methodology consistency"
+      ],
+      "tags": [
+        "WBS",
+        "process project",
+        "tailoring",
+        "best practice"
+      ],
+      "topic_file": "topics/customizing-a-process-wbs-per-project.md",
+      "metadata_file": "metadata/customizing-a-process-wbs-per-project.json"
+    },
+    {
+      "title": "Uneven decomposition depth across WBS branches",
+      "slug": "uneven-decomposition-depth-across-wbs-branches",
+      "overview": "Explains why some WBS branches are decomposed deeper than others and what that can indicate.",
+      "detail_summary": "In the workplace relocation example, some level 2 deliverables have been decomposed to level 3 while others have not. This is common during brainstorming because more complex or troublesome deliverables often come to mind early. The example suggests that the WBS is likely not fully decomposed because several level 2 deliverables remain too subjective, such as Packing Materials, Utilities, Transition Plan, and Supplies.",
+      "search_queries": [
+        "Do all WBS branches need the same depth?",
+        "Why are some WBS branches deeper than others?",
+        "How do I know a WBS branch is still too subjective?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "uneven decomposition",
+        "branch depth",
+        "brainstorming",
+        "subjective deliverables",
+        "incomplete WBS"
+      ],
+      "tags": [
+        "WBS",
+        "decomposition",
+        "example",
+        "quality check"
+      ],
+      "topic_file": "topics/uneven-decomposition-depth-across-wbs-branches.md",
+      "metadata_file": "metadata/uneven-decomposition-depth-across-wbs-branches.json"
+    },
+    {
+      "title": "Project management deliverables in or separate from the WBS",
+      "slug": "project-management-deliverables-in-or-separate-from-the-wbs",
+      "overview": "Explains how project management deliverables may be represented alongside solution deliverables.",
+      "detail_summary": "While every WBS includes hierarchy legs for the final product, service, or process deliverables, it may also include hierarchy legs for project management deliverables. Some teams represent project management deliverables in a separate WBS from the project solution WBS. In the workplace relocation example, Funding includes project management deliverables such as Budget and Budget Release Schedule. A common crossover from a separate WBS is the inclusion of milestone deliverables on the specific project WBS.",
+      "search_queries": [
+        "Can project management deliverables be in the WBS?",
+        "Should management deliverables be in a separate WBS?",
+        "What is a project methodology WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "project management deliverables",
+        "separate WBS",
+        "methodology WBS",
+        "budget release schedule",
+        "milestone deliverables"
+      ],
+      "tags": [
+        "WBS",
+        "project management",
+        "methodology",
+        "scope artifacts"
+      ],
+      "topic_file": "topics/project-management-deliverables-in-or-separate-from-the-wbs.md",
+      "metadata_file": "metadata/project-management-deliverables-in-or-separate-from-the-wbs.json"
+    },
+    {
+      "title": "Transition from WBS to Project Schedule",
+      "slug": "transition-from-wbs-to-project-schedule",
+      "overview": "Describes how teams move logically from deliverable decomposition to activity planning.",
+      "detail_summary": "Transitioning from WBS to Project Schedule is a logical continuation of decomposition. Stakeholders continue decomposing deliverables using only nouns until they clearly understand what must be produced. The transition to activities occurs naturally when the next level can only be stated as verb phrases describing how the deliverable will be produced. At that point, the team uses the WBS deliverables as the focal point to list every activity included in project scheduling processes.",
+      "search_queries": [
+        "How do you transition from a WBS to a project schedule?",
+        "When do activities come after the WBS?",
+        "How does WBS feed scheduling?"
+      ],
+      "category": "process",
+      "difficulty": "intermediate",
+      "keywords": [
+        "transition to schedule",
+        "WBS to activities",
+        "define activities",
+        "noun to verb transition"
+      ],
+      "tags": [
+        "WBS",
+        "schedule",
+        "process",
+        "planning transition"
+      ],
+      "topic_file": "topics/transition-from-wbs-to-project-schedule.md",
+      "metadata_file": "metadata/transition-from-wbs-to-project-schedule.json"
+    },
+    {
+      "title": "Frame deliverable example for transitioning from WBS to activities",
+      "slug": "frame-deliverable-example-for-transitioning-from-wbs-to-activities",
+      "overview": "Shows the document's example of converting a specific deliverable into activities.",
+      "detail_summary": "In the example under the Frame Set hierarchy leg, the deliverable Frame had reached the lowest level of detail needed to understand what would be produced. Stakeholders then listed activities for building it: Design Frame, Create Prototype, Finalize Design, Build Frame, and Paint Frame. This illustrates how the WBS deliverable becomes the focal point for defining schedule activities.",
+      "search_queries": [
+        "Example of transitioning from WBS to activities",
+        "How does a deliverable become schedule activities?",
+        "Frame deliverable activity example"
+      ],
+      "category": "example",
+      "difficulty": "beginner",
+      "keywords": [
+        "Frame example",
+        "WBS to activities example",
+        "design frame",
+        "create prototype",
+        "build frame",
+        "paint frame"
+      ],
+      "tags": [
+        "WBS",
+        "example",
+        "schedule",
+        "decomposition"
+      ],
+      "topic_file": "topics/frame-deliverable-example-for-transitioning-from-wbs-to-activities.md",
+      "metadata_file": "metadata/frame-deliverable-example-for-transitioning-from-wbs-to-activities.json"
+    },
+    {
+      "title": "Every WBS deliverable must ultimately have activities",
+      "slug": "every-wbs-deliverable-must-ultimately-have-activities",
+      "overview": "Explains the expectation that each WBS deliverable should map to production activities.",
+      "detail_summary": "Every deliverable in the WBS must ultimately have activities defined for producing it. If this is not possible, either the deliverable is still unclear or, more likely, it is not relevant and not in scope for the project. The inability to define activities can therefore act as a diagnostic signal about deliverable validity.",
+      "search_queries": [
+        "Should every WBS deliverable have activities?",
+        "What if I cannot define activities for a deliverable?",
+        "How do I validate a WBS deliverable?"
+      ],
+      "category": "decision_rule",
+      "difficulty": "intermediate",
+      "keywords": [
+        "activities for every deliverable",
+        "deliverable validation",
+        "in-scope check",
+        "unclear deliverable"
+      ],
+      "tags": [
+        "WBS",
+        "validation",
+        "schedule",
+        "scope"
+      ],
+      "topic_file": "topics/every-wbs-deliverable-must-ultimately-have-activities.md",
+      "metadata_file": "metadata/every-wbs-deliverable-must-ultimately-have-activities.json"
+    },
+    {
+      "title": "WBS as input to the Define Activities process",
+      "slug": "wbs-as-input-to-the-define-activities-process",
+      "overview": "Explains the formal relationship between the WBS and activity definition.",
+      "detail_summary": "Once baselined, the WBS serves as the focal point and justification for defining schedulable activities as part of the Define Activities process 6.2 in the PMBOK Guide Fifth Edition. The WBS supports the project team's underlying assumptions for the Project Schedule and Project Budget because it is an input to the Define Activities process.",
+      "search_queries": [
+        "Is the WBS an input to Define Activities?",
+        "How does PMBOK relate WBS to activities?",
+        "Why does the WBS justify schedule assumptions?"
+      ],
+      "category": "relationship",
+      "difficulty": "intermediate",
+      "keywords": [
+        "Define Activities process",
+        "PMBOK 6.2",
+        "WBS input",
+        "activity definition"
+      ],
+      "tags": [
+        "WBS",
+        "PMBOK",
+        "schedule planning",
+        "process"
+      ],
+      "topic_file": "topics/wbs-as-input-to-the-define-activities-process.md",
+      "metadata_file": "metadata/wbs-as-input-to-the-define-activities-process.json"
+    },
+    {
+      "title": "Change management impact on WBS, schedule, and budget",
+      "slug": "change-management-impact-on-wbs-schedule-and-budget",
+      "overview": "Explains how approved scope changes propagate through WBS-based planning artifacts.",
+      "detail_summary": "If change management requests are approved to increase or decrease project scope, the WBS deliverables are updated to reflect the approved changes by adding or removing deliverables as needed. Those WBS updates in turn add or remove activities and drive schedule and budget changes. The WBS therefore supports objective management of scope changes and downstream plan updates.",
+      "search_queries": [
+        "How do approved scope changes affect the WBS?",
+        "Does the WBS drive schedule and budget changes?",
+        "What is the role of the WBS in change management?"
+      ],
+      "category": "process",
+      "difficulty": "intermediate",
+      "keywords": [
+        "change management",
+        "scope change",
+        "WBS update",
+        "schedule change",
+        "budget change"
+      ],
+      "tags": [
+        "WBS",
+        "change management",
+        "scope control",
+        "planning"
+      ],
+      "topic_file": "topics/change-management-impact-on-wbs-schedule-and-budget.md",
+      "metadata_file": "metadata/change-management-impact-on-wbs-schedule-and-budget.json"
+    },
+    {
+      "title": "WBS as the basis for substantiating schedules and budgets at project initiation",
+      "slug": "wbs-as-the-basis-for-substantiating-schedules-and-budgets-at-project-initiation",
+      "overview": "Explains why early schedules and budgets should be based on deliverable knowledge captured in the WBS.",
+      "detail_summary": "When project teams are asked to prepare schedules and budgets at project initiation before any project work has been performed, the safest way to substantiate those deliverables is to base them on stakeholder knowledge of the deliverables to be produced. The WBS is the foundation project deliverable used to document and communicate all tangible project product, service, and process outcome components.",
+      "search_queries": [
+        "How should you substantiate schedule and budget at project initiation?",
+        "What should early estimates be based on?",
+        "Why use the WBS at project initiation?"
+      ],
+      "category": "best_practice",
+      "difficulty": "intermediate",
+      "keywords": [
+        "project initiation",
+        "substantiated estimates",
+        "early schedule",
+        "early budget",
+        "tangible outcomes"
+      ],
+      "tags": [
+        "WBS",
+        "initiation",
+        "estimation",
+        "planning"
+      ],
+      "topic_file": "topics/wbs-as-the-basis-for-substantiating-schedules-and-budgets-at-project-initiation.md",
+      "metadata_file": "metadata/wbs-as-the-basis-for-substantiating-schedules-and-budgets-at-project-initiation.json"
+    },
+    {
+      "title": "What information belongs in other project deliverables instead of the WBS",
+      "slug": "what-information-belongs-in-other-project-deliverables-instead-of-the-wbs",
+      "overview": "Clarifies which planning details belong in schedule, network diagrams, and budget rather than in the WBS.",
+      "detail_summary": "Although WBS deliverables are eventually expanded into activities, durations, resources, and costs required to produce them, those pieces of information are not part of the WBS. They belong in other project deliverables, such as the Project Schedule, Network Diagrams, and Budget, which are based on the WBS.",
+      "search_queries": [
+        "What belongs in the project schedule instead of the WBS?",
+        "Do network diagrams come from the WBS?",
+        "Where do durations and resources belong?"
+      ],
+      "category": "reference",
+      "difficulty": "beginner",
+      "keywords": [
+        "network diagrams",
+        "budget",
+        "project schedule",
+        "WBS boundaries",
+        "planning artifacts"
+      ],
+      "tags": [
+        "WBS",
+        "schedule",
+        "budget",
+        "network diagrams"
+      ],
+      "topic_file": "topics/what-information-belongs-in-other-project-deliverables-instead-of-the-wbs.md",
+      "metadata_file": "metadata/what-information-belongs-in-other-project-deliverables-instead-of-the-wbs.json"
+    },
+    {
+      "title": "WBS as the agreed scope baseline",
+      "slug": "wbs-as-the-agreed-scope-baseline",
+      "overview": "Explains how a baselined WBS establishes agreement on what will be built.",
+      "detail_summary": "Once the project WBS is baselined, it establishes agreement on the scope of what will be built. It becomes the focal point for defining schedulable activities and supports objective scope decisions. This baseline reflects stakeholder alignment on all in-scope deliverables before significant effort is spent on design and build.",
+      "search_queries": [
+        "What does it mean to baseline the WBS?",
+        "How does the WBS become the scope baseline?",
+        "Why baseline a WBS?"
+      ],
+      "category": "concept",
+      "difficulty": "intermediate",
+      "keywords": [
+        "scope baseline",
+        "baselined WBS",
+        "agreed scope",
+        "stakeholder agreement"
+      ],
+      "tags": [
+        "WBS",
+        "baseline",
+        "scope management",
+        "control"
+      ],
+      "topic_file": "topics/wbs-as-the-agreed-scope-baseline.md",
+      "metadata_file": "metadata/wbs-as-the-agreed-scope-baseline.json"
     }
   ]
 }
