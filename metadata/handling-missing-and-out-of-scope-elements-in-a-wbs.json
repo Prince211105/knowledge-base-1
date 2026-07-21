@@ -1,0 +1,76 @@
+{
+  "title": "Handling missing and out-of-scope elements in a WBS",
+  "slug": "handling-missing-and-out-of-scope-elements-in-a-wbs",
+  "overview": "Explains what to do when decomposition reveals missing deliverables or out-of-scope items.",
+  "detailed_summary": "If a project solution concept is missing from the WBS and cannot be categorized under an existing deliverable, it most likely represents a new parent-level deliverable that must be added. If an item is currently included in the WBS but is not part of the intended project solution, it must be removed because it is out of scope. The document illustrates this with a training wheels component that would not likely belong on a mountain bike WBS.",
+  "content": "WBS refinement requires both addition and removal. When stakeholders discover a required solution element that has no place in the current WBS, they should add a new deliverable branch where appropriate. When stakeholders notice that an existing WBS element is not part of the intended solution, they must remove it to preserve scope accuracy. This keeps the WBS aligned with what the project is actually meant to deliver and supports later planning accuracy.",
+  "keywords": [
+    "missing deliverable",
+    "out of scope",
+    "WBS correction",
+    "scope alignment"
+  ],
+  "tags": [
+    "WBS",
+    "scope management",
+    "decomposition",
+    "change"
+  ],
+  "related_topics": [
+    "completeness-check-for-a-wbs",
+    "wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control",
+    "change-management-impact-on-wbs-schedule-and-budget"
+  ],
+  "relationships": [
+    "Missing items expand scope definition",
+    "Out-of-scope items must be removed to preserve correct scope"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "beginner",
+  "category": "process",
+  "sub_category": "scope correction",
+  "prerequisites": [
+    "completeness-check-for-a-wbs"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "What if something is missing from the WBS?",
+    "What if an item in the WBS is out of scope?",
+    "How do you fix a WBS?"
+  ],
+  "common_questions": [
+    "How should I handle uncategorized solution elements?",
+    "When should I remove a WBS deliverable?",
+    "Can a WBS include things not in scope?"
+  ],
+  "can_answer": [
+    "How to revise a WBS for missing items",
+    "How to remove out-of-scope elements",
+    "How scope clarity affects WBS quality"
+  ],
+  "examples": [
+    "Training wheels should be removed from a mountain bike WBS if they are not part of the intended product."
+  ],
+  "best_practices": [
+    "Challenge each WBS element against the intended solution.",
+    "Add missing branches early, before schedule and budget are detailed."
+  ],
+  "warnings": [
+    "Leaving out a required deliverable or retaining an irrelevant one can distort downstream plans."
+  ],
+  "limitations": [
+    "Stakeholders may disagree on scope boundaries unless the intended solution is clearly defined."
+  ],
+  "troubleshooting": [
+    "If there is debate about whether an item belongs, compare it to the intended project outcome and approved scope."
+  ],
+  "decision_rules": [
+    "Add a new deliverable if a required solution concept has no valid place in the WBS.",
+    "Remove any WBS element that is not part of the intended project solution."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
