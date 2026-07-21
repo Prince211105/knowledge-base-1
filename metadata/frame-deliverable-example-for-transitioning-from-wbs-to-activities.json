@@ -1,0 +1,79 @@
+{
+  "title": "Frame deliverable example for transitioning from WBS to activities",
+  "slug": "frame-deliverable-example-for-transitioning-from-wbs-to-activities",
+  "overview": "Shows the document's example of converting a specific deliverable into activities.",
+  "detailed_summary": "In the example under the Frame Set hierarchy leg, the deliverable Frame had reached the lowest level of detail needed to understand what would be produced. Stakeholders then listed activities for building it: Design Frame, Create Prototype, Finalize Design, Build Frame, and Paint Frame. This illustrates how the WBS deliverable becomes the focal point for defining schedule activities.",
+  "content": "The Frame example demonstrates the practical point where WBS decomposition ends and activity planning begins. Once Frame is sufficiently clear as a deliverable, the team no longer adds more noun-based components. Instead, they define the actions needed to produce it: Design Frame, Create Prototype, Finalize Design, Build Frame, and Paint Frame. This sequence illustrates the shift from scope definition to execution planning.",
+  "keywords": [
+    "Frame example",
+    "WBS to activities example",
+    "design frame",
+    "create prototype",
+    "build frame",
+    "paint frame"
+  ],
+  "tags": [
+    "WBS",
+    "example",
+    "schedule",
+    "decomposition"
+  ],
+  "related_topics": [
+    "transition-from-wbs-to-project-schedule",
+    "lowest-level-of-wbs-decomposition",
+    "wbs-nouns-vs-schedule-verbs-rule"
+  ],
+  "relationships": [
+    "Example shows noun-based deliverable becoming verb-based activity set"
+  ],
+  "parent_topic": "Transition from WBS to Schedule",
+  "difficulty": "beginner",
+  "category": "example",
+  "sub_category": "activity transition",
+  "prerequisites": [
+    "transition-from-wbs-to-project-schedule"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "Example of transitioning from WBS to activities",
+    "How does a deliverable become schedule activities?",
+    "Frame deliverable activity example"
+  ],
+  "common_questions": [
+    "Can you show an example of moving from a deliverable to tasks?",
+    "What activities might come from a WBS element?",
+    "How do I know what actions belong under a deliverable?"
+  ],
+  "can_answer": [
+    "A concrete example of WBS-to-activity transition",
+    "How activities are derived from a deliverable"
+  ],
+  "examples": [
+    "Design Frame",
+    "Create Prototype",
+    "Finalize Design",
+    "Build Frame",
+    "Paint Frame"
+  ],
+  "best_practices": [
+    "Use a clear deliverable as the basis for defining all required production activities.",
+    "Make sure activities explain how the deliverable will be produced."
+  ],
+  "warnings": [
+    "Do not place these activity phrases back into the WBS; they belong in the schedule."
+  ],
+  "limitations": [
+    "The example is illustrative and not a universal activity list for all frame-related projects."
+  ],
+  "troubleshooting": [
+    "If you cannot derive activities from a deliverable, verify whether the deliverable is clear and truly in scope."
+  ],
+  "decision_rules": [
+    "Once a deliverable is clear enough, stop noun decomposition and list the verb-based activities required to create it."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
