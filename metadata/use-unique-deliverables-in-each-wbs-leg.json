@@ -1,0 +1,69 @@
+{
+  "title": "Use unique deliverables in each WBS leg",
+  "slug": "use-unique-deliverables-in-each-wbs-leg",
+  "overview": "Explains the guideline that each WBS branch should contain unique deliverables.",
+  "detailed_summary": "An effective WBS ensures each leg contains deliverables that are unique from deliverables in another leg. The same deliverable should not be repeated in each column or branch. This helps maintain clarity, avoid duplication, and preserve logical relationships in the scope structure.",
+  "content": "Each WBS branch should represent a distinct portion of the project scope. Repeating the same deliverable across multiple branches can confuse ownership, distort completeness checks, and weaken the usefulness of the structure. Unique placement of deliverables helps stakeholders understand how the scope is organized and prevents accidental double representation of the same output.",
+  "keywords": [
+    "unique WBS legs",
+    "no duplicate deliverables",
+    "WBS duplication"
+  ],
+  "tags": [
+    "WBS",
+    "best practice",
+    "structure",
+    "scope clarity"
+  ],
+  "related_topics": [
+    "guidelines-for-creating-an-effective-wbs",
+    "no-single-correct-way-to-organize-a-wbs"
+  ],
+  "relationships": [
+    "Uniqueness improves WBS clarity and avoids duplication"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "beginner",
+  "category": "best_practice",
+  "sub_category": "structure quality",
+  "prerequisites": [],
+  "dependencies": [],
+  "search_queries": [
+    "Should WBS branches have unique deliverables?",
+    "Can the same deliverable appear in multiple WBS legs?",
+    "How to avoid duplication in a WBS"
+  ],
+  "common_questions": [
+    "Why should each WBS leg be unique?",
+    "What problems come from repeated deliverables?",
+    "How do I handle overlap in WBS branches?"
+  ],
+  "can_answer": [
+    "Why duplicated deliverables are a problem",
+    "How to structure unique WBS branches"
+  ],
+  "examples": [
+    "Instead of placing the same approval document under several branches, place it once in the most appropriate deliverable leg."
+  ],
+  "best_practices": [
+    "Assign each deliverable to the single most logical branch.",
+    "Review the WBS for repeated items during validation."
+  ],
+  "warnings": [
+    "Duplicate deliverables can lead to confusion and perceived overstatement of scope."
+  ],
+  "limitations": [
+    "Some supporting artifacts may relate to multiple areas, but the WBS should still place them uniquely."
+  ],
+  "troubleshooting": [
+    "If a deliverable seems to fit multiple branches, select the branch that best reflects its primary scope relationship."
+  ],
+  "decision_rules": [
+    "Do not repeat the same deliverable in multiple WBS legs; place it once in the most logical location."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
