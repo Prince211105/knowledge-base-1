@@ -1,0 +1,121 @@
+---
+title: Every WBS deliverable must ultimately have activities
+slug: every-wbs-deliverable-must-ultimately-have-activities
+
+overview: Explains the expectation that each WBS deliverable should map to production activities.
+summary: Every deliverable in the WBS must ultimately have activities defined for producing it. If this is not possible, either the deliverable is still unclear or, more likely, it is not relevant and not in scope for the project. The inability to define activities can therefore act as a diagnostic signal about deliverable validity.
+
+category: decision_rule
+sub_category: deliverable validation
+difficulty: intermediate
+
+parent_topic: Work Breakdown Structure
+
+tags:
+  - WBS
+  - validation
+  - schedule
+  - scope
+
+keywords:
+  - activities for every deliverable
+  - deliverable validation
+  - in-scope check
+  - unclear deliverable
+
+aliases:
+  []
+
+synonyms:
+  []
+
+search_queries:
+  - Should every WBS deliverable have activities?
+  - What if I cannot define activities for a deliverable?
+  - How do I validate a WBS deliverable?
+
+common_questions:
+  - Does every WBS item need corresponding activities?
+  - What does it mean if a deliverable has no activities?
+  - How can activity definition validate scope?
+
+related_topics:
+  - transition-from-wbs-to-project-schedule
+  - lowest-level-of-wbs-decomposition
+  - handling-missing-and-out-of-scope-elements-in-a-wbs
+
+relationships:
+  - Valid deliverables should support activity definition
+  - Inability to define activities may indicate lack of clarity or out-of-scope content
+
+prerequisites:
+  - transition-from-wbs-to-project-schedule
+
+dependencies:
+  []
+
+---
+
+# Every WBS deliverable must ultimately have activities
+
+## Overview
+
+Explains the expectation that each WBS deliverable should map to production activities.
+
+## Detailed Summary
+
+Every deliverable in the WBS must ultimately have activities defined for producing it. If this is not possible, either the deliverable is still unclear or, more likely, it is not relevant and not in scope for the project. The inability to define activities can therefore act as a diagnostic signal about deliverable validity.
+
+## Content
+
+The WBS is not the schedule, but each WBS deliverable should eventually support activity definition. When the team cannot describe any activities that would produce a supposed deliverable, they should question whether the deliverable is sufficiently understood or whether it belongs in the project at all. This provides a practical validation test connecting scope definition to execution planning.
+
+## Can Answer
+
+- How to test whether a deliverable is valid and clear
+- What inability to define activities means
+
+## Best Practices
+
+- Use activity derivation as a validation step after WBS decomposition.
+- Re-examine any deliverable that does not translate into execution work.
+
+## Examples
+
+- If a WBS item cannot generate any meaningful production activities, it may be irrelevant or not truly in scope.
+
+## Warnings
+
+- A deliverable without definable activities may indicate hidden ambiguity or invalid scope.
+
+## Limitations
+
+- Some deliverables may require stakeholder clarification before activities can be defined.
+
+## Troubleshooting
+
+- If no activities can be identified, clarify the deliverable definition first; if still impossible, remove or revise the deliverable.
+
+## Decision Rules
+
+- If a deliverable cannot produce meaningful activities, either clarify it further or determine that it is not relevant to project scope.
+
+## Commands
+
+_None_
+
+## Configurations
+
+_None_
+
+## API References
+
+_None_
+
+## UI Elements
+
+_None_
+
+## Error Messages
+
+_None_
