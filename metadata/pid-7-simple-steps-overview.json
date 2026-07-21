@@ -1,0 +1,92 @@
+{
+  "title": "Project Initiation Document – 7 Simple Creation Steps Overview",
+  "slug": "pid-7-simple-steps-overview",
+  "overview": "A concise list of the seven essential steps to create a Project Initiation Document, from providing context to sharing the final document.",
+  "detailed_summary": "The article outlines a seven‑step process for building a Project Initiation Document tailored for Digital Project Management. The steps are: 1) Provide the Context, 2) Define the Project Parameters, 3) Define the Specifics, 4) Define the Project Breakdown Structure and Resourcing Plan, 5) Define Who’s Who (RACI), 6) Identify Risks, Assumptions, Issues, and Dependencies, and 7) Share the Project Initiation Document. Each step focuses on a distinct knowledge area, ensuring the PID is comprehensive yet not overly complex.",
+  "content": "7 Simple Steps To Create A Project Initiation Document\n1. Provide The Context\n2. Define The Project Parameters\n3. Define The Specifics\n4. Define the Project Breakdown Structure and Resourcing Plan\n5. Define Who’s Who\n6. Identify Your Risks, Assumptions, Issues And Dependencies\n7. Share Your Project Initiation Document",
+  "keywords": [
+    "seven steps PID",
+    "project initiation steps",
+    "PID creation process",
+    "project initiation guide",
+    "digital project management PID",
+    "project start checklist",
+    "PID workflow"
+  ],
+  "search_queries": [
+    "what are the steps to create a project initiation document",
+    "project initiation document 7 steps",
+    "how to build a PID step by step",
+    "project initiation guide digital project manager"
+  ],
+  "common_questions": [
+    "What are the seven steps to create a PID?",
+    "Is there a recommended order for PID sections?"
+  ],
+  "tags": [
+    "project-management",
+    "pid",
+    "workflow"
+  ],
+  "aliases": [],
+  "synonyms": [],
+  "related_topics": [
+    "pid-step-1-provide-context",
+    "pid-step-2-define-parameters",
+    "pid-step-3-define-specifics",
+    "pid-step-4-breakdown-structure-resourcing",
+    "pid-step-5-raci-chart",
+    "pid-step-6-risks-assumptions-issues-dependencies",
+    "pid-step-7-share-document"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "topic": "pid-step-1-provide-context"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-2-define-parameters"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-3-define-specifics"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-4-breakdown-structure-resourcing"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-5-raci-chart"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-6-risks-assumptions-issues-dependencies"
+    },
+    {
+      "type": "contains",
+      "topic": "pid-step-7-share-document"
+    }
+  ],
+  "parent_topic": "",
+  "difficulty": "beginner",
+  "category": "project-management",
+  "sub_category": "pid",
+  "prerequisites": [],
+  "dependencies": [],
+  "can_answer": [
+    "What are the steps to create a PID?"
+  ],
+  "examples": [],
+  "best_practices": [],
+  "warnings": [],
+  "limitations": [],
+  "troubleshooting": [],
+  "decision_rules": [],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
