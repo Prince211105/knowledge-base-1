@@ -1,0 +1,123 @@
+---
+title: Transition from WBS to Project Schedule
+slug: transition-from-wbs-to-project-schedule
+
+overview: Describes how teams move logically from deliverable decomposition to activity planning.
+summary: Transitioning from WBS to Project Schedule is a logical continuation of decomposition. Stakeholders continue decomposing deliverables using only nouns until they clearly understand what must be produced. The transition to activities occurs naturally when the next level can only be stated as verb phrases describing how the deliverable will be produced. At that point, the team uses the WBS deliverables as the focal point to list every activity included in project scheduling processes.
+
+category: process
+sub_category: planning transition
+difficulty: intermediate
+
+parent_topic: Work Breakdown Structure
+
+tags:
+  - WBS
+  - schedule
+  - process
+  - planning transition
+
+keywords:
+  - transition to schedule
+  - WBS to activities
+  - define activities
+  - noun to verb transition
+
+aliases:
+  []
+
+synonyms:
+  []
+
+search_queries:
+  - How do you transition from a WBS to a project schedule?
+  - When do activities come after the WBS?
+  - How does WBS feed scheduling?
+
+common_questions:
+  - When should the team start defining activities?
+  - How does the WBS become a schedule?
+  - What triggers the move from deliverables to tasks?
+
+related_topics:
+  - lowest-level-of-wbs-decomposition
+  - wbs-nouns-vs-schedule-verbs-rule
+  - wbs-versus-project-schedule
+
+relationships:
+  - WBS decomposition feeds activity definition
+  - Transition occurs when deliverables are clear and further detail becomes action-based
+
+prerequisites:
+  - wbs-decomposition-process
+  - wbs-versus-project-schedule
+
+dependencies:
+  []
+
+---
+
+# Transition from WBS to Project Schedule
+
+## Overview
+
+Describes how teams move logically from deliverable decomposition to activity planning.
+
+## Detailed Summary
+
+Transitioning from WBS to Project Schedule is a logical continuation of decomposition. Stakeholders continue decomposing deliverables using only nouns until they clearly understand what must be produced. The transition to activities occurs naturally when the next level can only be stated as verb phrases describing how the deliverable will be produced. At that point, the team uses the WBS deliverables as the focal point to list every activity included in project scheduling processes.
+
+## Content
+
+The WBS-to-schedule transition happens when scope clarity is sufficient and further breakdown becomes action-oriented. Up to that point, decomposition remains noun-based and deliverable-focused. Once action statements are needed, the team begins defining schedule activities for each deliverable. This ensures activities are justified by explicit deliverables and that scheduling processes are anchored in agreed scope rather than assumptions.
+
+## Can Answer
+
+- How to move from WBS to schedule
+- What conditions signal readiness for activity planning
+- Why activities should be based on deliverables
+
+## Best Practices
+
+- Do not begin detailed activity listing until deliverables are clearly defined.
+- Use each WBS deliverable as the anchor for related schedule activities.
+
+## Examples
+
+- For the deliverable Frame, once the deliverable is clear, activities such as Design Frame and Build Frame can be listed in the schedule.
+
+## Warnings
+
+- Starting activity planning before WBS clarity can produce unsupported or incomplete schedules.
+
+## Limitations
+
+- The transition does not eliminate the need for further scheduling work such as sequencing, resourcing, and duration estimation.
+
+## Troubleshooting
+
+- If activity planning feels disconnected, confirm that each activity maps back to a clear WBS deliverable.
+
+## Decision Rules
+
+- Begin activity planning when the next decomposition step can only be expressed as verbs that describe production of a deliverable.
+
+## Commands
+
+_None_
+
+## Configurations
+
+_None_
+
+## API References
+
+_None_
+
+## UI Elements
+
+_None_
+
+## Error Messages
+
+_None_
