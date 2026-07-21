@@ -1,0 +1,77 @@
+{
+  "title": "WBS versus Project Schedule",
+  "slug": "wbs-versus-project-schedule",
+  "overview": "Clarifies the difference between a deliverables-based WBS and an activities-based Project Schedule.",
+  "detailed_summary": "The WBS is not the Project Schedule. The WBS contains deliverables and deliverable hierarchy only, while the Project Schedule contains activities, tasks, milestones, timing dependencies, durations, and resource assignments. Every WBS deliverable is eventually decomposed into activities to produce it. Activities are the \"How's\" for producing project deliverables, while the WBS captures the \"What's.\" The schedule is based on the WBS.",
+  "content": "The WBS and Project Schedule are related but distinct artifacts. The WBS defines what the project will produce. The Project Schedule defines how and when the project team will produce it. Scheduling information includes activities, milestones, sequence logic, durations, and resources. None of that belongs in the WBS. The WBS is the blueprint that justifies the schedule. As planning progresses, each deliverable on the WBS is translated into activities, and those activities are then sequenced, resourced, and timed in the schedule.",
+  "keywords": [
+    "WBS vs schedule",
+    "deliverables vs activities",
+    "what vs how",
+    "project schedule"
+  ],
+  "tags": [
+    "WBS",
+    "schedule",
+    "planning",
+    "project management"
+  ],
+  "related_topics": [
+    "what-the-wbs-contains-and-what-it-excludes",
+    "transition-from-wbs-to-project-schedule",
+    "wbs-nouns-vs-schedule-verbs-rule"
+  ],
+  "relationships": [
+    "WBS defines scope",
+    "Schedule defines execution activities",
+    "Schedule is based on the WBS"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "beginner",
+  "category": "comparison",
+  "sub_category": "planning artifacts",
+  "prerequisites": [
+    "wbs-definition-and-primary-purpose"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "Difference between WBS and schedule",
+    "Is the WBS the same as the project schedule?",
+    "Deliverables vs activities in project management"
+  ],
+  "common_questions": [
+    "How is a WBS different from a project schedule?",
+    "Does the WBS contain tasks and milestones?",
+    "Which comes first, WBS or schedule?"
+  ],
+  "can_answer": [
+    "How WBS and schedule differ",
+    "Why activities are not in the WBS",
+    "How the WBS supports schedule creation"
+  ],
+  "examples": [
+    "Deliverable: Course Location Rooms is a WBS item. Booking rooms and setting up rooms are schedule activities."
+  ],
+  "best_practices": [
+    "Complete deliverable decomposition before detailed activity planning.",
+    "Use the WBS as the scope baseline for schedule development."
+  ],
+  "warnings": [
+    "If the WBS contains tasks or milestones, stakeholders may confuse scope definition with execution planning."
+  ],
+  "limitations": [
+    "The WBS alone cannot represent the dynamic timing and dependency logic of the schedule."
+  ],
+  "troubleshooting": [
+    "If planning artifacts are mixed, separate nouns into the WBS and verbs into the schedule."
+  ],
+  "decision_rules": [
+    "If the element answers \"what will be produced,\" place it in the WBS.",
+    "If it answers \"how, when, or by whom,\" place it in the schedule or related planning artifact."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
