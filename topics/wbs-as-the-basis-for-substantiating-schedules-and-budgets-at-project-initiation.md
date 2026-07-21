@@ -1,0 +1,121 @@
+---
+title: WBS as the basis for substantiating schedules and budgets at project initiation
+slug: wbs-as-the-basis-for-substantiating-schedules-and-budgets-at-project-initiation
+
+overview: Explains why early schedules and budgets should be based on deliverable knowledge captured in the WBS.
+summary: When project teams are asked to prepare schedules and budgets at project initiation before any project work has been performed, the safest way to substantiate those deliverables is to base them on stakeholder knowledge of the deliverables to be produced. The WBS is the foundation project deliverable used to document and communicate all tangible project product, service, and process outcome components.
+
+category: best_practice
+sub_category: project initiation
+difficulty: intermediate
+
+parent_topic: Work Breakdown Structure
+
+tags:
+  - WBS
+  - initiation
+  - estimation
+  - planning
+
+keywords:
+  - project initiation
+  - substantiated estimates
+  - early schedule
+  - early budget
+  - tangible outcomes
+
+aliases:
+  []
+
+synonyms:
+  []
+
+search_queries:
+  - How should you substantiate schedule and budget at project initiation?
+  - What should early estimates be based on?
+  - Why use the WBS at project initiation?
+
+common_questions:
+  - How can I justify an early project budget?
+  - What should support an initial schedule?
+  - Why is the WBS useful before work starts?
+
+related_topics:
+  - risks-of-creating-schedules-and-budgets-without-a-wbs
+  - high-level-wbs-for-initial-rough-order-of-magnitude-estimates
+  - wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control
+
+relationships:
+  - WBS provides the safest early basis for schedule and budget substantiation
+
+prerequisites:
+  - wbs-definition-and-primary-purpose
+
+dependencies:
+  []
+
+---
+
+# WBS as the basis for substantiating schedules and budgets at project initiation
+
+## Overview
+
+Explains why early schedules and budgets should be based on deliverable knowledge captured in the WBS.
+
+## Detailed Summary
+
+When project teams are asked to prepare schedules and budgets at project initiation before any project work has been performed, the safest way to substantiate those deliverables is to base them on stakeholder knowledge of the deliverables to be produced. The WBS is the foundation project deliverable used to document and communicate all tangible project product, service, and process outcome components.
+
+## Content
+
+Projects often require early commitments before execution has begun. In this situation, the WBS provides the most reliable basis for substantiating what is included in the schedule and budget because it captures the agreed outputs the project must deliver. By anchoring estimates in deliverables rather than assumptions alone, teams create more defensible and transparent early planning artifacts.
+
+## Can Answer
+
+- How to support early schedule and budget commitments
+- Why deliverables-based planning is safer at initiation
+
+## Best Practices
+
+- Use stakeholder knowledge of deliverables to build the initial WBS.
+- Base early estimates on explicit deliverables rather than vague assumptions.
+
+## Examples
+
+- A high-level WBS of product, service, or process outputs can support early planning before detailed activities are known.
+
+## Warnings
+
+- Initiation-phase commitments are risky if they are not grounded in a deliverable view of scope.
+
+## Limitations
+
+- Early substantiation may still be approximate until decomposition is more complete.
+
+## Troubleshooting
+
+- If executives question an early estimate, show the WBS deliverables that define what is included.
+
+## Decision Rules
+
+- At project initiation, use the WBS as the basis for defining what the initial schedule and budget cover.
+
+## Commands
+
+_None_
+
+## Configurations
+
+_None_
+
+## API References
+
+_None_
+
+## UI Elements
+
+_None_
+
+## Error Messages
+
+_None_
