@@ -1,0 +1,121 @@
+---
+title: WBS as input to the Define Activities process
+slug: wbs-as-input-to-the-define-activities-process
+
+overview: Explains the formal relationship between the WBS and activity definition.
+summary: Once baselined, the WBS serves as the focal point and justification for defining schedulable activities as part of the Define Activities process 6.2 in the PMBOK Guide Fifth Edition. The WBS supports the project team's underlying assumptions for the Project Schedule and Project Budget because it is an input to the Define Activities process.
+
+category: relationship
+sub_category: process input
+difficulty: intermediate
+
+parent_topic: Work Breakdown Structure
+
+tags:
+  - WBS
+  - PMBOK
+  - schedule planning
+  - process
+
+keywords:
+  - Define Activities process
+  - PMBOK 6.2
+  - WBS input
+  - activity definition
+
+aliases:
+  []
+
+synonyms:
+  []
+
+search_queries:
+  - Is the WBS an input to Define Activities?
+  - How does PMBOK relate WBS to activities?
+  - Why does the WBS justify schedule assumptions?
+
+common_questions:
+  - What project management process uses the WBS as input?
+  - How does the WBS support activity definition?
+  - Does the WBS justify the schedule and budget?
+
+related_topics:
+  - transition-from-wbs-to-project-schedule
+  - wbs-as-foundation-for-schedule-budget-sequencing-and-scope-control
+  - every-wbs-deliverable-must-ultimately-have-activities
+
+relationships:
+  - Baselined WBS is an input to activity definition
+  - WBS justifies schedule and budget assumptions
+
+prerequisites:
+  - wbs-definition-and-primary-purpose
+
+dependencies:
+  []
+
+---
+
+# WBS as input to the Define Activities process
+
+## Overview
+
+Explains the formal relationship between the WBS and activity definition.
+
+## Detailed Summary
+
+Once baselined, the WBS serves as the focal point and justification for defining schedulable activities as part of the Define Activities process 6.2 in the PMBOK Guide Fifth Edition. The WBS supports the project team's underlying assumptions for the Project Schedule and Project Budget because it is an input to the Define Activities process.
+
+## Content
+
+The document explicitly ties the WBS to the formal project management process of defining activities. After the WBS baseline is established, the team uses it to justify and derive the activities that belong in the schedule. This means the WBS is not just conceptually helpful; it is a formal planning input that supports schedule and budget assumptions by grounding them in agreed scope deliverables.
+
+## Can Answer
+
+- How WBS connects to formal activity definition
+- Why a baselined WBS supports planning assumptions
+
+## Best Practices
+
+- Baseline the WBS before detailed activity definition.
+- Use the approved WBS to validate whether proposed activities belong in the schedule.
+
+## Examples
+
+- A baselined WBS provides the agreed deliverables that justify why specific schedule activities exist.
+
+## Warnings
+
+- If the WBS is not agreed, activity definition may be unstable.
+
+## Limitations
+
+- The WBS is only one planning input; scheduling still requires sequencing, duration, and resource analysis.
+
+## Troubleshooting
+
+- If activity lists are disputed, reconcile them against the baselined WBS deliverables.
+
+## Decision Rules
+
+- Use the approved WBS as the reference for deciding whether a schedule activity is justified.
+
+## Commands
+
+_None_
+
+## Configurations
+
+_None_
+
+## API References
+
+_None_
+
+## UI Elements
+
+_None_
+
+## Error Messages
+
+_None_
