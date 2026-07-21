@@ -1,0 +1,77 @@
+{
+  "title": "Training course WBS levels and depth guidance",
+  "slug": "training-course-wbs-levels-and-depth-guidance",
+  "overview": "Explains how far to decompose the training course WBS and when deeper levels are useful.",
+  "detailed_summary": "Most WBS decomposition efforts require drilling down to at least three levels. More than three levels should be added only for deliverables that are very complex and need more clarification. In the training course example, level 2 shows major components under each parent, such as Training Materials being made up of Work Books and Content, and Logistics including Course Location Rooms, Parking logistics, and Computer Equipment. Level 3 and beyond are used only when additional detail is needed to understand a parent deliverable.",
+  "content": "The training course example demonstrates practical decomposition depth. Level 1 establishes major categories. Level 2 identifies key deliverable components within each category. Level 3 is added selectively when a parent deliverable still needs more clarification. Decomposition depth should be driven by understanding needs, not by a fixed rule to break everything down equally. Complex deliverables may require extra levels, while simpler or procured items may not need exhaustive detail.",
+  "keywords": [
+    "training course WBS levels",
+    "WBS depth",
+    "level 2",
+    "level 3",
+    "decomposition guidance"
+  ],
+  "tags": [
+    "WBS",
+    "example",
+    "decomposition",
+    "training course"
+  ],
+  "related_topics": [
+    "training-course-wbs-level-1-deliverables",
+    "100-percent-rule-in-wbs-decomposition",
+    "lowest-level-of-wbs-decomposition"
+  ],
+  "relationships": [
+    "Decomposition depth depends on deliverable complexity and clarity needs"
+  ],
+  "parent_topic": "Training Course WBS",
+  "difficulty": "intermediate",
+  "category": "example",
+  "sub_category": "decomposition guidance",
+  "prerequisites": [
+    "training-course-wbs-level-1-deliverables"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "How many levels should a training course WBS have?",
+    "What does level 2 of a training course WBS include?",
+    "When should a WBS go beyond level 3?"
+  ],
+  "common_questions": [
+    "How deep should a training course WBS be decomposed?",
+    "What is shown at level 2 and level 3?",
+    "Do all branches need the same depth?"
+  ],
+  "can_answer": [
+    "How to choose WBS depth",
+    "What deeper levels provide in the training course example",
+    "Why some branches go deeper than others"
+  ],
+  "examples": [
+    "Training Materials can decompose into Work Books and Content.",
+    "Logistics can include Course Location Rooms, Parking logistics, and Computer Equipment."
+  ],
+  "best_practices": [
+    "Decompose to the point of clarity, not to unnecessary technical detail.",
+    "Use deeper levels only for complex deliverables that need more explanation."
+  ],
+  "warnings": [
+    "Listing every component of purchased equipment may be excessive if the project is buying rather than manufacturing it."
+  ],
+  "limitations": [
+    "No single fixed number of levels fits every deliverable equally."
+  ],
+  "troubleshooting": [
+    "If a branch is still vague at level 2, add level 3 detail. If level 3 adds no useful clarity, stop decomposing that branch."
+  ],
+  "decision_rules": [
+    "Go beyond three levels only when a deliverable is complex and needs more clarification.",
+    "Do not decompose procured items into unnecessary manufacturing detail if not needed for project understanding."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
