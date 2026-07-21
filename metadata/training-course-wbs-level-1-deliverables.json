@@ -1,0 +1,77 @@
+{
+  "title": "Training course WBS level 1 deliverables",
+  "slug": "training-course-wbs-level-1-deliverables",
+  "overview": "Lists the level 1 deliverable categories for a project to create a training course.",
+  "detailed_summary": "For a project initiated to create a new training course, the WBS would likely contain at least these common level 1 categories of deliverables: Training Materials, Resources, Advertising, Logistics, and Training Administration. These represent the highest-level grouping of project deliverables for the course.",
+  "content": "In the training course example, the WBS starts at level 1 with five major deliverable categories: Training Materials, Resources, Advertising, Logistics, and Training Administration. At this level, stakeholders understand the main areas of output but do not yet know the detailed components within each category. This level establishes the high-level scope structure for the course project.",
+  "keywords": [
+    "training course WBS",
+    "level 1 deliverables",
+    "training materials",
+    "resources",
+    "advertising",
+    "logistics",
+    "training administration"
+  ],
+  "tags": [
+    "WBS",
+    "example",
+    "product WBS",
+    "training course"
+  ],
+  "related_topics": [
+    "training-course-wbs-levels-and-depth-guidance",
+    "product-project-wbs-concept",
+    "high-level-wbs-for-initial-rough-order-of-magnitude-estimates"
+  ],
+  "relationships": [
+    "These level 1 categories form the top hierarchy of the training course WBS"
+  ],
+  "parent_topic": "Training Course WBS",
+  "difficulty": "beginner",
+  "category": "example",
+  "sub_category": "WBS structure",
+  "prerequisites": [],
+  "dependencies": [],
+  "search_queries": [
+    "Training course WBS example",
+    "What are the top-level deliverables for a training course WBS?",
+    "Level 1 training course WBS"
+  ],
+  "common_questions": [
+    "What level 1 branches might a training course WBS contain?",
+    "How do you start a WBS for a training course?",
+    "What are common high-level deliverables for a course project?"
+  ],
+  "can_answer": [
+    "Top-level deliverables for a training course project",
+    "How to structure a course WBS at the highest level"
+  ],
+  "examples": [
+    "Training Materials",
+    "Resources",
+    "Advertising",
+    "Logistics",
+    "Training Administration"
+  ],
+  "best_practices": [
+    "Use top-level categories to establish broad scope understanding before deeper decomposition."
+  ],
+  "warnings": [
+    "Level 1 alone is not enough information to build the full course solution."
+  ],
+  "limitations": [
+    "These categories are common examples, not an absolute universal template."
+  ],
+  "troubleshooting": [
+    "If the level 1 categories do not explain the course scope sufficiently, continue decomposition into lower levels."
+  ],
+  "decision_rules": [
+    "Use level 1 only as the starting point; decompose further when stakeholders need more understanding of what will be produced."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
