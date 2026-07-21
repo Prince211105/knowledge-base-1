@@ -1,0 +1,72 @@
+{
+  "title": "Avoid excessive decomposition of procured components",
+  "slug": "avoid-excessive-decomposition-of-procured-components",
+  "overview": "Explains why some deliverables should not be broken down into unnecessary technical detail.",
+  "detailed_summary": "In the training course example, it may be useful to show multiple types of computer deliverables needed to support a virtual training course, but it is probably too much information to list every computer component down to memory, drives, and wiring, especially if the project involves buying the equipment rather than manufacturing it. Decomposition should add understanding, not noise.",
+  "content": "The WBS should be detailed enough to clarify deliverables, but not so detailed that it adds irrelevant technical breakdown. When the project is procuring a component rather than building it, exhaustive subcomponent detail may not improve understanding of scope. The decision to decompose further should depend on whether the additional level helps stakeholders understand what the project will produce.",
+  "keywords": [
+    "excessive decomposition",
+    "procured components",
+    "WBS detail level",
+    "computer equipment example"
+  ],
+  "tags": [
+    "WBS",
+    "best practice",
+    "decomposition",
+    "procurement"
+  ],
+  "related_topics": [
+    "training-course-wbs-levels-and-depth-guidance",
+    "lowest-level-of-wbs-decomposition"
+  ],
+  "relationships": [
+    "Useful decomposition depends on whether added detail clarifies scope"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "intermediate",
+  "category": "best_practice",
+  "sub_category": "decomposition depth",
+  "prerequisites": [
+    "wbs-decomposition-process"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "How detailed should procured items be in a WBS?",
+    "Should purchased equipment be fully decomposed in a WBS?",
+    "How to avoid over-decomposing a WBS"
+  ],
+  "common_questions": [
+    "When is WBS detail too much?",
+    "Do I need to list all subcomponents of purchased equipment?",
+    "How do I decide whether to decompose further?"
+  ],
+  "can_answer": [
+    "How to avoid unnecessary WBS detail",
+    "How procurement affects decomposition depth"
+  ],
+  "examples": [
+    "For computer equipment, showing device categories may be enough; listing memory and wiring may be unnecessary if the equipment is being purchased."
+  ],
+  "best_practices": [
+    "Decompose only to the level needed for scope understanding.",
+    "Use less detail for procured items when internal manufacturing detail is irrelevant."
+  ],
+  "warnings": [
+    "Over-decomposition can clutter the WBS and distract from meaningful scope definition."
+  ],
+  "limitations": [
+    "Some procured items may still need deeper decomposition if they are complex or risky."
+  ],
+  "troubleshooting": [
+    "If a WBS branch feels too technical, ask whether the team needs that detail to understand the project deliverable or whether it is supplier-level design detail."
+  ],
+  "decision_rules": [
+    "Do not decompose purchased items beyond the point that adds useful scope clarity."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
