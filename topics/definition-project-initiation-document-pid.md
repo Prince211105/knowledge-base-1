@@ -1,0 +1,195 @@
+---
+title: Definition of a Project Initiation Document (PID)
+slug: definition-project-initiation-document-pid
+
+overview: A Project Initiation Document (PID) defines the project scope, management approach, and success criteria. It serves as an internal guide and a reference for external stakeholders throughout the project lifecycle.
+summary: A Project Initiation Document (PID) is a formal artifact that captures the essential information about a project. It includes the project context, scope, team composition, collaboration model, and overall success criteria. The PID acts as both an internal reference for the project team and an informational document for external stakeholders. It is often derived from the Prince2 methodology but similar artifacts exist in other project management frameworks, sometimes called a Project Charter or Project Brief. The PID is intended to be a living document that can be updated as the project evolves, providing continuity when resources change or new members join. By documenting the project’s purpose, constraints, and expectations early, the PID helps mitigate miscommunication and scope creep.
+
+category: project-management
+sub_category: project-documents
+difficulty: beginner
+
+parent_topic: 
+
+tags:
+  - project-management
+  - documentation
+  - pid
+  - project-charter
+  - project-brief
+
+keywords:
+  - Project Initiation Document
+  - PID
+  - Project Charter
+  - Project Brief
+  - project scope
+  - project management
+  - success criteria
+  - project context
+  - team structure
+  - collaboration model
+  - Prince2
+  - project artifact
+  - project initiation
+  - project documentation
+  - project guidelines
+  - project governance
+  - project baseline
+  - project reference
+  - living document
+  - project constraints
+  - project objectives
+  - project deliverables
+  - project success metrics
+  - project stakeholder communication
+  - project management best practice
+  - PMO
+  - project plan
+  - project initiation phase
+  - project kickoff
+  - project lifecycle
+  - project documentation template
+  - project alignment
+  - project risk management
+  - project assumptions
+  - project dependencies
+  - project timeline
+  - project budget
+  - project resources
+  - project team roles
+  - project governance framework
+  - project charter definition
+  - project brief definition
+  - project scope statement
+
+aliases:
+  - Project Charter
+  - Project Brief
+
+synonyms:
+  - PID
+  - Project Initiation Document
+
+search_queries:
+  - what is a project initiation document
+  - definition of PID in project management
+  - project initiation document vs project charter
+  - why create a PID
+  - PID purpose and content
+  - what does PID stand for
+  - project initiation document template example
+  - how to write a project initiation document
+  - project initiation document components
+  - project initiation document Prince2
+  - project initiation document definition pdf
+  - project initiation document meaning
+  - project charter vs project brief vs PID
+  - project initiation document format
+  - project initiation document guide
+  - project initiation document sample
+  - project initiation document outline
+  - project initiation document for digital projects
+  - project initiation document best practices
+  - project initiation document success criteria
+
+common_questions:
+  - What does PID stand for?
+  - What information is included in a Project Initiation Document?
+  - How is a PID different from a Project Charter?
+  - Why is a PID important for a project?
+  - When should a PID be created?
+  - Can a PID be updated after the project starts?
+  - Is a PID required for all project methodologies?
+  - How detailed should the scope section of a PID be?
+  - Who should review and approve the PID?
+  - What are the benefits of having a PID as a living document?
+  - How does a PID help new team members get up to speed?
+  - What success criteria should be documented in a PID?
+  - Can I use a PID template from Prince2 for Agile projects?
+  - How does a PID support stakeholder communication?
+  - What are common mistakes when creating a PID?
+
+related_topics:
+  - importance-of-pid
+  - project-breakdown-structure
+  - raci-chart
+
+relationships:
+  - {"type":"related_to","topic":"importance-of-pid"}
+  - {"type":"related_to","topic":"project-breakdown-structure"}
+  - {"type":"related_to","topic":"raci-chart"}
+
+prerequisites:
+  []
+
+dependencies:
+  []
+
+---
+
+# Definition of a Project Initiation Document (PID)
+
+## Overview
+
+A Project Initiation Document (PID) defines the project scope, management approach, and success criteria. It serves as an internal guide and a reference for external stakeholders throughout the project lifecycle.
+
+## Detailed Summary
+
+A Project Initiation Document (PID) is a formal artifact that captures the essential information about a project. It includes the project context, scope, team composition, collaboration model, and overall success criteria. The PID acts as both an internal reference for the project team and an informational document for external stakeholders. It is often derived from the Prince2 methodology but similar artifacts exist in other project management frameworks, sometimes called a Project Charter or Project Brief. The PID is intended to be a living document that can be updated as the project evolves, providing continuity when resources change or new members join. By documenting the project’s purpose, constraints, and expectations early, the PID helps mitigate miscommunication and scope creep.
+
+## Content
+
+A Project Initiation Document defines the project scope, management and overall success criteria that the team can go back to during the project. It contains the basic information of the project such as context, scope, team, and collaboration. It is equally important as an internal guide and for external stakeholders.
+
+## Can Answer
+
+- What is a PID?
+- What sections are in a PID?
+- Why use a PID?
+
+## Best Practices
+
+- Use the PID as a living document that can be updated as the project evolves.
+- Include both internal and external stakeholder information in the PID.
+- Align the PID with the chosen project methodology (e.g., Prince2, Agile).
+
+## Examples
+
+_None_
+
+## Warnings
+
+- Do not treat the PID as a static document; failing to update it can lead to outdated information.
+
+## Limitations
+
+_None_
+
+## Troubleshooting
+
+_None_
+
+## Decision Rules
+
+_None_
+
+## Commands
+
+_None_
+
+## Configurations
+
+_None_
+
+## API References
+
+_None_
+
+## UI Elements
+
+_None_
+
+## Error Messages
+
+_None_
