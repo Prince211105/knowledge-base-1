@@ -1,0 +1,75 @@
+{
+  "title": "WBS nouns versus schedule verbs rule",
+  "slug": "wbs-nouns-versus-schedule-verbs-rule",
+  "overview": "Provides the simple language rule for keeping a WBS deliverables-based.",
+  "detailed_summary": "To ensure the WBS remains deliverables-based rather than activities-based, every element in the WBS should be represented as a noun phrase rather than a verb phrase. The rule is: WBS equals nouns, Schedule Activities equals verbs. When decomposition shifts from nouns describing a deliverable to verb phrases describing how it will be produced, the WBS has reached its lowest useful level of decomposition.",
+  "content": "The simplest test for whether an item belongs in the WBS is grammatical. If the item is a noun phrase, it likely represents a deliverable and may belong in the WBS. If it is a verb phrase, it likely describes an activity and belongs in the schedule. This rule helps stakeholders maintain a clear distinction between scope definition and execution planning and signals when to transition from WBS decomposition to activity definition.",
+  "keywords": [
+    "WBS nouns",
+    "schedule verbs",
+    "noun phrase",
+    "verb phrase",
+    "deliverables-based WBS"
+  ],
+  "tags": [
+    "WBS",
+    "best practice",
+    "decomposition",
+    "schedule"
+  ],
+  "related_topics": [
+    "wbs-versus-project-schedule",
+    "wbs-lowest-level-of-decomposition",
+    "transition-from-wbs-to-project-schedule"
+  ],
+  "relationships": [
+    "Nouns indicate deliverables",
+    "Verbs indicate activities"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "beginner",
+  "category": "best_practice",
+  "sub_category": "naming rule",
+  "prerequisites": [],
+  "dependencies": [],
+  "search_queries": [
+    "Should WBS items be nouns or verbs?",
+    "How do I keep a WBS deliverables-based?",
+    "WBS equals nouns schedule equals verbs"
+  ],
+  "common_questions": [
+    "Why should WBS elements be nouns?",
+    "How do I tell if an item is an activity instead of a deliverable?",
+    "What language rule keeps WBS and schedule separate?"
+  ],
+  "can_answer": [
+    "How to test WBS item wording",
+    "How to distinguish deliverables from activities",
+    "When decomposition has gone far enough"
+  ],
+  "examples": [
+    "Frame is a WBS noun. Paint Frame is a schedule verb phrase."
+  ],
+  "best_practices": [
+    "Review WBS labels and rewrite verb phrases as noun phrases where possible.",
+    "Use the nouns-versus-verbs rule during workshops to prevent activity drift."
+  ],
+  "warnings": [
+    "Verb-based WBS elements indicate the team may be building a schedule instead of a WBS."
+  ],
+  "limitations": [
+    "A noun phrase alone does not guarantee the item is in scope or sufficiently clear."
+  ],
+  "troubleshooting": [
+    "If a WBS branch contains phrases like design, build, review, or install as actions, move them to activity planning and replace them with deliverable names."
+  ],
+  "decision_rules": [
+    "If the element is a noun phrase representing an output, place it in the WBS.",
+    "If the element is a verb phrase representing an action, place it in the schedule."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
