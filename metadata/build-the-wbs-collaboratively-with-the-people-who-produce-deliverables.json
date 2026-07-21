@@ -1,0 +1,71 @@
+{
+  "title": "Build the WBS collaboratively with the people who produce deliverables",
+  "slug": "build-the-wbs-collaboratively-with-the-people-who-produce-deliverables",
+  "overview": "Explains the recommendation to create the WBS collaboratively with delivery contributors.",
+  "detailed_summary": "One recommended guideline is to build the WBS collaboratively with the people who will ultimately produce the project deliverables. Their participation helps ensure the deliverable structure is realistic, complete, and aligned with what the project team must create.",
+  "content": "The document advises involving the people who will produce the deliverables in WBS creation. These contributors provide practical insight into what the solution includes and help avoid omissions or unrealistic scope assumptions. Collaborative development also strengthens shared understanding and stakeholder alignment on what the project is expected to deliver.",
+  "keywords": [
+    "collaborative WBS",
+    "stakeholder participation",
+    "delivery team input",
+    "WBS workshop"
+  ],
+  "tags": [
+    "WBS",
+    "collaboration",
+    "best practice",
+    "stakeholders"
+  ],
+  "related_topics": [
+    "guidelines-for-creating-an-effective-wbs",
+    "completeness-check-for-a-wbs",
+    "wbs-decomposition-process"
+  ],
+  "relationships": [
+    "Collaboration improves completeness and alignment"
+  ],
+  "parent_topic": "Work Breakdown Structure",
+  "difficulty": "beginner",
+  "category": "best_practice",
+  "sub_category": "collaboration",
+  "prerequisites": [],
+  "dependencies": [],
+  "search_queries": [
+    "Who should build the WBS?",
+    "Should delivery team members help create the WBS?",
+    "Why build the WBS collaboratively?"
+  ],
+  "common_questions": [
+    "Who should participate in WBS creation?",
+    "Why involve the people doing the work in WBS decomposition?",
+    "How does collaboration improve the WBS?"
+  ],
+  "can_answer": [
+    "Who should be involved in WBS creation",
+    "Why collaboration matters for WBS quality"
+  ],
+  "examples": [
+    "A relocation team should help define relocation deliverables because they understand practical move requirements."
+  ],
+  "best_practices": [
+    "Include people with direct knowledge of the deliverables.",
+    "Use collaborative brainstorming to decompose complex branches."
+  ],
+  "warnings": [
+    "If the WBS is built without delivery contributors, important deliverables may be overlooked."
+  ],
+  "limitations": [
+    "Collaboration does not automatically resolve conflicts; facilitation may still be needed."
+  ],
+  "troubleshooting": [
+    "If the WBS lacks practical detail, bring in the people responsible for producing the affected deliverables."
+  ],
+  "decision_rules": [
+    "Include contributors who understand or will produce the deliverables when decomposing the WBS."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
