@@ -1,0 +1,76 @@
+{
+  "title": "Uneven decomposition depth across WBS branches",
+  "slug": "uneven-decomposition-depth-across-wbs-branches",
+  "overview": "Explains why some WBS branches are decomposed deeper than others and what that can indicate.",
+  "detailed_summary": "In the workplace relocation example, some level 2 deliverables have been decomposed to level 3 while others have not. This is common during brainstorming because more complex or troublesome deliverables often come to mind early. The example suggests that the WBS is likely not fully decomposed because several level 2 deliverables remain too subjective, such as Packing Materials, Utilities, Transition Plan, and Supplies.",
+  "content": "WBS branches do not always evolve uniformly. During brainstorming, the team may expand certain complex or risky branches sooner than others. This uneven depth is normal, but it can also indicate that the WBS is incomplete if some branches remain too vague. Subjective or broad deliverables usually need further decomposition before the WBS can be considered sufficiently clear.",
+  "keywords": [
+    "uneven decomposition",
+    "branch depth",
+    "brainstorming",
+    "subjective deliverables",
+    "incomplete WBS"
+  ],
+  "tags": [
+    "WBS",
+    "decomposition",
+    "example",
+    "quality check"
+  ],
+  "related_topics": [
+    "wbs-decomposition-process",
+    "completeness-check-for-a-wbs",
+    "lowest-level-of-wbs-decomposition"
+  ],
+  "relationships": [
+    "Uneven depth may be normal during brainstorming but can also indicate incomplete decomposition"
+  ],
+  "parent_topic": "Workplace Relocation Project WBS",
+  "difficulty": "intermediate",
+  "category": "concept",
+  "sub_category": "decomposition pattern",
+  "prerequisites": [
+    "wbs-decomposition-process"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "Do all WBS branches need the same depth?",
+    "Why are some WBS branches deeper than others?",
+    "How do I know a WBS branch is still too subjective?"
+  ],
+  "common_questions": [
+    "Is uneven WBS decomposition normal?",
+    "What does it mean when some branches are much deeper?",
+    "How do I detect an incompletely decomposed branch?"
+  ],
+  "can_answer": [
+    "Whether all WBS branches require equal depth",
+    "Why brainstorming causes uneven branch detail",
+    "How to spot branches needing more work"
+  ],
+  "examples": [
+    "Packing Materials, Utilities, Transition Plan, and Supplies are examples of level 2 items that may still be too subjective and need more detail."
+  ],
+  "best_practices": [
+    "Accept uneven depth during early brainstorming, then revisit shallow subjective branches.",
+    "Use clarity rather than symmetry as the criterion for decomposition depth."
+  ],
+  "warnings": [
+    "Assuming a WBS is complete just because some branches are detailed can hide incomplete scope elsewhere."
+  ],
+  "limitations": [
+    "Depth variation alone does not prove incompleteness; the key issue is whether each branch is sufficiently clear."
+  ],
+  "troubleshooting": [
+    "If a branch remains broad or subjective, continue decomposing it until stakeholders understand what will be produced."
+  ],
+  "decision_rules": [
+    "Do not force equal depth across all branches; decompose each branch to the level needed for clarity.",
+    "If a deliverable remains subjective, decompose further."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
