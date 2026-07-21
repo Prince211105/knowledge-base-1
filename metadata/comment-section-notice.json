@@ -1,0 +1,57 @@
+{
+  "title": "Comment Section Notice",
+  "slug": "comment-section-notice",
+  "overview": "The page includes a single comment from a reader and a standard Akismet spam notice.",
+  "detailed_summary": "A reader named “halil ibrahim dural” left a comment on 19/11/2018 at 11:57 pm. The site uses Akismet to reduce spam, and there is a note explaining how comment data is processed. This section indicates that the article allows user interaction.",
+  "content": "halil ibrahim dural\n19/11/2018 at 11:57 pm\nOne Comment\nThis site uses Akismet to reduce spam. Learn how your comment data is processed.",
+  "keywords": [
+    "comment section",
+    "user comment",
+    "Akismet",
+    "spam reduction",
+    "comment data processing",
+    "reader feedback"
+  ],
+  "search_queries": [
+    "who commented on the PID article",
+    "Akismet comment processing notice",
+    "how to leave a comment on the page"
+  ],
+  "common_questions": [
+    "What does the Akismet notice mean?",
+    "Can I see the comment left by halil ibrahim dural?"
+  ],
+  "tags": [
+    "comment",
+    "user-feedback"
+  ],
+  "aliases": [],
+  "synonyms": [],
+  "related_topics": [],
+  "relationships": [],
+  "parent_topic": "",
+  "difficulty": "beginner",
+  "category": "community",
+  "sub_category": "comments",
+  "prerequisites": [],
+  "dependencies": [],
+  "can_answer": [
+    "What comment is displayed on the page?"
+  ],
+  "examples": [],
+  "best_practices": [],
+  "warnings": [],
+  "limitations": [],
+  "troubleshooting": [],
+  "decision_rules": [],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [
+    {
+      "type": "comment",
+      "label": "User comment"
+    }
+  ],
+  "error_messages": []
+}
