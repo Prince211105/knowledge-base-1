@@ -1,0 +1,764 @@
+{
+  "version": "1.0",
+  "created_at": "2026-07-21T06:02:33.883Z",
+  "total_topics": 19,
+  "topics": [
+    {
+      "title": "Definition of a Project Initiation Document (PID)",
+      "slug": "definition-project-initiation-document-pid",
+      "overview": "A Project Initiation Document (PID) defines the project scope, management approach, and success criteria. It serves as an internal guide and a reference for external stakeholders throughout the project lifecycle.",
+      "detail_summary": "A Project Initiation Document (PID) is a formal artifact that captures the essential information about a project. It includes the project context, scope, team composition, collaboration model, and overall success criteria. The PID acts as both an internal reference for the project team and an informational document for external stakeholders. It is often derived from the Prince2 methodology but similar artifacts exist in other project management frameworks, sometimes called a Project Charter or Project Brief. The PID is intended to be a living document that can be updated as the project evolves, providing continuity when resources change or new members join. By documenting the project’s purpose, constraints, and expectations early, the PID helps mitigate miscommunication and scope creep.",
+      "search_queries": [
+        "what is a project initiation document",
+        "definition of PID in project management",
+        "project initiation document vs project charter",
+        "why create a PID",
+        "PID purpose and content",
+        "what does PID stand for",
+        "project initiation document template example",
+        "how to write a project initiation document",
+        "project initiation document components",
+        "project initiation document Prince2",
+        "project initiation document definition pdf",
+        "project initiation document meaning",
+        "project charter vs project brief vs PID",
+        "project initiation document format",
+        "project initiation document guide",
+        "project initiation document sample",
+        "project initiation document outline",
+        "project initiation document for digital projects",
+        "project initiation document best practices",
+        "project initiation document success criteria"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "Project Initiation Document",
+        "PID",
+        "Project Charter",
+        "Project Brief",
+        "project scope",
+        "project management",
+        "success criteria",
+        "project context",
+        "team structure",
+        "collaboration model",
+        "Prince2",
+        "project artifact",
+        "project initiation",
+        "project documentation",
+        "project guidelines",
+        "project governance",
+        "project baseline",
+        "project reference",
+        "living document",
+        "project constraints",
+        "project objectives",
+        "project deliverables",
+        "project success metrics",
+        "project stakeholder communication",
+        "project management best practice",
+        "PMO",
+        "project plan",
+        "project initiation phase",
+        "project kickoff",
+        "project lifecycle",
+        "project documentation template",
+        "project alignment",
+        "project risk management",
+        "project assumptions",
+        "project dependencies",
+        "project timeline",
+        "project budget",
+        "project resources",
+        "project team roles",
+        "project governance framework",
+        "project charter definition",
+        "project brief definition",
+        "project scope statement"
+      ],
+      "tags": [
+        "project-management",
+        "documentation",
+        "pid",
+        "project-charter",
+        "project-brief"
+      ],
+      "topic_file": "topics/definition-project-initiation-document-pid.md",
+      "metadata_file": "metadata/definition-project-initiation-document-pid.json"
+    },
+    {
+      "title": "Why a Project Initiation Document is Important",
+      "slug": "why-project-initiation-document-important",
+      "overview": "A PID provides a solid foundation for project success by aligning stakeholders, defining scope, and establishing expectations early. It acts as a safeguard against miscommunication and scope creep.",
+      "detail_summary": "Creating a Project Initiation Document (PID) is essential because it ensures that the project starts on the right foot. The PID captures the project’s context, objectives, constraints, and success criteria, which helps the team stay aligned and reduces the risk of misunderstandings. It serves as a reference point when resources change, new team members join, or scope adjustments occur. Without a PID, projects often go off track due to missing documentation, unclear client expectations, and lack of visibility into responsibilities. The PID also facilitates effective project kickoffs and provides a basis for ongoing governance and decision‑making throughout the project lifecycle.",
+      "search_queries": [
+        "why do we need a project initiation document",
+        "benefits of a PID",
+        "project initiation document importance",
+        "how does a PID improve project success",
+        "project kickoff without PID risks",
+        "project failure due to missing PID",
+        "project initiation document advantages",
+        "why create a PID before assigning tasks",
+        "project start best practices PID",
+        "project documentation impact on success"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "importance of PID",
+        "project kickoff",
+        "project start",
+        "project success factors",
+        "project alignment",
+        "stakeholder communication",
+        "project documentation benefits",
+        "risk mitigation",
+        "scope definition",
+        "project governance",
+        "project management best practice",
+        "project initiation benefits",
+        "project planning",
+        "project execution",
+        "project failure causes",
+        "project off track",
+        "project change management",
+        "resource changes",
+        "team onboarding",
+        "project ramp up",
+        "project documentation",
+        "project start checklist",
+        "project lifecycle start",
+        "project initiation importance",
+        "PID benefits",
+        "project miscommunication",
+        "project scope clarity",
+        "project success criteria",
+        "project oversight",
+        "project control",
+        "project documentation impact",
+        "project manager responsibilities",
+        "project start best practice"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "project-success"
+      ],
+      "topic_file": "topics/why-project-initiation-document-important.md",
+      "metadata_file": "metadata/why-project-initiation-document-important.json"
+    },
+    {
+      "title": "Project Initiation Document and Prince2 Methodology",
+      "slug": "pid-prince2-methodology",
+      "overview": "The PID originates from the Prince2 methodology but similar artifacts exist across other project management frameworks. Understanding this relationship helps adapt the PID to various environments.",
+      "detail_summary": "The Project Initiation Document (PID) is derived from the Prince2 project management methodology, where it serves as the core document that defines the project’s scope, governance, and success criteria. While Prince2 explicitly uses the PID, other methodologies such as PMBOK, Agile, or hybrid approaches also incorporate comparable initiation artifacts, often called a Project Charter or Project Brief. Recognizing that the PID concept is transferable enables project managers to tailor its content to fit the specific processes and terminology of their chosen framework while preserving its core purpose of establishing a solid project foundation.",
+      "search_queries": [
+        "PID Prince2 relationship",
+        "project initiation document Prince2",
+        "how does Prince2 use PID",
+        "project charter vs PID Prince2",
+        "can I use PID in Agile",
+        "Prince2 project initiation document template",
+        "what is the Prince2 PID"
+      ],
+      "category": "project-management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "Prince2",
+        "PID Prince2",
+        "project initiation Prince2",
+        "Prince2 methodology",
+        "project charter",
+        "project brief",
+        "project start artifact",
+        "project management frameworks",
+        "PMBOK initiation",
+        "Agile project kickoff",
+        "hybrid project management",
+        "project initiation document origin",
+        "Prince2 PID",
+        "project governance Prince2",
+        "project documentation standards",
+        "project initiation best practice"
+      ],
+      "tags": [
+        "project-management",
+        "prince2",
+        "pid"
+      ],
+      "topic_file": "topics/pid-prince2-methodology.md",
+      "metadata_file": "metadata/pid-prince2-methodology.json"
+    },
+    {
+      "title": "Step 1 – Provide the Context in a PID",
+      "slug": "pid-step-1-provide-context",
+      "overview": "The first section of a PID captures the business drivers, problem statement, project purpose, and strategic goals. This context aligns the team and stakeholders from the outset.",
+      "detail_summary": "Step 1 of creating a Project Initiation Document is to provide the context. This involves describing why the client is pursuing the project, the problem it aims to solve, and the overall purpose of the work. The writer should also capture any technical drivers versus broader organizational strategy, outline the business goals, define how success will be measured, and include any relevant metrics. A high‑level mission statement or strategic vision helps keep the team focused during solutioning and provides a reference for future enhancements. Gathering this information may require input from the client’s account manager or business sponsor.",
+      "search_queries": [
+        "what context to include in a project initiation document",
+        "how to write the context section of a PID",
+        "project initiation document business drivers",
+        "project purpose and problem statement PID",
+        "strategic vision in PID",
+        "project goals and success metrics PID",
+        "sample context section for PID"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "project context",
+        "business drivers",
+        "problem statement",
+        "project purpose",
+        "strategic vision",
+        "project objectives",
+        "mission statement",
+        "success metrics",
+        "project goals",
+        "technical drivers",
+        "organizational strategy",
+        "client business goals",
+        "project rationale",
+        "PID context section",
+        "project initiation step 1",
+        "project background",
+        "project justification",
+        "project alignment",
+        "project scope context"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "context"
+      ],
+      "topic_file": "topics/pid-step-1-provide-context.md",
+      "metadata_file": "metadata/pid-step-1-provide-context.json"
+    },
+    {
+      "title": "Step 2 – Define the Project Parameters in a PID",
+      "slug": "pid-step-2-define-parameters",
+      "overview": "This step records budget, timeline, collaboration model, and the first target deliverable. Transparency about constraints helps set realistic expectations.",
+      "detail_summary": "Step 2 of the PID creation process focuses on defining the project parameters. The project manager should outline the overall budget, break down the financial allocation, describe the timeline, and explain how collaboration with the client will be handled. Additionally, the first target or milestone that the team will work towards should be identified. By documenting these parameters early, the team gains a shared understanding of constraints and can plan their work accordingly, reducing the risk of misaligned expectations or hidden assumptions.",
+      "search_queries": [
+        "what project parameters to include in a PID",
+        "how to define budget in a project initiation document",
+        "project timeline section PID",
+        "collaboration model in PID",
+        "first target deliverable PID",
+        "project constraints documentation"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "project parameters",
+        "project budget",
+        "budget breakdown",
+        "project timeline",
+        "project schedule",
+        "collaboration model",
+        "client collaboration",
+        "first target milestone",
+        "project constraints",
+        "project planning",
+        "PID parameters",
+        "project financials",
+        "project timeboxing",
+        "team alignment",
+        "project resource planning",
+        "project scope constraints",
+        "project budgeting",
+        "project timeline definition",
+        "project kickoff parameters"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "budget",
+        "timeline"
+      ],
+      "topic_file": "topics/pid-step-2-define-parameters.md",
+      "metadata_file": "metadata/pid-step-2-define-parameters.json"
+    },
+    {
+      "title": "Step 3 – Define the Specifics in a PID",
+      "slug": "pid-step-3-define-specifics",
+      "overview": "This section clarifies what is in scope, out of scope, initial requirements, boundaries, and required deliverables, including assumptions and constraints.",
+      "detail_summary": "Step 3 of the PID creation process focuses on the specifics of what the project will deliver. The project manager must list what is in scope and what is out of scope, identify any initial requirements already defined, and state the boundaries that the team must not cross. This section also details the required deliverables, expectations around revisions, assumptions, and any constraints such as regulatory limits or technology restrictions. By clearly defining these specifics, the team knows exactly what needs to be built and delivered, reducing ambiguity and preventing scope creep.",
+      "search_queries": [
+        "how to define scope in a project initiation document",
+        "in scope vs out of scope PID",
+        "project deliverables section PID",
+        "project assumptions and constraints PID",
+        "project boundaries definition PID",
+        "requirements section in PID"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "project scope",
+        "in scope",
+        "out of scope",
+        "project requirements",
+        "project boundaries",
+        "deliverables",
+        "project assumptions",
+        "project constraints",
+        "revision limits",
+        "scope definition",
+        "PID specifics",
+        "project deliverable list",
+        "scope management",
+        "project specifications",
+        "project scope statement",
+        "project expectations",
+        "project scope clarification"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "scope"
+      ],
+      "topic_file": "topics/pid-step-3-define-specifics.md",
+      "metadata_file": "metadata/pid-step-3-define-specifics.json"
+    },
+    {
+      "title": "Step 4 – Define the Project Breakdown Structure and Resourcing Plan",
+      "slug": "pid-step-4-breakdown-structure-resourcing",
+      "overview": "Create a hierarchical breakdown of work packages and assign resources to each. This clarifies how deliverables are assembled and who is responsible.",
+      "detail_summary": "Step 4 involves constructing a Project Breakdown Structure (PBS) that decomposes the overall project into smaller, manageable work packages or activities. Each component is linked to the allocated resources, showing who will perform the work and when. The PBS can be presented at varying levels of detail, often aligning with phases, milestones, or specific dates. By running the team through the PBS during planning, dependencies become visible, and team members can provide input to optimize the plan. The structure also supports resource planning and accountability, ensuring that every deliverable has a clear owner and timeline.",
+      "search_queries": [
+        "what is a project breakdown structure",
+        "how to create a PBS in a PID",
+        "project breakdown structure example",
+        "resource allocation in PID",
+        "mapping deliverables to resources",
+        "project work packages PID",
+        "how to show dependencies in PBS"
+      ],
+      "category": "project-management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "project breakdown structure",
+        "PBS",
+        "work packages",
+        "project resourcing plan",
+        "resource allocation",
+        "project decomposition",
+        "project phases",
+        "project milestones",
+        "project dependencies",
+        "accountability",
+        "project planning",
+        "project structure example",
+        "project breakdown example",
+        "resource planning",
+        "project schedule",
+        "project deliverable mapping",
+        "project task breakdown"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "breakdown-structure",
+        "resourcing"
+      ],
+      "topic_file": "topics/pid-step-4-breakdown-structure-resourcing.md",
+      "metadata_file": "metadata/pid-step-4-breakdown-structure-resourcing.json"
+    },
+    {
+      "title": "Step 5 – Define Who’s Who (RACI Chart) in a PID",
+      "slug": "pid-step-5-raci-chart",
+      "overview": "Identify roles and responsibilities using a RACI matrix to clarify who is Responsible, Accountable, Consulted, and Informed for each deliverable.",
+      "detail_summary": "Step 5 of the PID creation process documents the project team structure and decision‑making hierarchy. A RACI chart is a common tool for this purpose. The chart lists project deliverables or activities on one axis and roles (both internal and external) on the other axis, assigning one of four responsibility designations: Responsible (who does the work), Accountable (who makes the final decision), Consulted (who must be consulted before proceeding), and Informed (who receives updates). Only one person should be accountable per deliverable to avoid confusion. The RACI matrix helps set expectations for communication, governance, and sign‑off procedures, reducing the risk of “I thought that was on your plate” misunderstandings.",
+      "search_queries": [
+        "how to create a RACI chart in a PID",
+        "RACI responsibilities definition",
+        "RACI matrix example for project initiation",
+        "who is responsible vs accountable in RACI",
+        "RACI chart for digital project management",
+        "project role assignment RACI"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "RACI chart",
+        "RACI matrix",
+        "project roles",
+        "responsible",
+        "accountable",
+        "consulted",
+        "informed",
+        "RACI responsibilities",
+        "project governance",
+        "project communication plan",
+        "stakeholder roles",
+        "project deliverable ownership",
+        "project team structure",
+        "RACI best practices",
+        "RACI example",
+        "RACI for PID"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "raci",
+        "roles"
+      ],
+      "topic_file": "topics/pid-step-5-raci-chart.md",
+      "metadata_file": "metadata/pid-step-5-raci-chart.json"
+    },
+    {
+      "title": "Step 6 – Identify Risks, Assumptions, Issues, and Dependencies",
+      "slug": "pid-step-6-risks-assumptions-issues-dependencies",
+      "overview": "Document known risks, assumptions, potential issues, and dependencies, along with mitigation strategies, to proactively manage uncertainties.",
+      "detail_summary": "The sixth step in creating a PID is to capture any known risks, assumptions, issues, and dependencies that could impact the project. Risks may include timeline constraints, budget limitations, technical unknowns, a complex stakeholder landscape, or single points of failure. Assumptions are conditions taken for granted that could affect outcomes if they prove false. Issues are current problems that need resolution, while dependencies are external or internal factors that the project relies upon. For each identified item, include a brief mitigation or resolution strategy to reduce its impact.",
+      "search_queries": [
+        "how to document risks in a project initiation document",
+        "project assumptions section PID",
+        "project issues and dependencies PID",
+        "risk mitigation strategies PID",
+        "example project risks PID"
+      ],
+      "category": "project-management",
+      "difficulty": "intermediate",
+      "keywords": [
+        "project risks",
+        "risk identification",
+        "project assumptions",
+        "project issues",
+        "project dependencies",
+        "risk mitigation",
+        "risk management",
+        "project constraints",
+        "project risk examples",
+        "project risk register",
+        "project risk analysis",
+        "PID risk section",
+        "project risk documentation",
+        "risk planning",
+        "project uncertainty"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "risk-management"
+      ],
+      "topic_file": "topics/pid-step-6-risks-assumptions-issues-dependencies.md",
+      "metadata_file": "metadata/pid-step-6-risks-assumptions-issues-dependencies.json"
+    },
+    {
+      "title": "Step 7 – Share the Project Initiation Document",
+      "slug": "pid-step-7-share-document",
+      "overview": "Distribute the PID to the entire team, onboard new members, obtain client sign‑off, and use it as a reference for future check‑ins.",
+      "detail_summary": "The final step is to disseminate the completed PID to all relevant stakeholders. The document should be shared with the internal team, any new members joining later, and the client for formal sign‑off, which captures agreed assumptions, RACI assignments, and other critical information. Making the PID easily accessible supports ongoing check‑ins, helps keep the project on track, and serves as a reference point when new stakeholders are introduced or when approval processes become more complex than anticipated.",
+      "search_queries": [
+        "how to share a project initiation document",
+        "who should receive the PID",
+        "client sign‑off process PID",
+        "using PID for project check‑ins",
+        "onboarding new team members with PID"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "share PID",
+        "distribute project initiation document",
+        "PID sign‑off",
+        "project document sharing",
+        "project onboarding",
+        "project check‑ins",
+        "project stakeholder communication",
+        "PID distribution",
+        "project documentation access",
+        "client approval PID"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "communication"
+      ],
+      "topic_file": "topics/pid-step-7-share-document.md",
+      "metadata_file": "metadata/pid-step-7-share-document.json"
+    },
+    {
+      "title": "Project Initiation Document – 7 Simple Creation Steps Overview",
+      "slug": "pid-7-simple-steps-overview",
+      "overview": "A concise list of the seven essential steps to create a Project Initiation Document, from providing context to sharing the final document.",
+      "detail_summary": "The article outlines a seven‑step process for building a Project Initiation Document tailored for Digital Project Management. The steps are: 1) Provide the Context, 2) Define the Project Parameters, 3) Define the Specifics, 4) Define the Project Breakdown Structure and Resourcing Plan, 5) Define Who’s Who (RACI), 6) Identify Risks, Assumptions, Issues, and Dependencies, and 7) Share the Project Initiation Document. Each step focuses on a distinct knowledge area, ensuring the PID is comprehensive yet not overly complex.",
+      "search_queries": [
+        "what are the steps to create a project initiation document",
+        "project initiation document 7 steps",
+        "how to build a PID step by step",
+        "project initiation guide digital project manager"
+      ],
+      "category": "project-management",
+      "difficulty": "beginner",
+      "keywords": [
+        "seven steps PID",
+        "project initiation steps",
+        "PID creation process",
+        "project initiation guide",
+        "digital project management PID",
+        "project start checklist",
+        "PID workflow"
+      ],
+      "tags": [
+        "project-management",
+        "pid",
+        "workflow"
+      ],
+      "topic_file": "topics/pid-7-simple-steps-overview.md",
+      "metadata_file": "metadata/pid-7-simple-steps-overview.json"
+    },
+    {
+      "title": "Digital Project Manager Podcast Mention on PID",
+      "slug": "digital-project-manager-podcast-pid",
+      "overview": "The article references a podcast episode where Ben Aston and Maik Stettner discuss using a PID to improve project kickoffs.",
+      "detail_summary": "The Digital Project Manager Podcast episode featuring Ben Aston and Maik Stettner explores how a Project Initiation Document (also called a project brief) can be used to align stakeholders at the start of a project and make kickoffs more effective. The conversation highlights the consequences of jumping into projects too quickly without proper documentation and underscores the PID’s role in preventing miscommunication. Listeners are encouraged to support the show via a membership link.",
+      "search_queries": [
+        "Digital Project Manager podcast PID episode",
+        "Ben Aston Maik Stettner PID discussion",
+        "project brief podcast",
+        "project kickoff podcast recommendations"
+      ],
+      "category": "media",
+      "difficulty": "beginner",
+      "keywords": [
+        "Digital Project Manager Podcast",
+        "PID podcast",
+        "Ben Aston",
+        "Maik Stettner podcast",
+        "project kickoff podcast",
+        "project brief discussion",
+        "project initiation audio",
+        "project management podcast"
+      ],
+      "tags": [
+        "podcast",
+        "pid",
+        "digital-project-manager"
+      ],
+      "topic_file": "topics/digital-project-manager-podcast-pid.md",
+      "metadata_file": "metadata/digital-project-manager-podcast-pid.json"
+    },
+    {
+      "title": "Project Initiation Document Template Availability",
+      "slug": "pid-template-availability",
+      "overview": "A downloadable Project Initiation Document template is offered to members of the Digital Project Manager community.",
+      "detail_summary": "Readers are invited to join the DPM membership to access a ready‑made Project Initiation Document template, along with a filled‑in sample. Membership provides mentorship, networking, and ongoing resources for career growth. Pro members can sign in to unlock the template. The offer emphasizes that the template is designed to be simple yet comprehensive for digital project management contexts.",
+      "search_queries": [
+        "download PID template",
+        "project initiation document sample",
+        "digital project manager PID template",
+        "where to get a project brief template",
+        "project initiation document membership"
+      ],
+      "category": "resources",
+      "difficulty": "beginner",
+      "keywords": [
+        "Project Initiation Document template",
+        "PID template download",
+        "digital project management template",
+        "project brief template",
+        "project charter template",
+        "DPM membership",
+        "project management resources",
+        "project initiation sample"
+      ],
+      "tags": [
+        "template",
+        "pid",
+        "membership"
+      ],
+      "topic_file": "topics/pid-template-availability.md",
+      "metadata_file": "metadata/pid-template-availability.json"
+    },
+    {
+      "title": "Author Bio – Maik Stettner",
+      "slug": "author-biography-maik-stettner",
+      "overview": "Maik Stettner is a senior digital project manager with experience across various industries and notable client engagements.",
+      "detail_summary": "Maik Stettner leads the FCV team of project managers and business analysts, focusing on delivering initiatives on time, on budget, and with high quality. His background spans digital platforms such as websites, mobile apps, healthcare, video games, and software solutions. Internationally, he has led full project lifecycles for major clients including Volkswagen, Sony, Microsoft, Nintendo, BC Pension Corporation, Sound Transit, BC Assessment, Fraser Health, and the Insurance Corporation of BC (ICBC). Maik is recognized for his dedication to excellence and client satisfaction.",
+      "search_queries": [
+        "who is Maik Stettner",
+        "Maik Stettner biography",
+        "FCV project manager Maik Stettner",
+        "projects led by Maik Stettner",
+        "Maik Stettner digital project management experience"
+      ],
+      "category": "people",
+      "difficulty": "beginner",
+      "keywords": [
+        "Maik Stettner",
+        "FCV project manager",
+        "digital project management",
+        "project management biography",
+        "project management experience",
+        "client portfolio",
+        "Volkswagen project",
+        "Sony project",
+        "Microsoft project",
+        "Nintendo project",
+        "BC Pension Corporation",
+        "Sound Transit",
+        "BC Assessment",
+        "Fraser Health",
+        "ICBC",
+        "digital transformation",
+        "project lifecycle"
+      ],
+      "tags": [
+        "author",
+        "biography",
+        "project-management"
+      ],
+      "topic_file": "topics/author-biography-maik-stettner.md",
+      "metadata_file": "metadata/author-biography-maik-stettner.json"
+    },
+    {
+      "title": "Project Management Software Promotional Message",
+      "slug": "project-management-software-promo",
+      "overview": "A brief promotional call‑to‑action encouraging readers to try a project management software for free.",
+      "detail_summary": "The article includes a marketing snippet that highlights a project management software designed to keep teams collaborating as if they were co‑located. It presents a free trial invitation and a “Try for Free” button.",
+      "search_queries": [
+        "project management software free trial",
+        "team collaboration tool try for free",
+        "software that keeps teams going",
+        "project management SaaS free trial"
+      ],
+      "category": "marketing",
+      "difficulty": "beginner",
+      "keywords": [
+        "project management software",
+        "team collaboration tool",
+        "free trial",
+        "project management SaaS",
+        "software that keeps teams going",
+        "collaboration as if co‑located",
+        "try for free"
+      ],
+      "tags": [
+        "marketing",
+        "software",
+        "promotion"
+      ],
+      "topic_file": "topics/project-management-software-promo.md",
+      "metadata_file": "metadata/project-management-software-promo.json"
+    },
+    {
+      "title": "Website Cookie Consent Notice",
+      "slug": "website-cookie-consent-notice",
+      "overview": "A notice informing users that the website uses cookies and requesting consent.",
+      "detail_summary": "At the bottom of the page, a cookie policy banner informs visitors that cookies are used to improve the experience. Users are asked to click “accept” to consent to cookie usage. The banner includes a link to the Cookies policy.",
+      "search_queries": [
+        "website cookie consent notice",
+        "how to accept cookies on the site",
+        "cookies policy link",
+        "do I need to click accept for cookies"
+      ],
+      "category": "legal",
+      "difficulty": "beginner",
+      "keywords": [
+        "cookie consent",
+        "website cookies",
+        "cookies policy",
+        "accept cookies",
+        "privacy notice",
+        "site improvement",
+        "cookie banner"
+      ],
+      "tags": [
+        "privacy",
+        "cookie",
+        "website"
+      ],
+      "topic_file": "topics/website-cookie-consent-notice.md",
+      "metadata_file": "metadata/website-cookie-consent-notice.json"
+    },
+    {
+      "title": "Related Posts Section Overview",
+      "slug": "related-posts-overview",
+      "overview": "A list of related articles and posts displayed at the end of the page.",
+      "detail_summary": "The page includes a “Related Posts” section that promotes additional content such as “The 2020 State of Digital Project Management,” “How To Use Project Milestones To Keep Your Projects On Track,” “5 Ways to Improve Your Digital Project Management Process,” and others. Each entry includes author name and date.",
+      "search_queries": [
+        "what related posts are listed on the PID page",
+        "digital project management articles by Ben Aston",
+        "project milestones keep projects on track article",
+        "how to improve digital project management process"
+      ],
+      "category": "content",
+      "difficulty": "beginner",
+      "keywords": [
+        "related posts",
+        "digital project management articles",
+        "project milestones article",
+        "project management process improvement",
+        "sprint retrospectives",
+        "Ben Aston article",
+        "John Carter article",
+        "Nuala Turner article",
+        "blog post list"
+      ],
+      "tags": [
+        "content",
+        "related"
+      ],
+      "topic_file": "topics/related-posts-overview.md",
+      "metadata_file": "metadata/related-posts-overview.json"
+    },
+    {
+      "title": "Comment Section Notice",
+      "slug": "comment-section-notice",
+      "overview": "The page includes a single comment from a reader and a standard Akismet spam notice.",
+      "detail_summary": "A reader named “halil ibrahim dural” left a comment on 19/11/2018 at 11:57 pm. The site uses Akismet to reduce spam, and there is a note explaining how comment data is processed. This section indicates that the article allows user interaction.",
+      "search_queries": [
+        "who commented on the PID article",
+        "Akismet comment processing notice",
+        "how to leave a comment on the page"
+      ],
+      "category": "community",
+      "difficulty": "beginner",
+      "keywords": [
+        "comment section",
+        "user comment",
+        "Akismet",
+        "spam reduction",
+        "comment data processing",
+        "reader feedback"
+      ],
+      "tags": [
+        "comment",
+        "user-feedback"
+      ],
+      "topic_file": "topics/comment-section-notice.md",
+      "metadata_file": "metadata/comment-section-notice.json"
+    },
+    {
+      "title": "Newsletter Subscription Prompt",
+      "slug": "newsletter-subscription-prompt",
+      "overview": "A call‑to‑action inviting visitors to subscribe to updates via email.",
+      "detail_summary": "At the bottom of the page, there is a section titled “Subscribe to our updates” with a “SIGN UP” button, encouraging readers to join the mailing list for news, tools, and resources related to digital project management.",
+      "search_queries": [
+        "how to subscribe to updates on the site",
+        "newsletter sign up button",
+        "digital project manager newsletter"
+      ],
+      "category": "marketing",
+      "difficulty": "beginner",
+      "keywords": [
+        "newsletter subscription",
+        "email updates",
+        "sign up",
+        "digital project management newsletter",
+        "subscribe"
+      ],
+      "tags": [
+        "marketing",
+        "newsletter"
+      ],
+      "topic_file": "topics/newsletter-subscription-prompt.md",
+      "metadata_file": "metadata/newsletter-subscription-prompt.json"
+    }
+  ]
+}
