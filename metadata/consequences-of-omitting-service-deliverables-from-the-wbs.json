@@ -1,0 +1,73 @@
+{
+  "title": "Consequences of omitting service deliverables from the WBS",
+  "slug": "consequences-of-omitting-service-deliverables-from-the-wbs",
+  "overview": "Describes how omitted deliverables in a service WBS can cause late planning changes.",
+  "detailed_summary": "If a service-related deliverable such as Minister is left off the wedding planning WBS, the activities for engaging that deliverable may also be left out of planning and budgeting until the last minute. This kind of oversight likely drives schedule and cost change requests.",
+  "content": "Service WBS omissions can have direct downstream effects. When a needed deliverable is absent from the WBS, the corresponding activities, costs, and planning assumptions may also be absent from the schedule and budget. The result is often late discovery, urgent replanning, and formal change requests affecting schedule and cost.",
+  "keywords": [
+    "omitted service deliverables",
+    "late change requests",
+    "schedule impact",
+    "cost impact"
+  ],
+  "tags": [
+    "WBS",
+    "warning",
+    "service project",
+    "change management"
+  ],
+  "related_topics": [
+    "people-as-deliverables-in-a-service-wbs",
+    "never-assume-unstated-deliverables-are-understood",
+    "change-management-impact-on-wbs-schedule-and-budget"
+  ],
+  "relationships": [
+    "WBS omissions propagate into schedule and budget omissions"
+  ],
+  "parent_topic": "Wedding Planning Service WBS",
+  "difficulty": "intermediate",
+  "category": "warning",
+  "sub_category": "omission impact",
+  "prerequisites": [
+    "service-project-wbs-concept"
+  ],
+  "dependencies": [],
+  "search_queries": [
+    "What happens if a service deliverable is missing from the WBS?",
+    "Why do omitted WBS items cause change requests?",
+    "How do WBS omissions affect schedule and cost?"
+  ],
+  "common_questions": [
+    "Can leaving out one deliverable really affect the schedule?",
+    "Why do omitted service items show up late?",
+    "How does the WBS prevent budget surprises?"
+  ],
+  "can_answer": [
+    "How WBS omissions create downstream planning issues",
+    "Why late changes happen when deliverables are omitted"
+  ],
+  "examples": [
+    "Omitting the Minister from the WBS may lead to last-minute effort and budget changes to secure that service."
+  ],
+  "best_practices": [
+    "Review service WBS branches for all customer-facing and enabling deliverables.",
+    "Use omitted-item reviews before baselining schedule and budget."
+  ],
+  "warnings": [
+    "Even a seemingly obvious omitted deliverable can cause formal schedule and cost changes."
+  ],
+  "limitations": [
+    "Not all late changes come from WBS omissions, but omissions are a common preventable cause."
+  ],
+  "troubleshooting": [
+    "If an unexpected service need emerges late, check whether it was absent from the WBS and related planning documents."
+  ],
+  "decision_rules": [
+    "If a deliverable would require planning, budgeting, or coordination, include it explicitly in the WBS to avoid late change requests."
+  ],
+  "commands": [],
+  "configurations": [],
+  "api_references": [],
+  "ui_elements": [],
+  "error_messages": []
+}
